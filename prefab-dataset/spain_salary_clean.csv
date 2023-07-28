@@ -1,0 +1,3241 @@
+,year,state,gender,statistic,gross_income_euros
+0,2017,nationwide,both,mean,23646
+1,2016,nationwide,both,mean,23156
+2,2015,nationwide,both,mean,23106
+3,2014,nationwide,both,mean,22858
+4,2013,nationwide,both,mean,22697
+5,2012,nationwide,both,mean,22726
+6,2011,nationwide,both,mean,22899
+7,2010,nationwide,both,mean,22790
+8,2009,nationwide,both,mean,22511
+9,2008,nationwide,both,mean,21883
+10,2017,nationwide,both,10th_percentile,8583
+11,2016,nationwide,both,10th_percentile,8095
+12,2015,nationwide,both,10th_percentile,7962
+13,2014,nationwide,both,10th_percentile,7626
+14,2013,nationwide,both,10th_percentile,7692
+15,2012,nationwide,both,10th_percentile,7979
+16,2011,nationwide,both,10th_percentile,8402
+17,2010,nationwide,both,10th_percentile,8643
+18,2009,nationwide,both,10th_percentile,8723
+19,2008,nationwide,both,10th_percentile,8903
+20,2017,nationwide,both,lower_quartile,13897
+21,2016,nationwide,both,lower_quartile,13369
+22,2015,nationwide,both,lower_quartile,13414
+23,2014,nationwide,both,lower_quartile,13217
+24,2013,nationwide,both,lower_quartile,13039
+25,2012,nationwide,both,lower_quartile,13369
+26,2011,nationwide,both,lower_quartile,13553
+27,2010,nationwide,both,lower_quartile,13602
+28,2009,nationwide,both,lower_quartile,13587
+29,2008,nationwide,both,lower_quartile,13342
+30,2017,nationwide,both,median,19830
+31,2016,nationwide,both,median,19432
+32,2015,nationwide,both,median,19466
+33,2014,nationwide,both,median,19263
+34,2013,nationwide,both,median,19029
+35,2012,nationwide,both,median,19040
+36,2011,nationwide,both,median,19303
+37,2010,nationwide,both,median,19017
+38,2009,nationwide,both,median,18803
+39,2008,nationwide,both,median,18244
+40,2017,nationwide,both,upper_quartile,29628
+41,2016,nationwide,both,upper_quartile,29191
+42,2015,nationwide,both,upper_quartile,29163
+43,2014,nationwide,both,upper_quartile,28782
+44,2013,nationwide,both,upper_quartile,28563
+45,2012,nationwide,both,upper_quartile,28395
+46,2011,nationwide,both,upper_quartile,28658
+47,2010,nationwide,both,upper_quartile,28255
+48,2009,nationwide,both,upper_quartile,28024
+49,2008,nationwide,both,upper_quartile,26874
+50,2017,nationwide,both,90th_percentile,42454
+51,2016,nationwide,both,90th_percentile,41855
+52,2015,nationwide,both,90th_percentile,41648
+53,2014,nationwide,both,90th_percentile,41350
+54,2013,nationwide,both,90th_percentile,41108
+55,2012,nationwide,both,90th_percentile,40807
+56,2011,nationwide,both,90th_percentile,40680
+57,2010,nationwide,both,90th_percentile,40811
+58,2009,nationwide,both,90th_percentile,40123
+59,2008,nationwide,both,90th_percentile,38558
+60,2017,nationwide,female,mean,20607
+61,2016,nationwide,female,mean,20131
+62,2015,nationwide,female,mean,20051
+63,2014,nationwide,female,mean,19744
+64,2013,nationwide,female,mean,19514
+65,2012,nationwide,female,mean,19537
+66,2011,nationwide,female,mean,19767
+67,2010,nationwide,female,mean,19735
+68,2009,nationwide,female,mean,19502
+69,2008,nationwide,female,mean,18910
+70,2017,nationwide,female,10th_percentile,7161
+71,2016,nationwide,female,10th_percentile,6808
+72,2015,nationwide,female,10th_percentile,6630
+73,2014,nationwide,female,10th_percentile,6205
+74,2013,nationwide,female,10th_percentile,6457
+75,2012,nationwide,female,10th_percentile,6750
+76,2011,nationwide,female,10th_percentile,6996
+77,2010,nationwide,female,10th_percentile,7001
+78,2009,nationwide,female,10th_percentile,7027
+79,2008,nationwide,female,10th_percentile,7088
+80,2017,nationwide,female,lower_quartile,11567
+81,2016,nationwide,female,lower_quartile,11129
+82,2015,nationwide,female,lower_quartile,10993
+83,2014,nationwide,female,lower_quartile,10900
+84,2013,nationwide,female,lower_quartile,10801
+85,2012,nationwide,female,lower_quartile,11153
+86,2011,nationwide,female,lower_quartile,11376
+87,2010,nationwide,female,lower_quartile,11462
+88,2009,nationwide,female,lower_quartile,11324
+89,2008,nationwide,female,lower_quartile,11038
+90,2017,nationwide,female,median,17214
+91,2016,nationwide,female,median,16831
+92,2015,nationwide,female,median,16825
+93,2014,nationwide,female,median,16771
+94,2013,nationwide,female,median,16452
+95,2012,nationwide,female,median,16524
+96,2011,nationwide,female,median,16796
+97,2010,nationwide,female,median,16536
+98,2009,nationwide,female,median,16433
+99,2008,nationwide,female,median,15886
+100,2017,nationwide,female,upper_quartile,26174
+101,2016,nationwide,female,upper_quartile,25711
+102,2015,nationwide,female,upper_quartile,25562
+103,2014,nationwide,female,upper_quartile,25134
+104,2013,nationwide,female,upper_quartile,24568
+105,2012,nationwide,female,upper_quartile,24505
+106,2011,nationwide,female,upper_quartile,25038
+107,2010,nationwide,female,upper_quartile,24751
+108,2009,nationwide,female,upper_quartile,24556
+109,2008,nationwide,female,upper_quartile,23446
+110,2017,nationwide,female,90th_percentile,37896
+111,2016,nationwide,female,90th_percentile,37167
+112,2015,nationwide,female,90th_percentile,37098
+113,2014,nationwide,female,90th_percentile,36627
+114,2013,nationwide,female,90th_percentile,36068
+115,2012,nationwide,female,90th_percentile,35506
+116,2011,nationwide,female,90th_percentile,35871
+117,2010,nationwide,female,90th_percentile,36249
+118,2009,nationwide,female,90th_percentile,36009
+119,2008,nationwide,female,90th_percentile,34397
+120,2017,nationwide,male,mean,26391
+121,2016,nationwide,male,mean,25924
+122,2015,nationwide,male,mean,25992
+123,2014,nationwide,male,mean,25727
+124,2013,nationwide,male,mean,25675
+125,2012,nationwide,male,mean,25682
+126,2011,nationwide,male,mean,25667
+127,2010,nationwide,male,mean,25479
+128,2009,nationwide,male,mean,25001
+129,2008,nationwide,male,mean,24203
+130,2017,nationwide,male,10th_percentile,11393
+131,2016,nationwide,male,10th_percentile,10760
+132,2015,nationwide,male,10th_percentile,11101
+133,2014,nationwide,male,10th_percentile,10242
+134,2013,nationwide,male,10th_percentile,10020
+135,2012,nationwide,male,10th_percentile,10552
+136,2011,nationwide,male,10th_percentile,10973
+137,2010,nationwide,male,10th_percentile,11391
+138,2009,nationwide,male,10th_percentile,11552
+139,2008,nationwide,male,10th_percentile,11594
+140,2017,nationwide,male,lower_quartile,16326
+141,2016,nationwide,male,lower_quartile,15832
+142,2015,nationwide,male,lower_quartile,15962
+143,2014,nationwide,male,lower_quartile,15688
+144,2013,nationwide,male,lower_quartile,15555
+145,2012,nationwide,male,lower_quartile,15705
+146,2011,nationwide,male,lower_quartile,15718
+147,2010,nationwide,male,lower_quartile,15770
+148,2009,nationwide,male,lower_quartile,15545
+149,2008,nationwide,male,lower_quartile,15160
+150,2017,nationwide,male,median,21970
+151,2016,nationwide,male,median,21626
+152,2015,nationwide,male,median,21740
+153,2014,nationwide,male,median,21528
+154,2013,nationwide,male,median,21371
+155,2012,nationwide,male,median,21425
+156,2011,nationwide,male,median,21487
+157,2010,nationwide,male,median,21206
+158,2009,nationwide,male,median,20730
+159,2008,nationwide,male,median,20057
+160,2017,nationwide,male,upper_quartile,32512
+161,2016,nationwide,male,upper_quartile,32178
+162,2015,nationwide,male,upper_quartile,32194
+163,2014,nationwide,male,upper_quartile,31837
+164,2013,nationwide,male,upper_quartile,32114
+165,2012,nationwide,male,upper_quartile,31866
+166,2011,nationwide,male,upper_quartile,31874
+167,2010,nationwide,male,upper_quartile,31164
+168,2009,nationwide,male,upper_quartile,30678
+169,2008,nationwide,male,upper_quartile,29385
+170,2017,nationwide,male,90th_percentile,45813
+171,2016,nationwide,male,90th_percentile,45543
+172,2015,nationwide,male,90th_percentile,45148
+173,2014,nationwide,male,90th_percentile,45259
+174,2013,nationwide,male,90th_percentile,45516
+175,2012,nationwide,male,90th_percentile,45494
+176,2011,nationwide,male,90th_percentile,44848
+177,2010,nationwide,male,90th_percentile,44725
+178,2009,nationwide,male,90th_percentile,43406
+179,2008,nationwide,male,90th_percentile,41792
+180,2017,Andalucía,both,mean,21404
+181,2016,Andalucía,both,mean,21268
+182,2015,Andalucía,both,mean,21381
+183,2014,Andalucía,both,mean,20840
+184,2013,Andalucía,both,mean,20782
+185,2012,Andalucía,both,mean,20891
+186,2011,Andalucía,both,mean,21350
+187,2010,Andalucía,both,mean,20964
+188,2009,Andalucía,both,mean,20906
+189,2008,Andalucía,both,mean,20138
+190,2017,Andalucía,both,10th_percentile,7836
+191,2016,Andalucía,both,10th_percentile,7427
+192,2015,Andalucía,both,10th_percentile,7438
+193,2014,Andalucía,both,10th_percentile,6741
+194,2013,Andalucía,both,10th_percentile,7066
+195,2012,Andalucía,both,10th_percentile,7393
+196,2011,Andalucía,both,10th_percentile,7440
+197,2010,Andalucía,both,10th_percentile,7418
+198,2009,Andalucía,both,10th_percentile,7757
+199,2008,Andalucía,both,10th_percentile,8153
+200,2017,Andalucía,both,lower_quartile,12735
+201,2016,Andalucía,both,lower_quartile,12212
+202,2015,Andalucía,both,lower_quartile,12454
+203,2014,Andalucía,both,lower_quartile,11937
+204,2013,Andalucía,both,lower_quartile,12012
+205,2012,Andalucía,both,lower_quartile,12321
+206,2011,Andalucía,both,lower_quartile,12510
+207,2010,Andalucía,both,lower_quartile,12556
+208,2009,Andalucía,both,lower_quartile,12816
+209,2008,Andalucía,both,lower_quartile,12906
+210,2017,Andalucía,both,median,18251
+211,2016,Andalucía,both,median,18051
+212,2015,Andalucía,both,median,18101
+213,2014,Andalucía,both,median,18034
+214,2013,Andalucía,both,median,17722
+215,2012,Andalucía,both,median,17910
+216,2011,Andalucía,both,median,18193
+217,2010,Andalucía,both,median,17565
+218,2009,Andalucía,both,median,17866
+219,2008,Andalucía,both,median,17371
+220,2017,Andalucía,both,upper_quartile,26668
+221,2016,Andalucía,both,upper_quartile,26862
+222,2015,Andalucía,both,upper_quartile,27048
+223,2014,Andalucía,both,upper_quartile,26129
+224,2013,Andalucía,both,upper_quartile,26357
+225,2012,Andalucía,both,upper_quartile,25948
+226,2011,Andalucía,both,upper_quartile,26681
+227,2010,Andalucía,both,upper_quartile,25569
+228,2009,Andalucía,both,upper_quartile,26036
+229,2008,Andalucía,both,upper_quartile,24537
+230,2017,Andalucía,both,90th_percentile,38260
+231,2016,Andalucía,both,90th_percentile,38731
+232,2015,Andalucía,both,90th_percentile,39121
+233,2014,Andalucía,both,90th_percentile,37835
+234,2013,Andalucía,both,90th_percentile,38061
+235,2012,Andalucía,both,90th_percentile,37291
+236,2011,Andalucía,both,90th_percentile,38761
+237,2010,Andalucía,both,90th_percentile,38447
+238,2009,Andalucía,both,90th_percentile,37655
+239,2008,Andalucía,both,90th_percentile,35105
+240,2017,Andalucía,female,mean,18287
+241,2016,Andalucía,female,mean,18177
+242,2015,Andalucía,female,mean,18340
+243,2014,Andalucía,female,mean,17576
+244,2013,Andalucía,female,mean,17690
+245,2012,Andalucía,female,mean,17828
+246,2011,Andalucía,female,mean,18389
+247,2010,Andalucía,female,mean,17921
+248,2009,Andalucía,female,mean,18371
+249,2008,Andalucía,female,mean,17298
+250,2017,Andalucía,female,10th_percentile,6598
+251,2016,Andalucía,female,10th_percentile,6077
+252,2015,Andalucía,female,10th_percentile,6117
+253,2014,Andalucía,female,10th_percentile,5014
+254,2013,Andalucía,female,10th_percentile,5975
+255,2012,Andalucía,female,10th_percentile,6335
+256,2011,Andalucía,female,10th_percentile,6168
+257,2010,Andalucía,female,10th_percentile,6184
+258,2009,Andalucía,female,10th_percentile,6261
+259,2008,Andalucía,female,10th_percentile,6275
+260,2017,Andalucía,female,lower_quartile,9907
+261,2016,Andalucía,female,lower_quartile,9826
+262,2015,Andalucía,female,lower_quartile,9714
+263,2014,Andalucía,female,lower_quartile,9096
+264,2013,Andalucía,female,lower_quartile,9184
+265,2012,Andalucía,female,lower_quartile,9926
+266,2011,Andalucía,female,lower_quartile,9858
+267,2010,Andalucía,female,lower_quartile,9967
+268,2009,Andalucía,female,lower_quartile,10054
+269,2008,Andalucía,female,lower_quartile,9859
+270,2017,Andalucía,female,median,15368
+271,2016,Andalucía,female,median,15203
+272,2015,Andalucía,female,median,15295
+273,2014,Andalucía,female,median,15044
+274,2013,Andalucía,female,median,15029
+275,2012,Andalucía,female,median,15480
+276,2011,Andalucía,female,median,15578
+277,2010,Andalucía,female,median,14845
+278,2009,Andalucía,female,median,15963
+279,2008,Andalucía,female,median,15137
+280,2017,Andalucía,female,upper_quartile,23772
+281,2016,Andalucía,female,upper_quartile,23822
+282,2015,Andalucía,female,upper_quartile,23679
+283,2014,Andalucía,female,upper_quartile,23211
+284,2013,Andalucía,female,upper_quartile,23188
+285,2012,Andalucía,female,upper_quartile,22931
+286,2011,Andalucía,female,upper_quartile,23973
+287,2010,Andalucía,female,upper_quartile,22617
+288,2009,Andalucía,female,upper_quartile,23749
+289,2008,Andalucía,female,upper_quartile,22198
+290,2017,Andalucía,female,90th_percentile,33912
+291,2016,Andalucía,female,90th_percentile,34205
+292,2015,Andalucía,female,90th_percentile,34389
+293,2014,Andalucía,female,90th_percentile,33157
+294,2013,Andalucía,female,90th_percentile,32818
+295,2012,Andalucía,female,90th_percentile,32126
+296,2011,Andalucía,female,90th_percentile,34038
+297,2010,Andalucía,female,90th_percentile,33623
+298,2009,Andalucía,female,90th_percentile,33967
+299,2008,Andalucía,female,90th_percentile,31190
+300,2017,Andalucía,male,mean,24175
+301,2016,Andalucía,male,mean,24026
+302,2015,Andalucía,male,mean,24200
+303,2014,Andalucía,male,mean,23541
+304,2013,Andalucía,male,mean,23565
+305,2012,Andalucía,male,mean,23592
+306,2011,Andalucía,male,mean,23815
+307,2010,Andalucía,male,mean,23463
+308,2009,Andalucía,male,mean,22908
+309,2008,Andalucía,male,mean,22108
+310,2017,Andalucía,male,10th_percentile,10159
+311,2016,Andalucía,male,10th_percentile,9284
+312,2015,Andalucía,male,10th_percentile,10031
+313,2014,Andalucía,male,10th_percentile,9586
+314,2013,Andalucía,male,10th_percentile,9072
+315,2012,Andalucía,male,10th_percentile,9700
+316,2011,Andalucía,male,10th_percentile,10277
+317,2010,Andalucía,male,10th_percentile,10422
+318,2009,Andalucía,male,10th_percentile,10694
+319,2008,Andalucía,male,10th_percentile,11451
+320,2017,Andalucía,male,lower_quartile,15680
+321,2016,Andalucía,male,lower_quartile,15009
+322,2015,Andalucía,male,lower_quartile,15183
+323,2014,Andalucía,male,lower_quartile,15002
+324,2013,Andalucía,male,lower_quartile,14737
+325,2012,Andalucía,male,lower_quartile,14833
+326,2011,Andalucía,male,lower_quartile,14839
+327,2010,Andalucía,male,lower_quartile,15000
+328,2009,Andalucía,male,lower_quartile,14880
+329,2008,Andalucía,male,lower_quartile,14757
+330,2017,Andalucía,male,median,20410
+331,2016,Andalucía,male,median,20168
+332,2015,Andalucía,male,median,20109
+333,2014,Andalucía,male,median,19774
+334,2013,Andalucía,male,median,19750
+335,2012,Andalucía,male,median,19733
+336,2011,Andalucía,male,median,19772
+337,2010,Andalucía,male,median,19328
+338,2009,Andalucía,male,median,19125
+339,2008,Andalucía,male,median,18513
+340,2017,Andalucía,male,upper_quartile,29443
+341,2016,Andalucía,male,upper_quartile,29660
+342,2015,Andalucía,male,upper_quartile,30000
+343,2014,Andalucía,male,upper_quartile,28752
+344,2013,Andalucía,male,upper_quartile,29387
+345,2012,Andalucía,male,upper_quartile,28777
+346,2011,Andalucía,male,upper_quartile,29326
+347,2010,Andalucía,male,upper_quartile,28035
+348,2009,Andalucía,male,upper_quartile,28186
+349,2008,Andalucía,male,upper_quartile,26005
+350,2017,Andalucía,male,90th_percentile,41715
+351,2016,Andalucía,male,90th_percentile,42694
+352,2015,Andalucía,male,90th_percentile,43035
+353,2014,Andalucía,male,90th_percentile,41329
+354,2013,Andalucía,male,90th_percentile,42283
+355,2012,Andalucía,male,90th_percentile,41464
+356,2011,Andalucía,male,90th_percentile,42039
+357,2010,Andalucía,male,90th_percentile,41776
+358,2009,Andalucía,male,90th_percentile,39934
+359,2008,Andalucía,male,90th_percentile,37702
+360,2017,Aragón,both,mean,23039
+361,2016,Aragón,both,mean,22248
+362,2015,Aragón,both,mean,22327
+363,2014,Aragón,both,mean,22095
+364,2013,Aragón,both,mean,22054
+365,2012,Aragón,both,mean,22103
+366,2011,Aragón,both,mean,22333
+367,2010,Aragón,both,mean,22316
+368,2009,Aragón,both,mean,22133
+369,2008,Aragón,both,mean,21594
+370,2017,Aragón,both,10th_percentile,9082
+371,2016,Aragón,both,10th_percentile,7896
+372,2015,Aragón,both,10th_percentile,7875
+373,2014,Aragón,both,10th_percentile,7799
+374,2013,Aragón,both,10th_percentile,7735
+375,2012,Aragón,both,10th_percentile,8216
+376,2011,Aragón,both,10th_percentile,8863
+377,2010,Aragón,both,10th_percentile,8683
+378,2009,Aragón,both,10th_percentile,8641
+379,2008,Aragón,both,10th_percentile,9051
+380,2017,Aragón,both,lower_quartile,14438
+381,2016,Aragón,both,lower_quartile,13664
+382,2015,Aragón,both,lower_quartile,13424
+383,2014,Aragón,both,lower_quartile,13853
+384,2013,Aragón,both,lower_quartile,13415
+385,2012,Aragón,both,lower_quartile,13688
+386,2011,Aragón,both,lower_quartile,14044
+387,2010,Aragón,both,lower_quartile,14176
+388,2009,Aragón,both,lower_quartile,14051
+389,2008,Aragón,both,lower_quartile,13875
+390,2017,Aragón,both,median,20198
+391,2016,Aragón,both,median,19417
+392,2015,Aragón,both,median,19589
+393,2014,Aragón,both,median,19539
+394,2013,Aragón,both,median,19094
+395,2012,Aragón,both,median,19094
+396,2011,Aragón,both,median,19646
+397,2010,Aragón,both,median,19552
+398,2009,Aragón,both,median,19413
+399,2008,Aragón,both,median,19084
+400,2017,Aragón,both,upper_quartile,28708
+401,2016,Aragón,both,upper_quartile,27990
+402,2015,Aragón,both,upper_quartile,28144
+403,2014,Aragón,both,upper_quartile,27934
+404,2013,Aragón,both,upper_quartile,27796
+405,2012,Aragón,both,upper_quartile,27034
+406,2011,Aragón,both,upper_quartile,27779
+407,2010,Aragón,both,upper_quartile,27478
+408,2009,Aragón,both,upper_quartile,27052
+409,2008,Aragón,both,upper_quartile,26580
+410,2017,Aragón,both,90th_percentile,39100
+411,2016,Aragón,both,90th_percentile,38305
+412,2015,Aragón,both,90th_percentile,39085
+413,2014,Aragón,both,90th_percentile,37273
+414,2013,Aragón,both,90th_percentile,38702
+415,2012,Aragón,both,90th_percentile,38756
+416,2011,Aragón,both,90th_percentile,38723
+417,2010,Aragón,both,90th_percentile,39028
+418,2009,Aragón,both,90th_percentile,38392
+419,2008,Aragón,both,90th_percentile,36579
+420,2017,Aragón,female,mean,19677
+421,2016,Aragón,female,mean,18766
+422,2015,Aragón,female,mean,18950
+423,2014,Aragón,female,mean,18764
+424,2013,Aragón,female,mean,18701
+425,2012,Aragón,female,mean,18042
+426,2011,Aragón,female,mean,18831
+427,2010,Aragón,female,mean,18843
+428,2009,Aragón,female,mean,18861
+429,2008,Aragón,female,mean,17843
+430,2017,Aragón,female,10th_percentile,7213
+431,2016,Aragón,female,10th_percentile,6228
+432,2015,Aragón,female,10th_percentile,6173
+433,2014,Aragón,female,10th_percentile,6514
+434,2013,Aragón,female,10th_percentile,6535
+435,2012,Aragón,female,10th_percentile,6610
+436,2011,Aragón,female,10th_percentile,7418
+437,2010,Aragón,female,10th_percentile,7200
+438,2009,Aragón,female,10th_percentile,7114
+439,2008,Aragón,female,10th_percentile,7210
+440,2017,Aragón,female,lower_quartile,11626
+441,2016,Aragón,female,lower_quartile,10237
+442,2015,Aragón,female,lower_quartile,10444
+443,2014,Aragón,female,lower_quartile,11000
+444,2013,Aragón,female,lower_quartile,10941
+445,2012,Aragón,female,lower_quartile,10549
+446,2011,Aragón,female,lower_quartile,11502
+447,2010,Aragón,female,lower_quartile,11586
+448,2009,Aragón,female,lower_quartile,11323
+449,2008,Aragón,female,lower_quartile,11113
+450,2017,Aragón,female,median,16812
+451,2016,Aragón,female,median,16411
+452,2015,Aragón,female,median,16324
+453,2014,Aragón,female,median,16691
+454,2013,Aragón,female,median,16160
+455,2012,Aragón,female,median,15734
+456,2011,Aragón,female,median,16206
+457,2010,Aragón,female,median,16412
+458,2009,Aragón,female,median,15878
+459,2008,Aragón,female,median,15608
+460,2017,Aragón,female,upper_quartile,24684
+461,2016,Aragón,female,upper_quartile,24084
+462,2015,Aragón,female,upper_quartile,24153
+463,2014,Aragón,female,upper_quartile,23716
+464,2013,Aragón,female,upper_quartile,23165
+465,2012,Aragón,female,upper_quartile,22199
+466,2011,Aragón,female,upper_quartile,23769
+467,2010,Aragón,female,upper_quartile,23033
+468,2009,Aragón,female,upper_quartile,22993
+469,2008,Aragón,female,upper_quartile,21890
+470,2017,Aragón,female,90th_percentile,34703
+471,2016,Aragón,female,90th_percentile,34140
+472,2015,Aragón,female,90th_percentile,34653
+473,2014,Aragón,female,90th_percentile,33023
+474,2013,Aragón,female,90th_percentile,33057
+475,2012,Aragón,female,90th_percentile,32332
+476,2011,Aragón,female,90th_percentile,33769
+477,2010,Aragón,female,90th_percentile,33031
+478,2009,Aragón,female,90th_percentile,34221
+479,2008,Aragón,female,90th_percentile,32080
+480,2017,Aragón,male,mean,25878
+481,2016,Aragón,male,mean,25326
+482,2015,Aragón,male,mean,25555
+483,2014,Aragón,male,mean,25118
+484,2013,Aragón,male,mean,25128
+485,2012,Aragón,male,mean,25766
+486,2011,Aragón,male,mean,25258
+487,2010,Aragón,male,mean,25263
+488,2009,Aragón,male,mean,24787
+489,2008,Aragón,male,mean,24272
+490,2017,Aragón,male,10th_percentile,12523
+491,2016,Aragón,male,10th_percentile,11973
+492,2015,Aragón,male,10th_percentile,11948
+493,2014,Aragón,male,10th_percentile,10600
+494,2013,Aragón,male,10th_percentile,10164
+495,2012,Aragón,male,10th_percentile,12249
+496,2011,Aragón,male,10th_percentile,11974
+497,2010,Aragón,male,10th_percentile,11972
+498,2009,Aragón,male,10th_percentile,12760
+499,2008,Aragón,male,10th_percentile,12420
+500,2017,Aragón,male,lower_quartile,17363
+501,2016,Aragón,male,lower_quartile,16733
+502,2015,Aragón,male,lower_quartile,16666
+503,2014,Aragón,male,lower_quartile,16721
+504,2013,Aragón,male,lower_quartile,15883
+505,2012,Aragón,male,lower_quartile,16765
+506,2011,Aragón,male,lower_quartile,16616
+507,2010,Aragón,male,lower_quartile,16806
+508,2009,Aragón,male,lower_quartile,16667
+509,2008,Aragón,male,lower_quartile,16449
+510,2017,Aragón,male,median,22790
+511,2016,Aragón,male,median,22380
+512,2015,Aragón,male,median,22452
+513,2014,Aragón,male,median,22364
+514,2013,Aragón,male,median,22275
+515,2012,Aragón,male,median,22231
+516,2011,Aragón,male,median,22542
+517,2010,Aragón,male,median,22129
+518,2009,Aragón,male,median,21989
+519,2008,Aragón,male,median,21551
+520,2017,Aragón,male,upper_quartile,31121
+521,2016,Aragón,male,upper_quartile,30722
+522,2015,Aragón,male,upper_quartile,30821
+523,2014,Aragón,male,upper_quartile,30385
+524,2013,Aragón,male,upper_quartile,31144
+525,2012,Aragón,male,upper_quartile,30744
+526,2011,Aragón,male,upper_quartile,30535
+527,2010,Aragón,male,upper_quartile,30260
+528,2009,Aragón,male,upper_quartile,30147
+529,2008,Aragón,male,upper_quartile,29441
+530,2017,Aragón,male,90th_percentile,42272
+531,2016,Aragón,male,90th_percentile,42235
+532,2015,Aragón,male,90th_percentile,42874
+533,2014,Aragón,male,90th_percentile,41393
+534,2013,Aragón,male,90th_percentile,43037
+535,2012,Aragón,male,90th_percentile,43906
+536,2011,Aragón,male,90th_percentile,41521
+537,2010,Aragón,male,90th_percentile,42564
+538,2009,Aragón,male,90th_percentile,41492
+539,2008,Aragón,male,90th_percentile,39380
+540,2017,"Asturias, Principado de",both,mean,23609
+541,2016,"Asturias, Principado de",both,mean,23095
+542,2015,"Asturias, Principado de",both,mean,22826
+543,2014,"Asturias, Principado de",both,mean,22045
+544,2013,"Asturias, Principado de",both,mean,21994
+545,2012,"Asturias, Principado de",both,mean,21750
+546,2011,"Asturias, Principado de",both,mean,22286
+547,2010,"Asturias, Principado de",both,mean,22241
+548,2009,"Asturias, Principado de",both,mean,22597
+549,2008,"Asturias, Principado de",both,mean,21805
+550,2017,"Asturias, Principado de",both,10th_percentile,8504
+551,2016,"Asturias, Principado de",both,10th_percentile,7591
+552,2015,"Asturias, Principado de",both,10th_percentile,7591
+553,2014,"Asturias, Principado de",both,10th_percentile,7226
+554,2013,"Asturias, Principado de",both,10th_percentile,7226
+555,2012,"Asturias, Principado de",both,10th_percentile,7538
+556,2011,"Asturias, Principado de",both,10th_percentile,8429
+557,2010,"Asturias, Principado de",both,10th_percentile,8783
+558,2009,"Asturias, Principado de",both,10th_percentile,8547
+559,2008,"Asturias, Principado de",both,10th_percentile,8634
+560,2017,"Asturias, Principado de",both,lower_quartile,13482
+561,2016,"Asturias, Principado de",both,lower_quartile,12923
+562,2015,"Asturias, Principado de",both,lower_quartile,13042
+563,2014,"Asturias, Principado de",both,lower_quartile,12813
+564,2013,"Asturias, Principado de",both,lower_quartile,12401
+565,2012,"Asturias, Principado de",both,lower_quartile,12918
+566,2011,"Asturias, Principado de",both,lower_quartile,13658
+567,2010,"Asturias, Principado de",both,lower_quartile,13651
+568,2009,"Asturias, Principado de",both,lower_quartile,13687
+569,2008,"Asturias, Principado de",both,lower_quartile,13335
+570,2017,"Asturias, Principado de",both,median,20174
+571,2016,"Asturias, Principado de",both,median,20081
+572,2015,"Asturias, Principado de",both,median,19959
+573,2014,"Asturias, Principado de",both,median,19212
+574,2013,"Asturias, Principado de",both,median,19057
+575,2012,"Asturias, Principado de",both,median,18784
+576,2011,"Asturias, Principado de",both,median,19276
+577,2010,"Asturias, Principado de",both,median,19055
+578,2009,"Asturias, Principado de",both,median,19202
+579,2008,"Asturias, Principado de",both,median,18697
+580,2017,"Asturias, Principado de",both,upper_quartile,30079
+581,2016,"Asturias, Principado de",both,upper_quartile,29429
+582,2015,"Asturias, Principado de",both,upper_quartile,29058
+583,2014,"Asturias, Principado de",both,upper_quartile,28363
+584,2013,"Asturias, Principado de",both,upper_quartile,28486
+585,2012,"Asturias, Principado de",both,upper_quartile,27220
+586,2011,"Asturias, Principado de",both,upper_quartile,27940
+587,2010,"Asturias, Principado de",both,upper_quartile,28121
+588,2009,"Asturias, Principado de",both,upper_quartile,28041
+589,2008,"Asturias, Principado de",both,upper_quartile,27084
+590,2017,"Asturias, Principado de",both,90th_percentile,42452
+591,2016,"Asturias, Principado de",both,90th_percentile,41032
+592,2015,"Asturias, Principado de",both,90th_percentile,41847
+593,2014,"Asturias, Principado de",both,90th_percentile,39870
+594,2013,"Asturias, Principado de",both,90th_percentile,39599
+595,2012,"Asturias, Principado de",both,90th_percentile,38796
+596,2011,"Asturias, Principado de",both,90th_percentile,38802
+597,2010,"Asturias, Principado de",both,90th_percentile,38782
+598,2009,"Asturias, Principado de",both,90th_percentile,39907
+599,2008,"Asturias, Principado de",both,90th_percentile,38359
+600,2017,"Asturias, Principado de",female,mean,19426
+601,2016,"Asturias, Principado de",female,mean,19077
+602,2015,"Asturias, Principado de",female,mean,18925
+603,2014,"Asturias, Principado de",female,mean,18400
+604,2013,"Asturias, Principado de",female,mean,18455
+605,2012,"Asturias, Principado de",female,mean,18026
+606,2011,"Asturias, Principado de",female,mean,18721
+607,2010,"Asturias, Principado de",female,mean,18786
+608,2009,"Asturias, Principado de",female,mean,19289
+609,2008,"Asturias, Principado de",female,mean,18452
+610,2017,"Asturias, Principado de",female,10th_percentile,6810
+611,2016,"Asturias, Principado de",female,10th_percentile,6218
+612,2015,"Asturias, Principado de",female,10th_percentile,6410
+613,2014,"Asturias, Principado de",female,10th_percentile,6322
+614,2013,"Asturias, Principado de",female,10th_percentile,6179
+615,2012,"Asturias, Principado de",female,10th_percentile,6518
+616,2011,"Asturias, Principado de",female,10th_percentile,7326
+617,2010,"Asturias, Principado de",female,10th_percentile,7330
+618,2009,"Asturias, Principado de",female,10th_percentile,7337
+619,2008,"Asturias, Principado de",female,10th_percentile,7169
+620,2017,"Asturias, Principado de",female,lower_quartile,11309
+621,2016,"Asturias, Principado de",female,lower_quartile,10772
+622,2015,"Asturias, Principado de",female,lower_quartile,10689
+623,2014,"Asturias, Principado de",female,lower_quartile,10754
+624,2013,"Asturias, Principado de",female,lower_quartile,10196
+625,2012,"Asturias, Principado de",female,lower_quartile,10689
+626,2011,"Asturias, Principado de",female,lower_quartile,11635
+627,2010,"Asturias, Principado de",female,lower_quartile,11465
+628,2009,"Asturias, Principado de",female,lower_quartile,11366
+629,2008,"Asturias, Principado de",female,lower_quartile,10925
+630,2017,"Asturias, Principado de",female,median,15795
+631,2016,"Asturias, Principado de",female,median,15912
+632,2015,"Asturias, Principado de",female,median,15594
+633,2014,"Asturias, Principado de",female,median,15954
+634,2013,"Asturias, Principado de",female,median,15431
+635,2012,"Asturias, Principado de",female,median,15474
+636,2011,"Asturias, Principado de",female,median,15478
+637,2010,"Asturias, Principado de",female,median,15362
+638,2009,"Asturias, Principado de",female,median,15857
+639,2008,"Asturias, Principado de",female,median,15419
+640,2017,"Asturias, Principado de",female,upper_quartile,24169
+641,2016,"Asturias, Principado de",female,upper_quartile,24339
+642,2015,"Asturias, Principado de",female,upper_quartile,23965
+643,2014,"Asturias, Principado de",female,upper_quartile,23331
+644,2013,"Asturias, Principado de",female,upper_quartile,23195
+645,2012,"Asturias, Principado de",female,upper_quartile,21980
+646,2011,"Asturias, Principado de",female,upper_quartile,23333
+647,2010,"Asturias, Principado de",female,upper_quartile,23519
+648,2009,"Asturias, Principado de",female,upper_quartile,24173
+649,2008,"Asturias, Principado de",female,upper_quartile,22456
+650,2017,"Asturias, Principado de",female,90th_percentile,36760
+651,2016,"Asturias, Principado de",female,90th_percentile,35863
+652,2015,"Asturias, Principado de",female,90th_percentile,35044
+653,2014,"Asturias, Principado de",female,90th_percentile,33779
+654,2013,"Asturias, Principado de",female,90th_percentile,34935
+655,2012,"Asturias, Principado de",female,90th_percentile,32734
+656,2011,"Asturias, Principado de",female,90th_percentile,33653
+657,2010,"Asturias, Principado de",female,90th_percentile,34528
+658,2009,"Asturias, Principado de",female,90th_percentile,34023
+659,2008,"Asturias, Principado de",female,90th_percentile,32926
+660,2017,"Asturias, Principado de",male,mean,27849
+661,2016,"Asturias, Principado de",male,mean,27010
+662,2015,"Asturias, Principado de",male,mean,26514
+663,2014,"Asturias, Principado de",male,mean,25322
+664,2013,"Asturias, Principado de",male,mean,25500
+665,2012,"Asturias, Principado de",male,mean,25048
+666,2011,"Asturias, Principado de",male,mean,25346
+667,2010,"Asturias, Principado de",male,mean,25170
+668,2009,"Asturias, Principado de",male,mean,25175
+669,2008,"Asturias, Principado de",male,mean,24306
+670,2017,"Asturias, Principado de",male,10th_percentile,12134
+671,2016,"Asturias, Principado de",male,10th_percentile,11168
+672,2015,"Asturias, Principado de",male,10th_percentile,11210
+673,2014,"Asturias, Principado de",male,10th_percentile,9811
+674,2013,"Asturias, Principado de",male,10th_percentile,8535
+675,2012,"Asturias, Principado de",male,10th_percentile,9892
+676,2011,"Asturias, Principado de",male,10th_percentile,11471
+677,2010,"Asturias, Principado de",male,10th_percentile,11714
+678,2009,"Asturias, Principado de",male,10th_percentile,11323
+679,2008,"Asturias, Principado de",male,10th_percentile,11303
+680,2017,"Asturias, Principado de",male,lower_quartile,17879
+681,2016,"Asturias, Principado de",male,lower_quartile,17190
+682,2015,"Asturias, Principado de",male,lower_quartile,16980
+683,2014,"Asturias, Principado de",male,lower_quartile,16181
+684,2013,"Asturias, Principado de",male,lower_quartile,15770
+685,2012,"Asturias, Principado de",male,lower_quartile,16392
+686,2011,"Asturias, Principado de",male,lower_quartile,16795
+687,2010,"Asturias, Principado de",male,lower_quartile,16680
+688,2009,"Asturias, Principado de",male,lower_quartile,16235
+689,2008,"Asturias, Principado de",male,lower_quartile,15921
+690,2017,"Asturias, Principado de",male,median,24030
+691,2016,"Asturias, Principado de",male,median,23437
+692,2015,"Asturias, Principado de",male,median,23248
+693,2014,"Asturias, Principado de",male,median,22433
+694,2013,"Asturias, Principado de",male,median,22383
+695,2012,"Asturias, Principado de",male,median,21732
+696,2011,"Asturias, Principado de",male,median,22029
+697,2010,"Asturias, Principado de",male,median,21831
+698,2009,"Asturias, Principado de",male,median,21397
+699,2008,"Asturias, Principado de",male,median,21173
+700,2017,"Asturias, Principado de",male,upper_quartile,34780
+701,2016,"Asturias, Principado de",male,upper_quartile,34001
+702,2015,"Asturias, Principado de",male,upper_quartile,34432
+703,2014,"Asturias, Principado de",male,upper_quartile,32512
+704,2013,"Asturias, Principado de",male,upper_quartile,32407
+705,2012,"Asturias, Principado de",male,upper_quartile,31345
+706,2011,"Asturias, Principado de",male,upper_quartile,31127
+707,2010,"Asturias, Principado de",male,upper_quartile,31148
+708,2009,"Asturias, Principado de",male,upper_quartile,30900
+709,2008,"Asturias, Principado de",male,upper_quartile,29593
+710,2017,"Asturias, Principado de",male,90th_percentile,45547
+711,2016,"Asturias, Principado de",male,90th_percentile,44938
+712,2015,"Asturias, Principado de",male,90th_percentile,44130
+713,2014,"Asturias, Principado de",male,90th_percentile,43292
+714,2013,"Asturias, Principado de",male,90th_percentile,43109
+715,2012,"Asturias, Principado de",male,90th_percentile,42573
+716,2011,"Asturias, Principado de",male,90th_percentile,42004
+717,2010,"Asturias, Principado de",male,90th_percentile,41869
+718,2009,"Asturias, Principado de",male,90th_percentile,43018
+719,2008,"Asturias, Principado de",male,90th_percentile,41101
+720,2017,"Balears, Illes",both,mean,22036
+721,2016,"Balears, Illes",both,mean,21478
+722,2015,"Balears, Illes",both,mean,21395
+723,2014,"Balears, Illes",both,mean,21322
+724,2013,"Balears, Illes",both,mean,20776
+725,2012,"Balears, Illes",both,mean,20960
+726,2011,"Balears, Illes",both,mean,21351
+727,2010,"Balears, Illes",both,mean,21613
+728,2009,"Balears, Illes",both,mean,21070
+729,2008,"Balears, Illes",both,mean,20388
+730,2017,"Balears, Illes",both,10th_percentile,9900
+731,2016,"Balears, Illes",both,10th_percentile,8594
+732,2015,"Balears, Illes",both,10th_percentile,8969
+733,2014,"Balears, Illes",both,10th_percentile,9312
+734,2013,"Balears, Illes",both,10th_percentile,8278
+735,2012,"Balears, Illes",both,10th_percentile,8588
+736,2011,"Balears, Illes",both,10th_percentile,9012
+737,2010,"Balears, Illes",both,10th_percentile,9219
+738,2009,"Balears, Illes",both,10th_percentile,9565
+739,2008,"Balears, Illes",both,10th_percentile,9619
+740,2017,"Balears, Illes",both,lower_quartile,14735
+741,2016,"Balears, Illes",both,lower_quartile,13884
+742,2015,"Balears, Illes",both,lower_quartile,14201
+743,2014,"Balears, Illes",both,lower_quartile,14131
+744,2013,"Balears, Illes",both,lower_quartile,13765
+745,2012,"Balears, Illes",both,lower_quartile,13954
+746,2011,"Balears, Illes",both,lower_quartile,14209
+747,2010,"Balears, Illes",both,lower_quartile,14303
+748,2009,"Balears, Illes",both,lower_quartile,14008
+749,2008,"Balears, Illes",both,lower_quartile,13486
+750,2017,"Balears, Illes",both,median,19264
+751,2016,"Balears, Illes",both,median,18847
+752,2015,"Balears, Illes",both,median,18610
+753,2014,"Balears, Illes",both,median,18714
+754,2013,"Balears, Illes",both,median,18030
+755,2012,"Balears, Illes",both,median,18088
+756,2011,"Balears, Illes",both,median,18403
+757,2010,"Balears, Illes",both,median,18406
+758,2009,"Balears, Illes",both,median,17224
+759,2008,"Balears, Illes",both,median,16813
+760,2017,"Balears, Illes",both,upper_quartile,25520
+761,2016,"Balears, Illes",both,upper_quartile,25243
+762,2015,"Balears, Illes",both,upper_quartile,24966
+763,2014,"Balears, Illes",both,upper_quartile,24936
+764,2013,"Balears, Illes",both,upper_quartile,24592
+765,2012,"Balears, Illes",both,upper_quartile,24976
+766,2011,"Balears, Illes",both,upper_quartile,25427
+767,2010,"Balears, Illes",both,upper_quartile,25579
+768,2009,"Balears, Illes",both,upper_quartile,24095
+769,2008,"Balears, Illes",both,upper_quartile,23334
+770,2017,"Balears, Illes",both,90th_percentile,37668
+771,2016,"Balears, Illes",both,90th_percentile,37025
+772,2015,"Balears, Illes",both,90th_percentile,36163
+773,2014,"Balears, Illes",both,90th_percentile,35283
+774,2013,"Balears, Illes",both,90th_percentile,34989
+775,2012,"Balears, Illes",both,90th_percentile,35224
+776,2011,"Balears, Illes",both,90th_percentile,36358
+777,2010,"Balears, Illes",both,90th_percentile,36976
+778,2009,"Balears, Illes",both,90th_percentile,36851
+779,2008,"Balears, Illes",both,90th_percentile,35047
+780,2017,"Balears, Illes",female,mean,20465
+781,2016,"Balears, Illes",female,mean,19702
+782,2015,"Balears, Illes",female,mean,19517
+783,2014,"Balears, Illes",female,mean,19008
+784,2013,"Balears, Illes",female,mean,18998
+785,2012,"Balears, Illes",female,mean,19022
+786,2011,"Balears, Illes",female,mean,19377
+787,2010,"Balears, Illes",female,mean,19812
+788,2009,"Balears, Illes",female,mean,18702
+789,2008,"Balears, Illes",female,mean,18159
+790,2017,"Balears, Illes",female,10th_percentile,8970
+791,2016,"Balears, Illes",female,10th_percentile,7787
+792,2015,"Balears, Illes",female,10th_percentile,7778
+793,2014,"Balears, Illes",female,10th_percentile,8590
+794,2013,"Balears, Illes",female,10th_percentile,7836
+795,2012,"Balears, Illes",female,10th_percentile,8031
+796,2011,"Balears, Illes",female,10th_percentile,8323
+797,2010,"Balears, Illes",female,10th_percentile,8392
+798,2009,"Balears, Illes",female,10th_percentile,8346
+799,2008,"Balears, Illes",female,10th_percentile,8091
+800,2017,"Balears, Illes",female,lower_quartile,13237
+801,2016,"Balears, Illes",female,lower_quartile,12354
+802,2015,"Balears, Illes",female,lower_quartile,12454
+803,2014,"Balears, Illes",female,lower_quartile,12325
+804,2013,"Balears, Illes",female,lower_quartile,12340
+805,2012,"Balears, Illes",female,lower_quartile,12900
+806,2011,"Balears, Illes",female,lower_quartile,13029
+807,2010,"Balears, Illes",female,lower_quartile,13133
+808,2009,"Balears, Illes",female,lower_quartile,12707
+809,2008,"Balears, Illes",female,lower_quartile,11853
+810,2017,"Balears, Illes",female,median,18113
+811,2016,"Balears, Illes",female,median,17582
+812,2015,"Balears, Illes",female,median,17370
+813,2014,"Balears, Illes",female,median,17133
+814,2013,"Balears, Illes",female,median,16887
+815,2012,"Balears, Illes",female,median,16999
+816,2011,"Balears, Illes",female,median,17358
+817,2010,"Balears, Illes",female,median,17240
+818,2009,"Balears, Illes",female,median,15889
+819,2008,"Balears, Illes",female,median,15385
+820,2017,"Balears, Illes",female,upper_quartile,24565
+821,2016,"Balears, Illes",female,upper_quartile,24141
+822,2015,"Balears, Illes",female,upper_quartile,23614
+823,2014,"Balears, Illes",female,upper_quartile,22985
+824,2013,"Balears, Illes",female,upper_quartile,22683
+825,2012,"Balears, Illes",female,upper_quartile,22465
+826,2011,"Balears, Illes",female,upper_quartile,23176
+827,2010,"Balears, Illes",female,upper_quartile,24034
+828,2009,"Balears, Illes",female,upper_quartile,22117
+829,2008,"Balears, Illes",female,upper_quartile,21092
+830,2017,"Balears, Illes",female,90th_percentile,35012
+831,2016,"Balears, Illes",female,90th_percentile,34027
+832,2015,"Balears, Illes",female,90th_percentile,33716
+833,2014,"Balears, Illes",female,90th_percentile,32227
+834,2013,"Balears, Illes",female,90th_percentile,32370
+835,2012,"Balears, Illes",female,90th_percentile,31419
+836,2011,"Balears, Illes",female,90th_percentile,32328
+837,2010,"Balears, Illes",female,90th_percentile,33381
+838,2009,"Balears, Illes",female,90th_percentile,33332
+839,2008,"Balears, Illes",female,90th_percentile,31763
+840,2017,"Balears, Illes",male,mean,23538
+841,2016,"Balears, Illes",male,mean,23286
+842,2015,"Balears, Illes",male,mean,23411
+843,2014,"Balears, Illes",male,mean,23770
+844,2013,"Balears, Illes",male,mean,22584
+845,2012,"Balears, Illes",male,mean,22859
+846,2011,"Balears, Illes",male,mean,23188
+847,2010,"Balears, Illes",male,mean,23213
+848,2009,"Balears, Illes",male,mean,23285
+849,2008,"Balears, Illes",male,mean,22253
+850,2017,"Balears, Illes",male,10th_percentile,11612
+851,2016,"Balears, Illes",male,10th_percentile,10226
+852,2015,"Balears, Illes",male,10th_percentile,11656
+853,2014,"Balears, Illes",male,10th_percentile,10609
+854,2013,"Balears, Illes",male,10th_percentile,9249
+855,2012,"Balears, Illes",male,10th_percentile,9913
+856,2011,"Balears, Illes",male,10th_percentile,10731
+857,2010,"Balears, Illes",male,10th_percentile,11181
+858,2009,"Balears, Illes",male,10th_percentile,11788
+859,2008,"Balears, Illes",male,10th_percentile,11651
+860,2017,"Balears, Illes",male,lower_quartile,16038
+861,2016,"Balears, Illes",male,lower_quartile,15423
+862,2015,"Balears, Illes",male,lower_quartile,15852
+863,2014,"Balears, Illes",male,lower_quartile,16179
+864,2013,"Balears, Illes",male,lower_quartile,15100
+865,2012,"Balears, Illes",male,lower_quartile,15083
+866,2011,"Balears, Illes",male,lower_quartile,15082
+867,2010,"Balears, Illes",male,lower_quartile,15292
+868,2009,"Balears, Illes",male,lower_quartile,15148
+869,2008,"Balears, Illes",male,lower_quartile,14732
+870,2017,"Balears, Illes",male,median,20252
+871,2016,"Balears, Illes",male,median,20106
+872,2015,"Balears, Illes",male,median,19994
+873,2014,"Balears, Illes",male,median,20330
+874,2013,"Balears, Illes",male,median,19295
+875,2012,"Balears, Illes",male,median,19510
+876,2011,"Balears, Illes",male,median,19921
+877,2010,"Balears, Illes",male,median,19609
+878,2009,"Balears, Illes",male,median,18869
+879,2008,"Balears, Illes",male,median,18199
+880,2017,"Balears, Illes",male,upper_quartile,26899
+881,2016,"Balears, Illes",male,upper_quartile,26878
+882,2015,"Balears, Illes",male,upper_quartile,26872
+883,2014,"Balears, Illes",male,upper_quartile,27721
+884,2013,"Balears, Illes",male,upper_quartile,26980
+885,2012,"Balears, Illes",male,upper_quartile,27222
+886,2011,"Balears, Illes",male,upper_quartile,27597
+887,2010,"Balears, Illes",male,upper_quartile,27463
+888,2009,"Balears, Illes",male,upper_quartile,26518
+889,2008,"Balears, Illes",male,upper_quartile,25004
+890,2017,"Balears, Illes",male,90th_percentile,40246
+891,2016,"Balears, Illes",male,90th_percentile,39569
+892,2015,"Balears, Illes",male,90th_percentile,39014
+893,2014,"Balears, Illes",male,90th_percentile,38741
+894,2013,"Balears, Illes",male,90th_percentile,38056
+895,2012,"Balears, Illes",male,90th_percentile,38939
+896,2011,"Balears, Illes",male,90th_percentile,39822
+897,2010,"Balears, Illes",male,90th_percentile,39468
+898,2009,"Balears, Illes",male,90th_percentile,39540
+899,2008,"Balears, Illes",male,90th_percentile,37901
+900,2017,Canarias,both,mean,20185
+901,2016,Canarias,both,mean,19749
+902,2015,Canarias,both,mean,19856
+903,2014,Canarias,both,mean,19436
+904,2013,Canarias,both,mean,19167
+905,2012,Canarias,both,mean,19277
+906,2011,Canarias,both,mean,19516
+907,2010,Canarias,both,mean,19315
+908,2009,Canarias,both,mean,18926
+909,2008,Canarias,both,mean,18466
+910,2017,Canarias,both,10th_percentile,8504
+911,2016,Canarias,both,10th_percentile,7840
+912,2015,Canarias,both,10th_percentile,7283
+913,2014,Canarias,both,10th_percentile,7381
+914,2013,Canarias,both,10th_percentile,6623
+915,2012,Canarias,both,10th_percentile,6772
+916,2011,Canarias,both,10th_percentile,7529
+917,2010,Canarias,both,10th_percentile,7913
+918,2009,Canarias,both,10th_percentile,8186
+919,2008,Canarias,both,10th_percentile,8591
+920,2017,Canarias,both,lower_quartile,12491
+921,2016,Canarias,both,lower_quartile,11892
+922,2015,Canarias,both,lower_quartile,11609
+923,2014,Canarias,both,lower_quartile,11550
+924,2013,Canarias,both,lower_quartile,11127
+925,2012,Canarias,both,lower_quartile,11137
+926,2011,Canarias,both,lower_quartile,11577
+927,2010,Canarias,both,lower_quartile,11643
+928,2009,Canarias,both,lower_quartile,12144
+929,2008,Canarias,both,lower_quartile,12028
+930,2017,Canarias,both,median,17223
+931,2016,Canarias,both,median,16833
+932,2015,Canarias,both,median,17025
+933,2014,Canarias,both,median,16509
+934,2013,Canarias,both,median,16405
+935,2012,Canarias,both,median,16584
+936,2011,Canarias,both,median,16487
+937,2010,Canarias,both,median,15897
+938,2009,Canarias,both,median,16229
+939,2008,Canarias,both,median,15725
+940,2017,Canarias,both,upper_quartile,24044
+941,2016,Canarias,both,upper_quartile,23721
+942,2015,Canarias,both,upper_quartile,24326
+943,2014,Canarias,both,upper_quartile,23315
+944,2013,Canarias,both,upper_quartile,23306
+945,2012,Canarias,both,upper_quartile,23365
+946,2011,Canarias,both,upper_quartile,23691
+947,2010,Canarias,both,upper_quartile,23592
+948,2009,Canarias,both,upper_quartile,22715
+949,2008,Canarias,both,upper_quartile,21693
+950,2017,Canarias,both,90th_percentile,36164
+951,2016,Canarias,both,90th_percentile,35740
+952,2015,Canarias,both,90th_percentile,36148
+953,2014,Canarias,both,90th_percentile,34565
+954,2013,Canarias,both,90th_percentile,35000
+955,2012,Canarias,both,90th_percentile,34458
+956,2011,Canarias,both,90th_percentile,34847
+957,2010,Canarias,both,90th_percentile,35000
+958,2009,Canarias,both,90th_percentile,33618
+959,2008,Canarias,both,90th_percentile,32004
+960,2017,Canarias,female,mean,18917
+961,2016,Canarias,female,mean,18211
+962,2015,Canarias,female,mean,18279
+963,2014,Canarias,female,mean,18201
+964,2013,Canarias,female,mean,17619
+965,2012,Canarias,female,mean,17498
+966,2011,Canarias,female,mean,17824
+967,2010,Canarias,female,mean,17601
+968,2009,Canarias,female,mean,17528
+969,2008,Canarias,female,mean,17131
+970,2017,Canarias,female,10th_percentile,7589
+971,2016,Canarias,female,10th_percentile,7098
+972,2015,Canarias,female,10th_percentile,6408
+973,2014,Canarias,female,10th_percentile,6517
+974,2013,Canarias,female,10th_percentile,5676
+975,2012,Canarias,female,10th_percentile,6010
+976,2011,Canarias,female,10th_percentile,6427
+977,2010,Canarias,female,10th_percentile,6585
+978,2009,Canarias,female,10th_percentile,6453
+979,2008,Canarias,female,10th_percentile,6474
+980,2017,Canarias,female,lower_quartile,11207
+981,2016,Canarias,female,lower_quartile,10528
+982,2015,Canarias,female,lower_quartile,10039
+983,2014,Canarias,female,lower_quartile,10559
+984,2013,Canarias,female,lower_quartile,9658
+985,2012,Canarias,female,lower_quartile,10039
+986,2011,Canarias,female,lower_quartile,10433
+987,2010,Canarias,female,lower_quartile,10263
+988,2009,Canarias,female,lower_quartile,10595
+989,2008,Canarias,female,lower_quartile,10303
+990,2017,Canarias,female,median,16343
+991,2016,Canarias,female,median,15780
+992,2015,Canarias,female,median,15389
+993,2014,Canarias,female,median,15355
+994,2013,Canarias,female,median,14859
+995,2012,Canarias,female,median,14680
+996,2011,Canarias,female,median,14889
+997,2010,Canarias,female,median,14370
+998,2009,Canarias,female,median,15139
+999,2008,Canarias,female,median,14621
+1000,2017,Canarias,female,upper_quartile,23162
+1001,2016,Canarias,female,upper_quartile,22240
+1002,2015,Canarias,female,upper_quartile,22957
+1003,2014,Canarias,female,upper_quartile,22042
+1004,2013,Canarias,female,upper_quartile,21999
+1005,2012,Canarias,female,upper_quartile,21952
+1006,2011,Canarias,female,upper_quartile,22485
+1007,2010,Canarias,female,upper_quartile,21771
+1008,2009,Canarias,female,upper_quartile,21483
+1009,2008,Canarias,female,upper_quartile,20542
+1010,2017,Canarias,female,90th_percentile,34659
+1011,2016,Canarias,female,90th_percentile,33349
+1012,2015,Canarias,female,90th_percentile,34047
+1013,2014,Canarias,female,90th_percentile,33551
+1014,2013,Canarias,female,90th_percentile,32766
+1015,2012,Canarias,female,90th_percentile,32296
+1016,2011,Canarias,female,90th_percentile,33140
+1017,2010,Canarias,female,90th_percentile,32354
+1018,2009,Canarias,female,90th_percentile,32101
+1019,2008,Canarias,female,90th_percentile,31064
+1020,2017,Canarias,male,mean,21291
+1021,2016,Canarias,male,mean,21149
+1022,2015,Canarias,male,mean,21336
+1023,2014,Canarias,male,mean,20641
+1024,2013,Canarias,male,mean,20678
+1025,2012,Canarias,male,mean,21089
+1026,2011,Canarias,male,mean,21090
+1027,2010,Canarias,male,mean,20986
+1028,2009,Canarias,male,mean,20109
+1029,2008,Canarias,male,mean,19516
+1030,2017,Canarias,male,10th_percentile,9897
+1031,2016,Canarias,male,10th_percentile,9041
+1032,2015,Canarias,male,10th_percentile,8538
+1033,2014,Canarias,male,10th_percentile,9043
+1034,2013,Canarias,male,10th_percentile,7877
+1035,2012,Canarias,male,10th_percentile,8219
+1036,2011,Canarias,male,10th_percentile,9125
+1037,2010,Canarias,male,10th_percentile,9974
+1038,2009,Canarias,male,10th_percentile,10206
+1039,2008,Canarias,male,10th_percentile,10527
+1040,2017,Canarias,male,lower_quartile,13652
+1041,2016,Canarias,male,lower_quartile,13475
+1042,2015,Canarias,male,lower_quartile,13578
+1043,2014,Canarias,male,lower_quartile,12919
+1044,2013,Canarias,male,lower_quartile,12880
+1045,2012,Canarias,male,lower_quartile,13122
+1046,2011,Canarias,male,lower_quartile,13123
+1047,2010,Canarias,male,lower_quartile,13055
+1048,2009,Canarias,male,lower_quartile,13590
+1049,2008,Canarias,male,lower_quartile,13258
+1050,2017,Canarias,male,median,17776
+1051,2016,Canarias,male,median,17736
+1052,2015,Canarias,male,median,18042
+1053,2014,Canarias,male,median,17254
+1054,2013,Canarias,male,median,17603
+1055,2012,Canarias,male,median,17941
+1056,2011,Canarias,male,median,17775
+1057,2010,Canarias,male,median,16986
+1058,2009,Canarias,male,median,16949
+1059,2008,Canarias,male,median,16310
+1060,2017,Canarias,male,upper_quartile,24621
+1061,2016,Canarias,male,upper_quartile,24744
+1062,2015,Canarias,male,upper_quartile,25292
+1063,2014,Canarias,male,upper_quartile,24723
+1064,2013,Canarias,male,upper_quartile,24267
+1065,2012,Canarias,male,upper_quartile,25086
+1066,2011,Canarias,male,upper_quartile,24850
+1067,2010,Canarias,male,upper_quartile,25503
+1068,2009,Canarias,male,upper_quartile,24200
+1069,2008,Canarias,male,upper_quartile,22563
+1070,2017,Canarias,male,90th_percentile,38279
+1071,2016,Canarias,male,90th_percentile,37958
+1072,2015,Canarias,male,90th_percentile,38151
+1073,2014,Canarias,male,90th_percentile,35559
+1074,2013,Canarias,male,90th_percentile,36825
+1075,2012,Canarias,male,90th_percentile,36852
+1076,2011,Canarias,male,90th_percentile,37146
+1077,2010,Canarias,male,90th_percentile,37296
+1078,2009,Canarias,male,90th_percentile,34919
+1079,2008,Canarias,male,90th_percentile,32158
+1080,2017,Cantabria,both,mean,22390
+1081,2016,Cantabria,both,mean,22063
+1082,2015,Cantabria,both,mean,21856
+1083,2014,Cantabria,both,mean,21199
+1084,2013,Cantabria,both,mean,20052
+1085,2012,Cantabria,both,mean,20191
+1086,2011,Cantabria,both,mean,20931
+1087,2010,Cantabria,both,mean,21156
+1088,2009,Cantabria,both,mean,20869
+1089,2008,Cantabria,both,mean,20377
+1090,2017,Cantabria,both,10th_percentile,8844
+1091,2016,Cantabria,both,10th_percentile,8480
+1092,2015,Cantabria,both,10th_percentile,8085
+1093,2014,Cantabria,both,10th_percentile,7134
+1094,2013,Cantabria,both,10th_percentile,7566
+1095,2012,Cantabria,both,10th_percentile,7518
+1096,2011,Cantabria,both,10th_percentile,8082
+1097,2010,Cantabria,both,10th_percentile,8248
+1098,2009,Cantabria,both,10th_percentile,8209
+1099,2008,Cantabria,both,10th_percentile,8763
+1100,2017,Cantabria,both,lower_quartile,13534
+1101,2016,Cantabria,both,lower_quartile,12939
+1102,2015,Cantabria,both,lower_quartile,13443
+1103,2014,Cantabria,both,lower_quartile,12659
+1104,2013,Cantabria,both,lower_quartile,12336
+1105,2012,Cantabria,both,lower_quartile,12534
+1106,2011,Cantabria,both,lower_quartile,13222
+1107,2010,Cantabria,both,lower_quartile,13160
+1108,2009,Cantabria,both,lower_quartile,12899
+1109,2008,Cantabria,both,lower_quartile,13201
+1110,2017,Cantabria,both,median,19092
+1111,2016,Cantabria,both,median,18590
+1112,2015,Cantabria,both,median,18861
+1113,2014,Cantabria,both,median,18514
+1114,2013,Cantabria,both,median,17632
+1115,2012,Cantabria,both,median,17284
+1116,2011,Cantabria,both,median,18023
+1117,2010,Cantabria,both,median,18071
+1118,2009,Cantabria,both,median,18002
+1119,2008,Cantabria,both,median,17624
+1120,2017,Cantabria,both,upper_quartile,27968
+1121,2016,Cantabria,both,upper_quartile,27411
+1122,2015,Cantabria,both,upper_quartile,27526
+1123,2014,Cantabria,both,upper_quartile,26671
+1124,2013,Cantabria,both,upper_quartile,25304
+1125,2012,Cantabria,both,upper_quartile,24543
+1126,2011,Cantabria,both,upper_quartile,26002
+1127,2010,Cantabria,both,upper_quartile,26335
+1128,2009,Cantabria,both,upper_quartile,26163
+1129,2008,Cantabria,both,upper_quartile,25032
+1130,2017,Cantabria,both,90th_percentile,40839
+1131,2016,Cantabria,both,90th_percentile,39657
+1132,2015,Cantabria,both,90th_percentile,38476
+1133,2014,Cantabria,both,90th_percentile,38592
+1134,2013,Cantabria,both,90th_percentile,35467
+1135,2012,Cantabria,both,90th_percentile,36539
+1136,2011,Cantabria,both,90th_percentile,36713
+1137,2010,Cantabria,both,90th_percentile,37152
+1138,2009,Cantabria,both,90th_percentile,37183
+1139,2008,Cantabria,both,90th_percentile,35322
+1140,2017,Cantabria,female,mean,19012
+1141,2016,Cantabria,female,mean,18216
+1142,2015,Cantabria,female,mean,17955
+1143,2014,Cantabria,female,mean,17668
+1144,2013,Cantabria,female,mean,16542
+1145,2012,Cantabria,female,mean,16771
+1146,2011,Cantabria,female,mean,17606
+1147,2010,Cantabria,female,mean,17887
+1148,2009,Cantabria,female,mean,18210
+1149,2008,Cantabria,female,mean,17460
+1150,2017,Cantabria,female,10th_percentile,6760
+1151,2016,Cantabria,female,10th_percentile,6844
+1152,2015,Cantabria,female,10th_percentile,6649
+1153,2014,Cantabria,female,10th_percentile,5702
+1154,2013,Cantabria,female,10th_percentile,6678
+1155,2012,Cantabria,female,10th_percentile,6771
+1156,2011,Cantabria,female,10th_percentile,6801
+1157,2010,Cantabria,female,10th_percentile,6336
+1158,2009,Cantabria,female,10th_percentile,6776
+1159,2008,Cantabria,female,10th_percentile,6683
+1160,2017,Cantabria,female,lower_quartile,11223
+1161,2016,Cantabria,female,lower_quartile,10567
+1162,2015,Cantabria,female,lower_quartile,10632
+1163,2014,Cantabria,female,lower_quartile,9768
+1164,2013,Cantabria,female,lower_quartile,10177
+1165,2012,Cantabria,female,lower_quartile,10015
+1166,2011,Cantabria,female,lower_quartile,10672
+1167,2010,Cantabria,female,lower_quartile,10578
+1168,2009,Cantabria,female,lower_quartile,10343
+1169,2008,Cantabria,female,lower_quartile,10465
+1170,2017,Cantabria,female,median,15998
+1171,2016,Cantabria,female,median,15414
+1172,2015,Cantabria,female,median,15456
+1173,2014,Cantabria,female,median,15060
+1174,2013,Cantabria,female,median,14575
+1175,2012,Cantabria,female,median,14449
+1176,2011,Cantabria,female,median,14912
+1177,2010,Cantabria,female,median,14813
+1178,2009,Cantabria,female,median,14415
+1179,2008,Cantabria,female,median,15029
+1180,2017,Cantabria,female,upper_quartile,24158
+1181,2016,Cantabria,female,upper_quartile,22639
+1182,2015,Cantabria,female,upper_quartile,23529
+1183,2014,Cantabria,female,upper_quartile,22529
+1184,2013,Cantabria,female,upper_quartile,21069
+1185,2012,Cantabria,female,upper_quartile,20123
+1186,2011,Cantabria,female,upper_quartile,22160
+1187,2010,Cantabria,female,upper_quartile,22075
+1188,2009,Cantabria,female,upper_quartile,23159
+1189,2008,Cantabria,female,upper_quartile,21810
+1190,2017,Cantabria,female,90th_percentile,35932
+1191,2016,Cantabria,female,90th_percentile,34673
+1192,2015,Cantabria,female,90th_percentile,33824
+1193,2014,Cantabria,female,90th_percentile,33564
+1194,2013,Cantabria,female,90th_percentile,29778
+1195,2012,Cantabria,female,90th_percentile,31881
+1196,2011,Cantabria,female,90th_percentile,32478
+1197,2010,Cantabria,female,90th_percentile,32448
+1198,2009,Cantabria,female,90th_percentile,35207
+1199,2008,Cantabria,female,90th_percentile,32464
+1200,2017,Cantabria,male,mean,25249
+1201,2016,Cantabria,male,mean,25210
+1202,2015,Cantabria,male,mean,25259
+1203,2014,Cantabria,male,mean,24685
+1204,2013,Cantabria,male,mean,23224
+1205,2012,Cantabria,male,mean,23309
+1206,2011,Cantabria,male,mean,23793
+1207,2010,Cantabria,male,mean,23924
+1208,2009,Cantabria,male,mean,22933
+1209,2008,Cantabria,male,mean,22539
+1210,2017,Cantabria,male,10th_percentile,11479
+1211,2016,Cantabria,male,10th_percentile,11740
+1212,2015,Cantabria,male,10th_percentile,12093
+1213,2014,Cantabria,male,10th_percentile,10412
+1214,2013,Cantabria,male,10th_percentile,9759
+1215,2012,Cantabria,male,10th_percentile,10548
+1216,2011,Cantabria,male,10th_percentile,11625
+1217,2010,Cantabria,male,10th_percentile,11300
+1218,2009,Cantabria,male,10th_percentile,11921
+1219,2008,Cantabria,male,10th_percentile,12312
+1220,2017,Cantabria,male,lower_quartile,16044
+1221,2016,Cantabria,male,lower_quartile,15808
+1222,2015,Cantabria,male,lower_quartile,16354
+1223,2014,Cantabria,male,lower_quartile,16262
+1224,2013,Cantabria,male,lower_quartile,15461
+1225,2012,Cantabria,male,lower_quartile,15300
+1226,2011,Cantabria,male,lower_quartile,15623
+1227,2010,Cantabria,male,lower_quartile,15973
+1228,2009,Cantabria,male,lower_quartile,15767
+1229,2008,Cantabria,male,lower_quartile,15546
+1230,2017,Cantabria,male,median,21322
+1231,2016,Cantabria,male,median,20692
+1232,2015,Cantabria,male,median,21468
+1233,2014,Cantabria,male,median,21015
+1234,2013,Cantabria,male,median,20001
+1235,2012,Cantabria,male,median,19685
+1236,2011,Cantabria,male,median,20318
+1237,2010,Cantabria,male,median,20491
+1238,2009,Cantabria,male,median,20134
+1239,2008,Cantabria,male,median,19401
+1240,2017,Cantabria,male,upper_quartile,31213
+1241,2016,Cantabria,male,upper_quartile,31466
+1242,2015,Cantabria,male,upper_quartile,30497
+1243,2014,Cantabria,male,upper_quartile,31157
+1244,2013,Cantabria,male,upper_quartile,29100
+1245,2012,Cantabria,male,upper_quartile,27716
+1246,2011,Cantabria,male,upper_quartile,28691
+1247,2010,Cantabria,male,upper_quartile,29034
+1248,2009,Cantabria,male,upper_quartile,27898
+1249,2008,Cantabria,male,upper_quartile,26679
+1250,2017,Cantabria,male,90th_percentile,44256
+1251,2016,Cantabria,male,90th_percentile,43704
+1252,2015,Cantabria,male,90th_percentile,42790
+1253,2014,Cantabria,male,90th_percentile,43105
+1254,2013,Cantabria,male,90th_percentile,40146
+1255,2012,Cantabria,male,90th_percentile,39150
+1256,2011,Cantabria,male,90th_percentile,39317
+1257,2010,Cantabria,male,90th_percentile,40639
+1258,2009,Cantabria,male,90th_percentile,37939
+1259,2008,Cantabria,male,90th_percentile,36889
+1260,2017,Castilla y León,both,mean,21846
+1261,2016,Castilla y León,both,mean,21551
+1262,2015,Castilla y León,both,mean,21296
+1263,2014,Castilla y León,both,mean,20524
+1264,2013,Castilla y León,both,mean,20440
+1265,2012,Castilla y León,both,mean,20569
+1266,2011,Castilla y León,both,mean,21029
+1267,2010,Castilla y León,both,mean,20960
+1268,2009,Castilla y León,both,mean,21037
+1269,2008,Castilla y León,both,mean,20218
+1270,2017,Castilla y León,both,10th_percentile,8450
+1271,2016,Castilla y León,both,10th_percentile,8070
+1272,2015,Castilla y León,both,10th_percentile,7992
+1273,2014,Castilla y León,both,10th_percentile,7293
+1274,2013,Castilla y León,both,10th_percentile,6898
+1275,2012,Castilla y León,both,10th_percentile,6960
+1276,2011,Castilla y León,both,10th_percentile,7779
+1277,2010,Castilla y León,both,10th_percentile,7430
+1278,2009,Castilla y León,both,10th_percentile,8736
+1279,2008,Castilla y León,both,10th_percentile,8878
+1280,2017,Castilla y León,both,lower_quartile,13426
+1281,2016,Castilla y León,both,lower_quartile,13301
+1282,2015,Castilla y León,both,lower_quartile,13117
+1283,2014,Castilla y León,both,lower_quartile,12826
+1284,2013,Castilla y León,both,lower_quartile,12370
+1285,2012,Castilla y León,both,lower_quartile,12679
+1286,2011,Castilla y León,both,lower_quartile,13282
+1287,2010,Castilla y León,both,lower_quartile,12848
+1288,2009,Castilla y León,both,lower_quartile,13087
+1289,2008,Castilla y León,both,lower_quartile,12828
+1290,2017,Castilla y León,both,median,18672
+1291,2016,Castilla y León,both,median,18594
+1292,2015,Castilla y León,both,median,18381
+1293,2014,Castilla y León,both,median,17687
+1294,2013,Castilla y León,both,median,17557
+1295,2012,Castilla y León,both,median,17465
+1296,2011,Castilla y León,both,median,17971
+1297,2010,Castilla y León,both,median,17669
+1298,2009,Castilla y León,both,median,17577
+1299,2008,Castilla y León,both,median,17246
+1300,2017,Castilla y León,both,upper_quartile,27329
+1301,2016,Castilla y León,both,upper_quartile,26885
+1302,2015,Castilla y León,both,upper_quartile,26642
+1303,2014,Castilla y León,both,upper_quartile,25454
+1304,2013,Castilla y León,both,upper_quartile,25707
+1305,2012,Castilla y León,both,upper_quartile,25576
+1306,2011,Castilla y León,both,upper_quartile,26353
+1307,2010,Castilla y León,both,upper_quartile,25971
+1308,2009,Castilla y León,both,upper_quartile,25778
+1309,2008,Castilla y León,both,upper_quartile,24759
+1310,2017,Castilla y León,both,90th_percentile,38408
+1311,2016,Castilla y León,both,90th_percentile,38498
+1312,2015,Castilla y León,both,90th_percentile,37758
+1313,2014,Castilla y León,both,90th_percentile,36260
+1314,2013,Castilla y León,both,90th_percentile,36672
+1315,2012,Castilla y León,both,90th_percentile,36245
+1316,2011,Castilla y León,both,90th_percentile,36889
+1317,2010,Castilla y León,both,90th_percentile,37418
+1318,2009,Castilla y León,both,90th_percentile,37155
+1319,2008,Castilla y León,both,90th_percentile,34896
+1320,2017,Castilla y León,female,mean,18796
+1321,2016,Castilla y León,female,mean,18662
+1322,2015,Castilla y León,female,mean,18523
+1323,2014,Castilla y León,female,mean,17682
+1324,2013,Castilla y León,female,mean,17429
+1325,2012,Castilla y León,female,mean,17552
+1326,2011,Castilla y León,female,mean,18193
+1327,2010,Castilla y León,female,mean,17683
+1328,2009,Castilla y León,female,mean,18249
+1329,2008,Castilla y León,female,mean,17573
+1330,2017,Castilla y León,female,10th_percentile,7108
+1331,2016,Castilla y León,female,10th_percentile,6707
+1332,2015,Castilla y León,female,10th_percentile,6793
+1333,2014,Castilla y León,female,10th_percentile,5727
+1334,2013,Castilla y León,female,10th_percentile,5630
+1335,2012,Castilla y León,female,10th_percentile,6076
+1336,2011,Castilla y León,female,10th_percentile,6363
+1337,2010,Castilla y León,female,10th_percentile,6035
+1338,2009,Castilla y León,female,10th_percentile,6789
+1339,2008,Castilla y León,female,10th_percentile,6753
+1340,2017,Castilla y León,female,lower_quartile,10770
+1341,2016,Castilla y León,female,lower_quartile,10755
+1342,2015,Castilla y León,female,lower_quartile,10703
+1343,2014,Castilla y León,female,lower_quartile,9690
+1344,2013,Castilla y León,female,lower_quartile,9825
+1345,2012,Castilla y León,female,lower_quartile,10185
+1346,2011,Castilla y León,female,lower_quartile,10688
+1347,2010,Castilla y León,female,lower_quartile,10239
+1348,2009,Castilla y León,female,lower_quartile,10573
+1349,2008,Castilla y León,female,lower_quartile,10445
+1350,2017,Castilla y León,female,median,15985
+1351,2016,Castilla y León,female,median,15916
+1352,2015,Castilla y León,female,median,15806
+1353,2014,Castilla y León,female,median,15269
+1354,2013,Castilla y León,female,median,15087
+1355,2012,Castilla y León,female,median,15275
+1356,2011,Castilla y León,female,median,15805
+1357,2010,Castilla y León,female,median,15103
+1358,2009,Castilla y León,female,median,15309
+1359,2008,Castilla y León,female,median,14817
+1360,2017,Castilla y León,female,upper_quartile,23910
+1361,2016,Castilla y León,female,upper_quartile,23777
+1362,2015,Castilla y León,female,upper_quartile,23633
+1363,2014,Castilla y León,female,upper_quartile,23002
+1364,2013,Castilla y León,female,upper_quartile,22461
+1365,2012,Castilla y León,female,upper_quartile,22631
+1366,2011,Castilla y León,female,upper_quartile,23222
+1367,2010,Castilla y León,female,upper_quartile,21828
+1368,2009,Castilla y León,female,upper_quartile,22894
+1369,2008,Castilla y León,female,upper_quartile,21733
+1370,2017,Castilla y León,female,90th_percentile,33965
+1371,2016,Castilla y León,female,90th_percentile,34192
+1372,2015,Castilla y León,female,90th_percentile,33804
+1373,2014,Castilla y León,female,90th_percentile,31727
+1374,2013,Castilla y León,female,90th_percentile,32263
+1375,2012,Castilla y León,female,90th_percentile,31079
+1376,2011,Castilla y León,female,90th_percentile,33356
+1377,2010,Castilla y León,female,90th_percentile,32436
+1378,2009,Castilla y León,female,90th_percentile,33030
+1379,2008,Castilla y León,female,90th_percentile,32489
+1380,2017,Castilla y León,male,mean,24782
+1381,2016,Castilla y León,male,mean,24445
+1382,2015,Castilla y León,male,mean,24135
+1383,2014,Castilla y León,male,mean,22904
+1384,2013,Castilla y León,male,mean,23379
+1385,2012,Castilla y León,male,mean,23473
+1386,2011,Castilla y León,male,mean,23482
+1387,2010,Castilla y León,male,mean,23640
+1388,2009,Castilla y León,male,mean,23116
+1389,2008,Castilla y León,male,mean,22117
+1390,2017,Castilla y León,male,10th_percentile,11579
+1391,2016,Castilla y León,male,10th_percentile,11766
+1392,2015,Castilla y León,male,10th_percentile,11661
+1393,2014,Castilla y León,male,10th_percentile,10527
+1394,2013,Castilla y León,male,10th_percentile,10053
+1395,2012,Castilla y León,male,10th_percentile,10546
+1396,2011,Castilla y León,male,10th_percentile,11150
+1397,2010,Castilla y León,male,10th_percentile,11506
+1398,2009,Castilla y León,male,10th_percentile,11483
+1399,2008,Castilla y León,male,10th_percentile,11400
+1400,2017,Castilla y León,male,lower_quartile,16324
+1401,2016,Castilla y León,male,lower_quartile,16057
+1402,2015,Castilla y León,male,lower_quartile,15929
+1403,2014,Castilla y León,male,lower_quartile,15051
+1404,2013,Castilla y León,male,lower_quartile,15099
+1405,2012,Castilla y León,male,lower_quartile,15225
+1406,2011,Castilla y León,male,lower_quartile,15343
+1407,2010,Castilla y León,male,lower_quartile,15278
+1408,2009,Castilla y León,male,lower_quartile,14865
+1409,2008,Castilla y León,male,lower_quartile,14656
+1410,2017,Castilla y León,male,median,21162
+1411,2016,Castilla y León,male,median,20596
+1412,2015,Castilla y León,male,median,20548
+1413,2014,Castilla y León,male,median,19479
+1414,2013,Castilla y León,male,median,19873
+1415,2012,Castilla y León,male,median,19680
+1416,2011,Castilla y León,male,median,19891
+1417,2010,Castilla y León,male,median,19553
+1418,2009,Castilla y León,male,median,19133
+1419,2008,Castilla y León,male,median,18663
+1420,2017,Castilla y León,male,upper_quartile,30184
+1421,2016,Castilla y León,male,upper_quartile,29689
+1422,2015,Castilla y León,male,upper_quartile,29338
+1423,2014,Castilla y León,male,upper_quartile,27468
+1424,2013,Castilla y León,male,upper_quartile,28688
+1425,2012,Castilla y León,male,upper_quartile,28604
+1426,2011,Castilla y León,male,upper_quartile,28520
+1427,2010,Castilla y León,male,upper_quartile,28604
+1428,2009,Castilla y León,male,upper_quartile,27749
+1429,2008,Castilla y León,male,upper_quartile,26504
+1430,2017,Castilla y León,male,90th_percentile,42565
+1431,2016,Castilla y León,male,90th_percentile,42122
+1432,2015,Castilla y León,male,90th_percentile,41065
+1433,2014,Castilla y León,male,90th_percentile,39780
+1434,2013,Castilla y León,male,90th_percentile,39842
+1435,2012,Castilla y León,male,90th_percentile,40693
+1436,2011,Castilla y León,male,90th_percentile,39312
+1437,2010,Castilla y León,male,90th_percentile,40892
+1438,2009,Castilla y León,male,90th_percentile,39100
+1439,2008,Castilla y León,male,90th_percentile,36889
+1440,2017,Castilla - La Mancha,both,mean,21033
+1441,2016,Castilla - La Mancha,both,mean,20825
+1442,2015,Castilla - La Mancha,both,mean,20670
+1443,2014,Castilla - La Mancha,both,mean,20644
+1444,2013,Castilla - La Mancha,both,mean,20630
+1445,2012,Castilla - La Mancha,both,mean,20536
+1446,2011,Castilla - La Mancha,both,mean,20664
+1447,2010,Castilla - La Mancha,both,mean,20363
+1448,2009,Castilla - La Mancha,both,mean,20228
+1449,2008,Castilla - La Mancha,both,mean,19736
+1450,2017,Castilla - La Mancha,both,10th_percentile,7860
+1451,2016,Castilla - La Mancha,both,10th_percentile,7404
+1452,2015,Castilla - La Mancha,both,10th_percentile,7292
+1453,2014,Castilla - La Mancha,both,10th_percentile,7571
+1454,2013,Castilla - La Mancha,both,10th_percentile,7545
+1455,2012,Castilla - La Mancha,both,10th_percentile,7678
+1456,2011,Castilla - La Mancha,both,10th_percentile,8133
+1457,2010,Castilla - La Mancha,both,10th_percentile,8409
+1458,2009,Castilla - La Mancha,both,10th_percentile,8084
+1459,2008,Castilla - La Mancha,both,10th_percentile,8807
+1460,2017,Castilla - La Mancha,both,lower_quartile,12959
+1461,2016,Castilla - La Mancha,both,lower_quartile,12954
+1462,2015,Castilla - La Mancha,both,lower_quartile,12932
+1463,2014,Castilla - La Mancha,both,lower_quartile,13230
+1464,2013,Castilla - La Mancha,both,lower_quartile,12921
+1465,2012,Castilla - La Mancha,both,lower_quartile,12975
+1466,2011,Castilla - La Mancha,both,lower_quartile,13503
+1467,2010,Castilla - La Mancha,both,lower_quartile,13350
+1468,2009,Castilla - La Mancha,both,lower_quartile,13267
+1469,2008,Castilla - La Mancha,both,lower_quartile,12816
+1470,2017,Castilla - La Mancha,both,median,17735
+1471,2016,Castilla - La Mancha,both,median,17874
+1472,2015,Castilla - La Mancha,both,median,17741
+1473,2014,Castilla - La Mancha,both,median,17912
+1474,2013,Castilla - La Mancha,both,median,17443
+1475,2012,Castilla - La Mancha,both,median,17300
+1476,2011,Castilla - La Mancha,both,median,17850
+1477,2010,Castilla - La Mancha,both,median,17378
+1478,2009,Castilla - La Mancha,both,median,17069
+1479,2008,Castilla - La Mancha,both,median,16581
+1480,2017,Castilla - La Mancha,both,upper_quartile,25187
+1481,2016,Castilla - La Mancha,both,upper_quartile,25396
+1482,2015,Castilla - La Mancha,both,upper_quartile,25340
+1483,2014,Castilla - La Mancha,both,upper_quartile,25434
+1484,2013,Castilla - La Mancha,both,upper_quartile,24539
+1485,2012,Castilla - La Mancha,both,upper_quartile,24335
+1486,2011,Castilla - La Mancha,both,upper_quartile,25021
+1487,2010,Castilla - La Mancha,both,upper_quartile,24213
+1488,2009,Castilla - La Mancha,both,upper_quartile,23687
+1489,2008,Castilla - La Mancha,both,upper_quartile,23272
+1490,2017,Castilla - La Mancha,both,90th_percentile,38095
+1491,2016,Castilla - La Mancha,both,90th_percentile,37189
+1492,2015,Castilla - La Mancha,both,90th_percentile,36955
+1493,2014,Castilla - La Mancha,both,90th_percentile,35805
+1494,2013,Castilla - La Mancha,both,90th_percentile,36983
+1495,2012,Castilla - La Mancha,both,90th_percentile,36343
+1496,2011,Castilla - La Mancha,both,90th_percentile,35788
+1497,2010,Castilla - La Mancha,both,90th_percentile,35032
+1498,2009,Castilla - La Mancha,both,90th_percentile,34794
+1499,2008,Castilla - La Mancha,both,90th_percentile,34120
+1500,2017,Castilla - La Mancha,female,mean,18327
+1501,2016,Castilla - La Mancha,female,mean,18213
+1502,2015,Castilla - La Mancha,female,mean,18097
+1503,2014,Castilla - La Mancha,female,mean,18157
+1504,2013,Castilla - La Mancha,female,mean,17481
+1505,2012,Castilla - La Mancha,female,mean,17527
+1506,2011,Castilla - La Mancha,female,mean,18001
+1507,2010,Castilla - La Mancha,female,mean,17913
+1508,2009,Castilla - La Mancha,female,mean,17709
+1509,2008,Castilla - La Mancha,female,mean,17562
+1510,2017,Castilla - La Mancha,female,10th_percentile,6471
+1511,2016,Castilla - La Mancha,female,10th_percentile,5937
+1512,2015,Castilla - La Mancha,female,10th_percentile,5859
+1513,2014,Castilla - La Mancha,female,10th_percentile,5836
+1514,2013,Castilla - La Mancha,female,10th_percentile,6060
+1515,2012,Castilla - La Mancha,female,10th_percentile,6099
+1516,2011,Castilla - La Mancha,female,10th_percentile,6701
+1517,2010,Castilla - La Mancha,female,10th_percentile,6512
+1518,2009,Castilla - La Mancha,female,10th_percentile,6648
+1519,2008,Castilla - La Mancha,female,10th_percentile,6701
+1520,2017,Castilla - La Mancha,female,lower_quartile,9930
+1521,2016,Castilla - La Mancha,female,lower_quartile,9795
+1522,2015,Castilla - La Mancha,female,lower_quartile,9470
+1523,2014,Castilla - La Mancha,female,lower_quartile,10095
+1524,2013,Castilla - La Mancha,female,lower_quartile,9962
+1525,2012,Castilla - La Mancha,female,lower_quartile,10004
+1526,2011,Castilla - La Mancha,female,lower_quartile,10865
+1527,2010,Castilla - La Mancha,female,lower_quartile,10193
+1528,2009,Castilla - La Mancha,female,lower_quartile,10302
+1529,2008,Castilla - La Mancha,female,lower_quartile,10271
+1530,2017,Castilla - La Mancha,female,median,15130
+1531,2016,Castilla - La Mancha,female,median,15670
+1532,2015,Castilla - La Mancha,female,median,15566
+1533,2014,Castilla - La Mancha,female,median,15860
+1534,2013,Castilla - La Mancha,female,median,15206
+1535,2012,Castilla - La Mancha,female,median,14956
+1536,2011,Castilla - La Mancha,female,median,16092
+1537,2010,Castilla - La Mancha,female,median,15059
+1538,2009,Castilla - La Mancha,female,median,15057
+1539,2008,Castilla - La Mancha,female,median,14887
+1540,2017,Castilla - La Mancha,female,upper_quartile,23041
+1541,2016,Castilla - La Mancha,female,upper_quartile,23699
+1542,2015,Castilla - La Mancha,female,upper_quartile,23406
+1543,2014,Castilla - La Mancha,female,upper_quartile,24006
+1544,2013,Castilla - La Mancha,female,upper_quartile,22000
+1545,2012,Castilla - La Mancha,female,upper_quartile,21632
+1546,2011,Castilla - La Mancha,female,upper_quartile,22729
+1547,2010,Castilla - La Mancha,female,upper_quartile,22265
+1548,2009,Castilla - La Mancha,female,upper_quartile,22109
+1549,2008,Castilla - La Mancha,female,upper_quartile,22037
+1550,2017,Castilla - La Mancha,female,90th_percentile,33944
+1551,2016,Castilla - La Mancha,female,90th_percentile,33367
+1552,2015,Castilla - La Mancha,female,90th_percentile,34183
+1553,2014,Castilla - La Mancha,female,90th_percentile,32820
+1554,2013,Castilla - La Mancha,female,90th_percentile,31051
+1555,2012,Castilla - La Mancha,female,90th_percentile,31989
+1556,2011,Castilla - La Mancha,female,90th_percentile,31372
+1557,2010,Castilla - La Mancha,female,90th_percentile,32039
+1558,2009,Castilla - La Mancha,female,90th_percentile,32205
+1559,2008,Castilla - La Mancha,female,90th_percentile,32148
+1560,2017,Castilla - La Mancha,male,mean,23160
+1561,2016,Castilla - La Mancha,male,mean,22871
+1562,2015,Castilla - La Mancha,male,mean,22765
+1563,2014,Castilla - La Mancha,male,mean,22719
+1564,2013,Castilla - La Mancha,male,mean,23316
+1565,2012,Castilla - La Mancha,male,mean,22810
+1566,2011,Castilla - La Mancha,male,mean,22771
+1567,2010,Castilla - La Mancha,male,mean,22292
+1568,2009,Castilla - La Mancha,male,mean,21980
+1569,2008,Castilla - La Mancha,male,mean,21141
+1570,2017,Castilla - La Mancha,male,10th_percentile,10444
+1571,2016,Castilla - La Mancha,male,10th_percentile,10755
+1572,2015,Castilla - La Mancha,male,10th_percentile,10728
+1573,2014,Castilla - La Mancha,male,10th_percentile,10584
+1574,2013,Castilla - La Mancha,male,10th_percentile,11457
+1575,2012,Castilla - La Mancha,male,10th_percentile,11269
+1576,2011,Castilla - La Mancha,male,10th_percentile,11877
+1577,2010,Castilla - La Mancha,male,10th_percentile,12048
+1578,2009,Castilla - La Mancha,male,10th_percentile,11709
+1579,2008,Castilla - La Mancha,male,10th_percentile,11517
+1580,2017,Castilla - La Mancha,male,lower_quartile,15625
+1581,2016,Castilla - La Mancha,male,lower_quartile,15291
+1582,2015,Castilla - La Mancha,male,lower_quartile,15232
+1583,2014,Castilla - La Mancha,male,lower_quartile,15390
+1584,2013,Castilla - La Mancha,male,lower_quartile,15229
+1585,2012,Castilla - La Mancha,male,lower_quartile,15036
+1586,2011,Castilla - La Mancha,male,lower_quartile,15319
+1587,2010,Castilla - La Mancha,male,lower_quartile,15304
+1588,2009,Castilla - La Mancha,male,lower_quartile,14896
+1589,2008,Castilla - La Mancha,male,lower_quartile,14405
+1590,2017,Castilla - La Mancha,male,median,19295
+1591,2016,Castilla - La Mancha,male,median,19380
+1592,2015,Castilla - La Mancha,male,median,19305
+1593,2014,Castilla - La Mancha,male,median,19137
+1594,2013,Castilla - La Mancha,male,median,19200
+1595,2012,Castilla - La Mancha,male,median,18780
+1596,2011,Castilla - La Mancha,male,median,19145
+1597,2010,Castilla - La Mancha,male,median,18649
+1598,2009,Castilla - La Mancha,male,median,18001
+1599,2008,Castilla - La Mancha,male,median,17456
+1600,2017,Castilla - La Mancha,male,upper_quartile,26863
+1601,2016,Castilla - La Mancha,male,upper_quartile,26871
+1602,2015,Castilla - La Mancha,male,upper_quartile,26995
+1603,2014,Castilla - La Mancha,male,upper_quartile,26908
+1604,2013,Castilla - La Mancha,male,upper_quartile,26999
+1605,2012,Castilla - La Mancha,male,upper_quartile,26771
+1606,2011,Castilla - La Mancha,male,upper_quartile,26562
+1607,2010,Castilla - La Mancha,male,upper_quartile,25468
+1608,2009,Castilla - La Mancha,male,upper_quartile,25093
+1609,2008,Castilla - La Mancha,male,upper_quartile,24158
+1610,2017,Castilla - La Mancha,male,90th_percentile,40480
+1611,2016,Castilla - La Mancha,male,90th_percentile,39499
+1612,2015,Castilla - La Mancha,male,90th_percentile,39411
+1613,2014,Castilla - La Mancha,male,90th_percentile,37963
+1614,2013,Castilla - La Mancha,male,90th_percentile,40483
+1615,2012,Castilla - La Mancha,male,90th_percentile,39418
+1616,2011,Castilla - La Mancha,male,90th_percentile,38798
+1617,2010,Castilla - La Mancha,male,90th_percentile,37240
+1618,2009,Castilla - La Mancha,male,90th_percentile,36378
+1619,2008,Castilla - La Mancha,male,90th_percentile,35573
+1620,2017,Cataluña,both,mean,25180
+1621,2016,Cataluña,both,mean,24454
+1622,2015,Cataluña,both,mean,24321
+1623,2014,Cataluña,both,mean,23927
+1624,2013,Cataluña,both,mean,24253
+1625,2012,Cataluña,both,mean,24436
+1626,2011,Cataluña,both,mean,24499
+1627,2010,Cataluña,both,mean,24449
+1628,2009,Cataluña,both,mean,23851
+1629,2008,Cataluña,both,mean,23375
+1630,2017,Cataluña,both,10th_percentile,9176
+1631,2016,Cataluña,both,10th_percentile,8470
+1632,2015,Cataluña,both,10th_percentile,8246
+1633,2014,Cataluña,both,10th_percentile,7841
+1634,2013,Cataluña,both,10th_percentile,8068
+1635,2012,Cataluña,both,10th_percentile,8684
+1636,2011,Cataluña,both,10th_percentile,8870
+1637,2010,Cataluña,both,10th_percentile,9237
+1638,2009,Cataluña,both,10th_percentile,9246
+1639,2008,Cataluña,both,10th_percentile,9221
+1640,2017,Cataluña,both,lower_quartile,15053
+1641,2016,Cataluña,both,lower_quartile,14238
+1642,2015,Cataluña,both,lower_quartile,14345
+1643,2014,Cataluña,both,lower_quartile,14010
+1644,2013,Cataluña,both,lower_quartile,13986
+1645,2012,Cataluña,both,lower_quartile,14429
+1646,2011,Cataluña,both,lower_quartile,14411
+1647,2010,Cataluña,both,lower_quartile,14476
+1648,2009,Cataluña,both,lower_quartile,14465
+1649,2008,Cataluña,both,lower_quartile,14162
+1650,2017,Cataluña,both,median,21719
+1651,2016,Cataluña,both,median,21188
+1652,2015,Cataluña,both,median,20972
+1653,2014,Cataluña,both,median,20601
+1654,2013,Cataluña,both,median,20763
+1655,2012,Cataluña,both,median,20991
+1656,2011,Cataluña,both,median,21249
+1657,2010,Cataluña,both,median,20851
+1658,2009,Cataluña,both,median,20633
+1659,2008,Cataluña,both,median,19904
+1660,2017,Cataluña,both,upper_quartile,31978
+1661,2016,Cataluña,both,upper_quartile,31049
+1662,2015,Cataluña,both,upper_quartile,30990
+1663,2014,Cataluña,both,upper_quartile,30160
+1664,2013,Cataluña,both,upper_quartile,31029
+1665,2012,Cataluña,both,upper_quartile,30987
+1666,2011,Cataluña,both,upper_quartile,31064
+1667,2010,Cataluña,both,upper_quartile,30359
+1668,2009,Cataluña,both,upper_quartile,29809
+1669,2008,Cataluña,both,upper_quartile,28826
+1670,2017,Cataluña,both,90th_percentile,43960
+1671,2016,Cataluña,both,90th_percentile,42850
+1672,2015,Cataluña,both,90th_percentile,42581
+1673,2014,Cataluña,both,90th_percentile,42426
+1674,2013,Cataluña,both,90th_percentile,43498
+1675,2012,Cataluña,both,90th_percentile,43224
+1676,2011,Cataluña,both,90th_percentile,42613
+1677,2010,Cataluña,both,90th_percentile,42967
+1678,2009,Cataluña,both,90th_percentile,41470
+1679,2008,Cataluña,both,90th_percentile,40774
+1680,2017,Cataluña,female,mean,21801
+1681,2016,Cataluña,female,mean,21110
+1682,2015,Cataluña,female,mean,20946
+1683,2014,Cataluña,female,mean,20324
+1684,2013,Cataluña,female,mean,20740
+1685,2012,Cataluña,female,mean,20931
+1686,2011,Cataluña,female,mean,20799
+1687,2010,Cataluña,female,mean,21042
+1688,2009,Cataluña,female,mean,20467
+1689,2008,Cataluña,female,mean,19928
+1690,2017,Cataluña,female,10th_percentile,7759
+1691,2016,Cataluña,female,10th_percentile,7232
+1692,2015,Cataluña,female,10th_percentile,6943
+1693,2014,Cataluña,female,10th_percentile,6282
+1694,2013,Cataluña,female,10th_percentile,6876
+1695,2012,Cataluña,female,10th_percentile,7299
+1696,2011,Cataluña,female,10th_percentile,7587
+1697,2010,Cataluña,female,10th_percentile,7684
+1698,2009,Cataluña,female,10th_percentile,7817
+1699,2008,Cataluña,female,10th_percentile,7661
+1700,2017,Cataluña,female,lower_quartile,12586
+1701,2016,Cataluña,female,lower_quartile,11795
+1702,2015,Cataluña,female,lower_quartile,11824
+1703,2014,Cataluña,female,lower_quartile,11593
+1704,2013,Cataluña,female,lower_quartile,11897
+1705,2012,Cataluña,female,lower_quartile,12321
+1706,2011,Cataluña,female,lower_quartile,12307
+1707,2010,Cataluña,female,lower_quartile,12314
+1708,2009,Cataluña,female,lower_quartile,12155
+1709,2008,Cataluña,female,lower_quartile,11900
+1710,2017,Cataluña,female,median,18865
+1711,2016,Cataluña,female,median,18372
+1712,2015,Cataluña,female,median,18088
+1713,2014,Cataluña,female,median,17964
+1714,2013,Cataluña,female,median,17962
+1715,2012,Cataluña,female,median,18049
+1716,2011,Cataluña,female,median,18209
+1717,2010,Cataluña,female,median,18016
+1718,2009,Cataluña,female,median,17630
+1719,2008,Cataluña,female,median,16949
+1720,2017,Cataluña,female,upper_quartile,27662
+1721,2016,Cataluña,female,upper_quartile,27070
+1722,2015,Cataluña,female,upper_quartile,26996
+1723,2014,Cataluña,female,upper_quartile,25959
+1724,2013,Cataluña,female,upper_quartile,26311
+1725,2012,Cataluña,female,upper_quartile,26388
+1726,2011,Cataluña,female,upper_quartile,26333
+1727,2010,Cataluña,female,upper_quartile,26680
+1728,2009,Cataluña,female,upper_quartile,25885
+1729,2008,Cataluña,female,upper_quartile,24755
+1730,2017,Cataluña,female,90th_percentile,38780
+1731,2016,Cataluña,female,90th_percentile,37765
+1732,2015,Cataluña,female,90th_percentile,37670
+1733,2014,Cataluña,female,90th_percentile,36695
+1734,2013,Cataluña,female,90th_percentile,37098
+1735,2012,Cataluña,female,90th_percentile,36955
+1736,2011,Cataluña,female,90th_percentile,36132
+1737,2010,Cataluña,female,90th_percentile,37712
+1738,2009,Cataluña,female,90th_percentile,36491
+1739,2008,Cataluña,female,90th_percentile,35008
+1740,2017,Cataluña,male,mean,28323
+1741,2016,Cataluña,male,mean,27572
+1742,2015,Cataluña,male,mean,27514
+1743,2014,Cataluña,male,mean,27447
+1744,2013,Cataluña,male,mean,27684
+1745,2012,Cataluña,male,mean,27836
+1746,2011,Cataluña,male,mean,28025
+1747,2010,Cataluña,male,mean,27601
+1748,2009,Cataluña,male,mean,26901
+1749,2008,Cataluña,male,mean,26353
+1750,2017,Cataluña,male,10th_percentile,11820
+1751,2016,Cataluña,male,10th_percentile,10938
+1752,2015,Cataluña,male,10th_percentile,11525
+1753,2014,Cataluña,male,10th_percentile,10939
+1754,2013,Cataluña,male,10th_percentile,10020
+1755,2012,Cataluña,male,10th_percentile,10646
+1756,2011,Cataluña,male,10th_percentile,11300
+1757,2010,Cataluña,male,10th_percentile,11457
+1758,2009,Cataluña,male,10th_percentile,12265
+1759,2008,Cataluña,male,10th_percentile,12000
+1760,2017,Cataluña,male,lower_quartile,17760
+1761,2016,Cataluña,male,lower_quartile,17240
+1762,2015,Cataluña,male,lower_quartile,17334
+1763,2014,Cataluña,male,lower_quartile,16984
+1764,2013,Cataluña,male,lower_quartile,16696
+1765,2012,Cataluña,male,lower_quartile,17100
+1766,2011,Cataluña,male,lower_quartile,17521
+1767,2010,Cataluña,male,lower_quartile,17254
+1768,2009,Cataluña,male,lower_quartile,16978
+1769,2008,Cataluña,male,lower_quartile,16421
+1770,2017,Cataluña,male,median,24473
+1771,2016,Cataluña,male,median,24050
+1772,2015,Cataluña,male,median,23738
+1773,2014,Cataluña,male,median,23715
+1774,2013,Cataluña,male,median,23922
+1775,2012,Cataluña,male,median,24001
+1776,2011,Cataluña,male,median,24093
+1777,2010,Cataluña,male,median,23488
+1778,2009,Cataluña,male,median,23196
+1779,2008,Cataluña,male,median,22477
+1780,2017,Cataluña,male,upper_quartile,35500
+1781,2016,Cataluña,male,upper_quartile,34772
+1782,2015,Cataluña,male,upper_quartile,34866
+1783,2014,Cataluña,male,upper_quartile,33817
+1784,2013,Cataluña,male,upper_quartile,34989
+1785,2012,Cataluña,male,upper_quartile,34612
+1786,2011,Cataluña,male,upper_quartile,34839
+1787,2010,Cataluña,male,upper_quartile,34215
+1788,2009,Cataluña,male,upper_quartile,32997
+1789,2008,Cataluña,male,upper_quartile,32385
+1790,2017,Cataluña,male,90th_percentile,48108
+1791,2016,Cataluña,male,90th_percentile,47017
+1792,2015,Cataluña,male,90th_percentile,46653
+1793,2014,Cataluña,male,90th_percentile,47782
+1794,2013,Cataluña,male,90th_percentile,49384
+1795,2012,Cataluña,male,90th_percentile,48599
+1796,2011,Cataluña,male,90th_percentile,47976
+1797,2010,Cataluña,male,90th_percentile,47838
+1798,2009,Cataluña,male,90th_percentile,45902
+1799,2008,Cataluña,male,90th_percentile,45276
+1800,2017,Comunitat Valenciana,both,mean,21362
+1801,2016,Comunitat Valenciana,both,mean,21168
+1802,2015,Comunitat Valenciana,both,mean,20935
+1803,2014,Comunitat Valenciana,both,mean,20639
+1804,2013,Comunitat Valenciana,both,mean,20878
+1805,2012,Comunitat Valenciana,both,mean,21223
+1806,2011,Comunitat Valenciana,both,mean,21316
+1807,2010,Comunitat Valenciana,both,mean,20707
+1808,2009,Comunitat Valenciana,both,mean,20489
+1809,2008,Comunitat Valenciana,both,mean,19793
+1810,2017,Comunitat Valenciana,both,10th_percentile,7265
+1811,2016,Comunitat Valenciana,both,10th_percentile,7043
+1812,2015,Comunitat Valenciana,both,10th_percentile,6897
+1813,2014,Comunitat Valenciana,both,10th_percentile,6636
+1814,2013,Comunitat Valenciana,both,10th_percentile,7283
+1815,2012,Comunitat Valenciana,both,10th_percentile,7487
+1816,2011,Comunitat Valenciana,both,10th_percentile,7747
+1817,2010,Comunitat Valenciana,both,10th_percentile,7718
+1818,2009,Comunitat Valenciana,both,10th_percentile,7612
+1819,2008,Comunitat Valenciana,both,10th_percentile,8317
+1820,2017,Comunitat Valenciana,both,lower_quartile,12865
+1821,2016,Comunitat Valenciana,both,lower_quartile,12808
+1822,2015,Comunitat Valenciana,both,lower_quartile,12428
+1823,2014,Comunitat Valenciana,both,lower_quartile,12244
+1824,2013,Comunitat Valenciana,both,lower_quartile,12362
+1825,2012,Comunitat Valenciana,both,lower_quartile,12887
+1826,2011,Comunitat Valenciana,both,lower_quartile,12977
+1827,2010,Comunitat Valenciana,both,lower_quartile,12962
+1828,2009,Comunitat Valenciana,both,lower_quartile,12850
+1829,2008,Comunitat Valenciana,both,lower_quartile,12797
+1830,2017,Comunitat Valenciana,both,median,18310
+1831,2016,Comunitat Valenciana,both,median,18008
+1832,2015,Comunitat Valenciana,both,median,18000
+1833,2014,Comunitat Valenciana,both,median,17856
+1834,2013,Comunitat Valenciana,both,median,17865
+1835,2012,Comunitat Valenciana,both,median,18074
+1836,2011,Comunitat Valenciana,both,median,18137
+1837,2010,Comunitat Valenciana,both,median,17483
+1838,2009,Comunitat Valenciana,both,median,17429
+1839,2008,Comunitat Valenciana,both,median,16863
+1840,2017,Comunitat Valenciana,both,upper_quartile,26410
+1841,2016,Comunitat Valenciana,both,upper_quartile,26271
+1842,2015,Comunitat Valenciana,both,upper_quartile,25743
+1843,2014,Comunitat Valenciana,both,upper_quartile,25339
+1844,2013,Comunitat Valenciana,both,upper_quartile,25586
+1845,2012,Comunitat Valenciana,both,upper_quartile,25978
+1846,2011,Comunitat Valenciana,both,upper_quartile,26090
+1847,2010,Comunitat Valenciana,both,upper_quartile,25120
+1848,2009,Comunitat Valenciana,both,upper_quartile,24961
+1849,2008,Comunitat Valenciana,both,upper_quartile,23849
+1850,2017,Comunitat Valenciana,both,90th_percentile,38196
+1851,2016,Comunitat Valenciana,both,90th_percentile,38160
+1852,2015,Comunitat Valenciana,both,90th_percentile,37632
+1853,2014,Comunitat Valenciana,both,90th_percentile,36847
+1854,2013,Comunitat Valenciana,both,90th_percentile,37246
+1855,2012,Comunitat Valenciana,both,90th_percentile,37676
+1856,2011,Comunitat Valenciana,both,90th_percentile,37964
+1857,2010,Comunitat Valenciana,both,90th_percentile,36714
+1858,2009,Comunitat Valenciana,both,90th_percentile,36322
+1859,2008,Comunitat Valenciana,both,90th_percentile,34299
+1860,2017,Comunitat Valenciana,female,mean,18523
+1861,2016,Comunitat Valenciana,female,mean,18349
+1862,2015,Comunitat Valenciana,female,mean,17811
+1863,2014,Comunitat Valenciana,female,mean,17511
+1864,2013,Comunitat Valenciana,female,mean,17918
+1865,2012,Comunitat Valenciana,female,mean,17870
+1866,2011,Comunitat Valenciana,female,mean,18052
+1867,2010,Comunitat Valenciana,female,mean,17776
+1868,2009,Comunitat Valenciana,female,mean,17426
+1869,2008,Comunitat Valenciana,female,mean,16929
+1870,2017,Comunitat Valenciana,female,10th_percentile,5705
+1871,2016,Comunitat Valenciana,female,10th_percentile,5923
+1872,2015,Comunitat Valenciana,female,10th_percentile,5292
+1873,2014,Comunitat Valenciana,female,10th_percentile,5563
+1874,2013,Comunitat Valenciana,female,10th_percentile,6006
+1875,2012,Comunitat Valenciana,female,10th_percentile,6297
+1876,2011,Comunitat Valenciana,female,10th_percentile,6563
+1877,2010,Comunitat Valenciana,female,10th_percentile,6276
+1878,2009,Comunitat Valenciana,female,10th_percentile,6373
+1879,2008,Comunitat Valenciana,female,10th_percentile,6502
+1880,2017,Comunitat Valenciana,female,lower_quartile,10345
+1881,2016,Comunitat Valenciana,female,lower_quartile,10111
+1882,2015,Comunitat Valenciana,female,lower_quartile,9547
+1883,2014,Comunitat Valenciana,female,lower_quartile,9658
+1884,2013,Comunitat Valenciana,female,lower_quartile,9823
+1885,2012,Comunitat Valenciana,female,lower_quartile,10249
+1886,2011,Comunitat Valenciana,female,lower_quartile,10367
+1887,2010,Comunitat Valenciana,female,lower_quartile,10660
+1888,2009,Comunitat Valenciana,female,lower_quartile,10229
+1889,2008,Comunitat Valenciana,female,lower_quartile,10458
+1890,2017,Comunitat Valenciana,female,median,15653
+1891,2016,Comunitat Valenciana,female,median,15418
+1892,2015,Comunitat Valenciana,female,median,15283
+1893,2014,Comunitat Valenciana,female,median,15322
+1894,2013,Comunitat Valenciana,female,median,15340
+1895,2012,Comunitat Valenciana,female,median,15602
+1896,2011,Comunitat Valenciana,female,median,15853
+1897,2010,Comunitat Valenciana,female,median,15293
+1898,2009,Comunitat Valenciana,female,median,15001
+1899,2008,Comunitat Valenciana,female,median,14699
+1900,2017,Comunitat Valenciana,female,upper_quartile,23512
+1901,2016,Comunitat Valenciana,female,upper_quartile,23126
+1902,2015,Comunitat Valenciana,female,upper_quartile,22570
+1903,2014,Comunitat Valenciana,female,upper_quartile,22116
+1904,2013,Comunitat Valenciana,female,upper_quartile,22892
+1905,2012,Comunitat Valenciana,female,upper_quartile,22471
+1906,2011,Comunitat Valenciana,female,upper_quartile,22872
+1907,2010,Comunitat Valenciana,female,upper_quartile,22202
+1908,2009,Comunitat Valenciana,female,upper_quartile,21691
+1909,2008,Comunitat Valenciana,female,upper_quartile,20693
+1910,2017,Comunitat Valenciana,female,90th_percentile,34497
+1911,2016,Comunitat Valenciana,female,90th_percentile,34515
+1912,2015,Comunitat Valenciana,female,90th_percentile,33509
+1913,2014,Comunitat Valenciana,female,90th_percentile,31932
+1914,2013,Comunitat Valenciana,female,90th_percentile,32835
+1915,2012,Comunitat Valenciana,female,90th_percentile,32198
+1916,2011,Comunitat Valenciana,female,90th_percentile,31533
+1917,2010,Comunitat Valenciana,female,90th_percentile,31602
+1918,2009,Comunitat Valenciana,female,90th_percentile,31982
+1919,2008,Comunitat Valenciana,female,90th_percentile,29038
+1920,2017,Comunitat Valenciana,male,mean,23867
+1921,2016,Comunitat Valenciana,male,mean,23672
+1922,2015,Comunitat Valenciana,male,mean,23919
+1923,2014,Comunitat Valenciana,male,mean,23479
+1924,2013,Comunitat Valenciana,male,mean,23651
+1925,2012,Comunitat Valenciana,male,mean,24289
+1926,2011,Comunitat Valenciana,male,mean,24171
+1927,2010,Comunitat Valenciana,male,mean,23331
+1928,2009,Comunitat Valenciana,male,mean,22951
+1929,2008,Comunitat Valenciana,male,mean,22039
+1930,2017,Comunitat Valenciana,male,10th_percentile,9413
+1931,2016,Comunitat Valenciana,male,10th_percentile,9963
+1932,2015,Comunitat Valenciana,male,10th_percentile,10858
+1933,2014,Comunitat Valenciana,male,10th_percentile,8836
+1934,2013,Comunitat Valenciana,male,10th_percentile,9991
+1935,2012,Comunitat Valenciana,male,10th_percentile,10786
+1936,2011,Comunitat Valenciana,male,10th_percentile,10748
+1937,2010,Comunitat Valenciana,male,10th_percentile,10926
+1938,2009,Comunitat Valenciana,male,10th_percentile,11080
+1939,2008,Comunitat Valenciana,male,10th_percentile,11708
+1940,2017,Comunitat Valenciana,male,lower_quartile,15478
+1941,2016,Comunitat Valenciana,male,lower_quartile,15376
+1942,2015,Comunitat Valenciana,male,lower_quartile,15648
+1943,2014,Comunitat Valenciana,male,lower_quartile,15090
+1944,2013,Comunitat Valenciana,male,lower_quartile,15280
+1945,2012,Comunitat Valenciana,male,lower_quartile,15429
+1946,2011,Comunitat Valenciana,male,lower_quartile,15532
+1947,2010,Comunitat Valenciana,male,lower_quartile,14890
+1948,2009,Comunitat Valenciana,male,lower_quartile,15146
+1949,2008,Comunitat Valenciana,male,lower_quartile,14621
+1950,2017,Comunitat Valenciana,male,median,20063
+1951,2016,Comunitat Valenciana,male,median,19626
+1952,2015,Comunitat Valenciana,male,median,19980
+1953,2014,Comunitat Valenciana,male,median,20074
+1954,2013,Comunitat Valenciana,male,median,19661
+1955,2012,Comunitat Valenciana,male,median,20211
+1956,2011,Comunitat Valenciana,male,median,20044
+1957,2010,Comunitat Valenciana,male,median,19562
+1958,2009,Comunitat Valenciana,male,median,19025
+1959,2008,Comunitat Valenciana,male,median,18500
+1960,2017,Comunitat Valenciana,male,upper_quartile,28721
+1961,2016,Comunitat Valenciana,male,upper_quartile,28509
+1962,2015,Comunitat Valenciana,male,upper_quartile,28738
+1963,2014,Comunitat Valenciana,male,upper_quartile,28206
+1964,2013,Comunitat Valenciana,male,upper_quartile,28551
+1965,2012,Comunitat Valenciana,male,upper_quartile,29325
+1966,2011,Comunitat Valenciana,male,upper_quartile,29000
+1967,2010,Comunitat Valenciana,male,upper_quartile,27990
+1968,2009,Comunitat Valenciana,male,upper_quartile,27810
+1969,2008,Comunitat Valenciana,male,upper_quartile,26073
+1970,2017,Comunitat Valenciana,male,90th_percentile,42149
+1971,2016,Comunitat Valenciana,male,90th_percentile,41620
+1972,2015,Comunitat Valenciana,male,90th_percentile,41760
+1973,2014,Comunitat Valenciana,male,90th_percentile,40270
+1974,2013,Comunitat Valenciana,male,90th_percentile,40680
+1975,2012,Comunitat Valenciana,male,90th_percentile,42012
+1976,2011,Comunitat Valenciana,male,90th_percentile,42215
+1977,2010,Comunitat Valenciana,male,90th_percentile,40177
+1978,2009,Comunitat Valenciana,male,90th_percentile,39853
+1979,2008,Comunitat Valenciana,male,90th_percentile,37516
+1980,2017,Extremadura,both,mean,19672
+1981,2016,Extremadura,both,mean,19475
+1982,2015,Extremadura,both,mean,19564
+1983,2014,Extremadura,both,mean,19180
+1984,2013,Extremadura,both,mean,19129
+1985,2012,Extremadura,both,mean,19721
+1986,2011,Extremadura,both,mean,19879
+1987,2010,Extremadura,both,mean,19480
+1988,2009,Extremadura,both,mean,19099
+1989,2008,Extremadura,both,mean,18264
+1990,2017,Extremadura,both,10th_percentile,6224
+1991,2016,Extremadura,both,10th_percentile,6024
+1992,2015,Extremadura,both,10th_percentile,6069
+1993,2014,Extremadura,both,10th_percentile,6358
+1994,2013,Extremadura,both,10th_percentile,5700
+1995,2012,Extremadura,both,10th_percentile,7313
+1996,2011,Extremadura,both,10th_percentile,7654
+1997,2010,Extremadura,both,10th_percentile,7611
+1998,2009,Extremadura,both,10th_percentile,7871
+1999,2008,Extremadura,both,10th_percentile,8596
+2000,2017,Extremadura,both,lower_quartile,12219
+2001,2016,Extremadura,both,lower_quartile,11299
+2002,2015,Extremadura,both,lower_quartile,11730
+2003,2014,Extremadura,both,lower_quartile,11354
+2004,2013,Extremadura,both,lower_quartile,11637
+2005,2012,Extremadura,both,lower_quartile,12558
+2006,2011,Extremadura,both,lower_quartile,13060
+2007,2010,Extremadura,both,lower_quartile,12770
+2008,2009,Extremadura,both,lower_quartile,12624
+2009,2008,Extremadura,both,lower_quartile,12322
+2010,2017,Extremadura,both,median,17166
+2011,2016,Extremadura,both,median,16700
+2012,2015,Extremadura,both,median,16836
+2013,2014,Extremadura,both,median,16345
+2014,2013,Extremadura,both,median,16635
+2015,2012,Extremadura,both,median,16644
+2016,2011,Extremadura,both,median,16805
+2017,2010,Extremadura,both,median,16122
+2018,2009,Extremadura,both,median,16300
+2019,2008,Extremadura,both,median,15528
+2020,2017,Extremadura,both,upper_quartile,24826
+2021,2016,Extremadura,both,upper_quartile,24579
+2022,2015,Extremadura,both,upper_quartile,24301
+2023,2014,Extremadura,both,upper_quartile,23701
+2024,2013,Extremadura,both,upper_quartile,23534
+2025,2012,Extremadura,both,upper_quartile,23098
+2026,2011,Extremadura,both,upper_quartile,24173
+2027,2010,Extremadura,both,upper_quartile,23058
+2028,2009,Extremadura,both,upper_quartile,22847
+2029,2008,Extremadura,both,upper_quartile,21378
+2030,2017,Extremadura,both,90th_percentile,34196
+2031,2016,Extremadura,both,90th_percentile,34316
+2032,2015,Extremadura,both,90th_percentile,33754
+2033,2014,Extremadura,both,90th_percentile,34323
+2034,2013,Extremadura,both,90th_percentile,33290
+2035,2012,Extremadura,both,90th_percentile,34249
+2036,2011,Extremadura,both,90th_percentile,34792
+2037,2010,Extremadura,both,90th_percentile,34433
+2038,2009,Extremadura,both,90th_percentile,33263
+2039,2008,Extremadura,both,90th_percentile,31302
+2040,2017,Extremadura,female,mean,17722
+2041,2016,Extremadura,female,mean,17360
+2042,2015,Extremadura,female,mean,17304
+2043,2014,Extremadura,female,mean,17413
+2044,2013,Extremadura,female,mean,16304
+2045,2012,Extremadura,female,mean,17401
+2046,2011,Extremadura,female,mean,18060
+2047,2010,Extremadura,female,mean,17876
+2048,2009,Extremadura,female,mean,17549
+2049,2008,Extremadura,female,mean,16623
+2050,2017,Extremadura,female,10th_percentile,4723
+2051,2016,Extremadura,female,10th_percentile,4900
+2052,2015,Extremadura,female,10th_percentile,4882
+2053,2014,Extremadura,female,10th_percentile,5041
+2054,2013,Extremadura,female,10th_percentile,4217
+2055,2012,Extremadura,female,10th_percentile,6224
+2056,2011,Extremadura,female,10th_percentile,5494
+2057,2010,Extremadura,female,10th_percentile,5396
+2058,2009,Extremadura,female,10th_percentile,6158
+2059,2008,Extremadura,female,10th_percentile,6480
+2060,2017,Extremadura,female,lower_quartile,9009
+2061,2016,Extremadura,female,lower_quartile,8466
+2062,2015,Extremadura,female,lower_quartile,8837
+2063,2014,Extremadura,female,lower_quartile,8972
+2064,2013,Extremadura,female,lower_quartile,7854
+2065,2012,Extremadura,female,lower_quartile,9744
+2066,2011,Extremadura,female,lower_quartile,10267
+2067,2010,Extremadura,female,lower_quartile,9962
+2068,2009,Extremadura,female,lower_quartile,10057
+2069,2008,Extremadura,female,lower_quartile,10184
+2070,2017,Extremadura,female,median,14998
+2071,2016,Extremadura,female,median,14711
+2072,2015,Extremadura,female,median,14602
+2073,2014,Extremadura,female,median,14727
+2074,2013,Extremadura,female,median,14377
+2075,2012,Extremadura,female,median,14758
+2076,2011,Extremadura,female,median,15212
+2077,2010,Extremadura,female,median,14334
+2078,2009,Extremadura,female,median,15103
+2079,2008,Extremadura,female,median,14217
+2080,2017,Extremadura,female,upper_quartile,24098
+2081,2016,Extremadura,female,upper_quartile,23624
+2082,2015,Extremadura,female,upper_quartile,22608
+2083,2014,Extremadura,female,upper_quartile,22755
+2084,2013,Extremadura,female,upper_quartile,21284
+2085,2012,Extremadura,female,upper_quartile,21082
+2086,2011,Extremadura,female,upper_quartile,22921
+2087,2010,Extremadura,female,upper_quartile,23111
+2088,2009,Extremadura,female,upper_quartile,22824
+2089,2008,Extremadura,female,upper_quartile,20850
+2090,2017,Extremadura,female,90th_percentile,33742
+2091,2016,Extremadura,female,90th_percentile,33083
+2092,2015,Extremadura,female,90th_percentile,32064
+2093,2014,Extremadura,female,90th_percentile,32704
+2094,2013,Extremadura,female,90th_percentile,28838
+2095,2012,Extremadura,female,90th_percentile,31600
+2096,2011,Extremadura,female,90th_percentile,32614
+2097,2010,Extremadura,female,90th_percentile,33626
+2098,2009,Extremadura,female,90th_percentile,31293
+2099,2008,Extremadura,female,90th_percentile,29234
+2100,2017,Extremadura,male,mean,21585
+2101,2016,Extremadura,male,mean,21554
+2102,2015,Extremadura,male,mean,21813
+2103,2014,Extremadura,male,mean,20829
+2104,2013,Extremadura,male,mean,21780
+2105,2012,Extremadura,male,mean,21585
+2106,2011,Extremadura,male,mean,21318
+2107,2010,Extremadura,male,mean,20787
+2108,2009,Extremadura,male,mean,20207
+2109,2008,Extremadura,male,mean,19390
+2110,2017,Extremadura,male,10th_percentile,10710
+2111,2016,Extremadura,male,10th_percentile,9154
+2112,2015,Extremadura,male,10th_percentile,9350
+2113,2014,Extremadura,male,10th_percentile,8516
+2114,2013,Extremadura,male,10th_percentile,9723
+2115,2012,Extremadura,male,10th_percentile,10651
+2116,2011,Extremadura,male,10th_percentile,11377
+2117,2010,Extremadura,male,10th_percentile,11257
+2118,2009,Extremadura,male,10th_percentile,10875
+2119,2008,Extremadura,male,10th_percentile,10863
+2120,2017,Extremadura,male,lower_quartile,14642
+2121,2016,Extremadura,male,lower_quartile,14238
+2122,2015,Extremadura,male,lower_quartile,14142
+2123,2014,Extremadura,male,lower_quartile,13476
+2124,2013,Extremadura,male,lower_quartile,14036
+2125,2012,Extremadura,male,lower_quartile,14352
+2126,2011,Extremadura,male,lower_quartile,14052
+2127,2010,Extremadura,male,lower_quartile,13922
+2128,2009,Extremadura,male,lower_quartile,13741
+2129,2008,Extremadura,male,lower_quartile,13506
+2130,2017,Extremadura,male,median,18366
+2131,2016,Extremadura,male,median,17972
+2132,2015,Extremadura,male,median,18150
+2133,2014,Extremadura,male,median,17337
+2134,2013,Extremadura,male,median,17656
+2135,2012,Extremadura,male,median,17477
+2136,2011,Extremadura,male,median,17606
+2137,2010,Extremadura,male,median,16856
+2138,2009,Extremadura,male,median,16710
+2139,2008,Extremadura,male,median,16043
+2140,2017,Extremadura,male,upper_quartile,25750
+2141,2016,Extremadura,male,upper_quartile,25697
+2142,2015,Extremadura,male,upper_quartile,25795
+2143,2014,Extremadura,male,upper_quartile,24431
+2144,2013,Extremadura,male,upper_quartile,26133
+2145,2012,Extremadura,male,upper_quartile,24790
+2146,2011,Extremadura,male,upper_quartile,25162
+2147,2010,Extremadura,male,upper_quartile,22923
+2148,2009,Extremadura,male,upper_quartile,22967
+2149,2008,Extremadura,male,upper_quartile,21664
+2150,2017,Extremadura,male,90th_percentile,34694
+2151,2016,Extremadura,male,90th_percentile,35470
+2152,2015,Extremadura,male,90th_percentile,36131
+2153,2014,Extremadura,male,90th_percentile,35999
+2154,2013,Extremadura,male,90th_percentile,37415
+2155,2012,Extremadura,male,90th_percentile,37974
+2156,2011,Extremadura,male,90th_percentile,35531
+2157,2010,Extremadura,male,90th_percentile,35497
+2158,2009,Extremadura,male,90th_percentile,34406
+2159,2008,Extremadura,male,90th_percentile,32517
+2160,2017,Galicia,both,mean,21605
+2161,2016,Galicia,both,mean,21082
+2162,2015,Galicia,both,mean,20624
+2163,2014,Galicia,both,mean,20195
+2164,2013,Galicia,both,mean,19824
+2165,2012,Galicia,both,mean,19389
+2166,2011,Galicia,both,mean,19970
+2167,2010,Galicia,both,mean,20241
+2168,2009,Galicia,both,mean,19806
+2169,2008,Galicia,both,mean,19156
+2170,2017,Galicia,both,10th_percentile,8588
+2171,2016,Galicia,both,10th_percentile,8161
+2172,2015,Galicia,both,10th_percentile,8028
+2173,2014,Galicia,both,10th_percentile,7736
+2174,2013,Galicia,both,10th_percentile,7763
+2175,2012,Galicia,both,10th_percentile,7815
+2176,2011,Galicia,both,10th_percentile,8287
+2177,2010,Galicia,both,10th_percentile,8828
+2178,2009,Galicia,both,10th_percentile,8742
+2179,2008,Galicia,both,10th_percentile,8400
+2180,2017,Galicia,both,lower_quartile,13571
+2181,2016,Galicia,both,lower_quartile,13136
+2182,2015,Galicia,both,lower_quartile,13199
+2183,2014,Galicia,both,lower_quartile,12629
+2184,2013,Galicia,both,lower_quartile,12815
+2185,2012,Galicia,both,lower_quartile,12718
+2186,2011,Galicia,both,lower_quartile,12962
+2187,2010,Galicia,both,lower_quartile,13025
+2188,2009,Galicia,both,lower_quartile,12730
+2189,2008,Galicia,both,lower_quartile,12293
+2190,2017,Galicia,both,median,18529
+2191,2016,Galicia,both,median,18146
+2192,2015,Galicia,both,median,17599
+2193,2014,Galicia,both,median,17379
+2194,2013,Galicia,both,median,17187
+2195,2012,Galicia,both,median,16632
+2196,2011,Galicia,both,median,16873
+2197,2010,Galicia,both,median,17216
+2198,2009,Galicia,both,median,16569
+2199,2008,Galicia,both,median,16150
+2200,2017,Galicia,both,upper_quartile,26408
+2201,2016,Galicia,both,upper_quartile,25610
+2202,2015,Galicia,both,upper_quartile,25004
+2203,2014,Galicia,both,upper_quartile,24364
+2204,2013,Galicia,both,upper_quartile,23692
+2205,2012,Galicia,both,upper_quartile,22687
+2206,2011,Galicia,both,upper_quartile,23677
+2207,2010,Galicia,both,upper_quartile,24002
+2208,2009,Galicia,both,upper_quartile,23633
+2209,2008,Galicia,both,upper_quartile,23001
+2210,2017,Galicia,both,90th_percentile,37886
+2211,2016,Galicia,both,90th_percentile,36900
+2212,2015,Galicia,both,90th_percentile,36302
+2213,2014,Galicia,both,90th_percentile,35829
+2214,2013,Galicia,both,90th_percentile,34654
+2215,2012,Galicia,both,90th_percentile,33584
+2216,2011,Galicia,both,90th_percentile,35362
+2217,2010,Galicia,both,90th_percentile,34931
+2218,2009,Galicia,both,90th_percentile,35429
+2219,2008,Galicia,both,90th_percentile,33906
+2220,2017,Galicia,female,mean,18833
+2221,2016,Galicia,female,mean,18294
+2222,2015,Galicia,female,mean,18093
+2223,2014,Galicia,female,mean,17797
+2224,2013,Galicia,female,mean,17258
+2225,2012,Galicia,female,mean,16727
+2226,2011,Galicia,female,mean,17291
+2227,2010,Galicia,female,mean,17691
+2228,2009,Galicia,female,mean,17342
+2229,2008,Galicia,female,mean,16646
+2230,2017,Galicia,female,10th_percentile,6405
+2231,2016,Galicia,female,10th_percentile,6436
+2232,2015,Galicia,female,10th_percentile,6243
+2233,2014,Galicia,female,10th_percentile,6312
+2234,2013,Galicia,female,10th_percentile,6146
+2235,2012,Galicia,female,10th_percentile,6383
+2236,2011,Galicia,female,10th_percentile,6598
+2237,2010,Galicia,female,10th_percentile,6990
+2238,2009,Galicia,female,10th_percentile,6724
+2239,2008,Galicia,female,10th_percentile,6476
+2240,2017,Galicia,female,lower_quartile,11191
+2241,2016,Galicia,female,lower_quartile,10970
+2242,2015,Galicia,female,lower_quartile,10985
+2243,2014,Galicia,female,lower_quartile,10547
+2244,2013,Galicia,female,lower_quartile,10712
+2245,2012,Galicia,female,lower_quartile,10731
+2246,2011,Galicia,female,lower_quartile,10372
+2247,2010,Galicia,female,lower_quartile,10755
+2248,2009,Galicia,female,lower_quartile,10593
+2249,2008,Galicia,female,lower_quartile,10201
+2250,2017,Galicia,female,median,15970
+2251,2016,Galicia,female,median,15542
+2252,2015,Galicia,female,median,15430
+2253,2014,Galicia,female,median,15130
+2254,2013,Galicia,female,median,15005
+2255,2012,Galicia,female,median,14629
+2256,2011,Galicia,female,median,14826
+2257,2010,Galicia,female,median,14992
+2258,2009,Galicia,female,median,14605
+2259,2008,Galicia,female,median,13859
+2260,2017,Galicia,female,upper_quartile,23173
+2261,2016,Galicia,female,upper_quartile,22561
+2262,2015,Galicia,female,upper_quartile,22072
+2263,2014,Galicia,female,upper_quartile,22151
+2264,2013,Galicia,female,upper_quartile,21077
+2265,2012,Galicia,female,upper_quartile,20103
+2266,2011,Galicia,female,upper_quartile,21313
+2267,2010,Galicia,female,upper_quartile,21709
+2268,2009,Galicia,female,upper_quartile,21676
+2269,2008,Galicia,female,upper_quartile,20256
+2270,2017,Galicia,female,90th_percentile,33958
+2271,2016,Galicia,female,90th_percentile,32918
+2272,2015,Galicia,female,90th_percentile,32281
+2273,2014,Galicia,female,90th_percentile,32264
+2274,2013,Galicia,female,90th_percentile,30224
+2275,2012,Galicia,female,90th_percentile,28952
+2276,2011,Galicia,female,90th_percentile,30532
+2277,2010,Galicia,female,90th_percentile,31698
+2278,2009,Galicia,female,90th_percentile,32739
+2279,2008,Galicia,female,90th_percentile,30915
+2280,2017,Galicia,male,mean,24321
+2281,2016,Galicia,male,mean,23774
+2282,2015,Galicia,male,mean,23189
+2283,2014,Galicia,male,mean,22505
+2284,2013,Galicia,male,mean,22522
+2285,2012,Galicia,male,mean,22059
+2286,2011,Galicia,male,mean,22381
+2287,2010,Galicia,male,mean,22626
+2288,2009,Galicia,male,mean,21829
+2289,2008,Galicia,male,mean,21105
+2290,2017,Galicia,male,10th_percentile,12287
+2291,2016,Galicia,male,10th_percentile,11817
+2292,2015,Galicia,male,10th_percentile,12014
+2293,2014,Galicia,male,10th_percentile,10505
+2294,2013,Galicia,male,10th_percentile,11581
+2295,2012,Galicia,male,10th_percentile,11128
+2296,2011,Galicia,male,10th_percentile,11897
+2297,2010,Galicia,male,10th_percentile,12100
+2298,2009,Galicia,male,10th_percentile,11778
+2299,2008,Galicia,male,10th_percentile,11384
+2300,2017,Galicia,male,lower_quartile,16269
+2301,2016,Galicia,male,lower_quartile,15918
+2302,2015,Galicia,male,lower_quartile,15812
+2303,2014,Galicia,male,lower_quartile,15213
+2304,2013,Galicia,male,lower_quartile,15370
+2305,2012,Galicia,male,lower_quartile,14907
+2306,2011,Galicia,male,lower_quartile,14979
+2307,2010,Galicia,male,lower_quartile,15403
+2308,2009,Galicia,male,lower_quartile,14575
+2309,2008,Galicia,male,lower_quartile,14386
+2310,2017,Galicia,male,median,20715
+2311,2016,Galicia,male,median,20204
+2312,2015,Galicia,male,median,19646
+2313,2014,Galicia,male,median,19060
+2314,2013,Galicia,male,median,19081
+2315,2012,Galicia,male,median,18257
+2316,2011,Galicia,male,median,18251
+2317,2010,Galicia,male,median,18574
+2318,2009,Galicia,male,median,17724
+2319,2008,Galicia,male,median,17253
+2320,2017,Galicia,male,upper_quartile,29016
+2321,2016,Galicia,male,upper_quartile,27904
+2322,2015,Galicia,male,upper_quartile,27688
+2323,2014,Galicia,male,upper_quartile,26779
+2324,2013,Galicia,male,upper_quartile,26332
+2325,2012,Galicia,male,upper_quartile,25573
+2326,2011,Galicia,male,upper_quartile,25901
+2327,2010,Galicia,male,upper_quartile,25925
+2328,2009,Galicia,male,upper_quartile,25696
+2329,2008,Galicia,male,upper_quartile,24501
+2330,2017,Galicia,male,90th_percentile,41285
+2331,2016,Galicia,male,90th_percentile,40214
+2332,2015,Galicia,male,90th_percentile,39581
+2333,2014,Galicia,male,90th_percentile,38893
+2334,2013,Galicia,male,90th_percentile,37852
+2335,2012,Galicia,male,90th_percentile,37990
+2336,2011,Galicia,male,90th_percentile,38583
+2337,2010,Galicia,male,90th_percentile,38530
+2338,2009,Galicia,male,90th_percentile,38045
+2339,2008,Galicia,male,90th_percentile,36293
+2340,2017,"Madrid, Comunidad de",both,mean,27089
+2341,2016,"Madrid, Comunidad de",both,mean,26330
+2342,2015,"Madrid, Comunidad de",both,mean,26448
+2343,2014,"Madrid, Comunidad de",both,mean,26570
+2344,2013,"Madrid, Comunidad de",both,mean,26215
+2345,2012,"Madrid, Comunidad de",both,mean,26044
+2346,2011,"Madrid, Comunidad de",both,mean,25845
+2347,2010,"Madrid, Comunidad de",both,mean,25988
+2348,2009,"Madrid, Comunidad de",both,mean,25860
+2349,2008,"Madrid, Comunidad de",both,mean,25269
+2350,2017,"Madrid, Comunidad de",both,10th_percentile,9920
+2351,2016,"Madrid, Comunidad de",both,10th_percentile,9619
+2352,2015,"Madrid, Comunidad de",both,10th_percentile,9165
+2353,2014,"Madrid, Comunidad de",both,10th_percentile,8862
+2354,2013,"Madrid, Comunidad de",both,10th_percentile,8884
+2355,2012,"Madrid, Comunidad de",both,10th_percentile,9154
+2356,2011,"Madrid, Comunidad de",both,10th_percentile,9307
+2357,2010,"Madrid, Comunidad de",both,10th_percentile,10101
+2358,2009,"Madrid, Comunidad de",both,10th_percentile,9773
+2359,2008,"Madrid, Comunidad de",both,10th_percentile,9715
+2360,2017,"Madrid, Comunidad de",both,lower_quartile,14697
+2361,2016,"Madrid, Comunidad de",both,lower_quartile,14263
+2362,2015,"Madrid, Comunidad de",both,lower_quartile,14359
+2363,2014,"Madrid, Comunidad de",both,lower_quartile,14275
+2364,2013,"Madrid, Comunidad de",both,lower_quartile,14117
+2365,2012,"Madrid, Comunidad de",both,lower_quartile,14323
+2366,2011,"Madrid, Comunidad de",both,lower_quartile,14192
+2367,2010,"Madrid, Comunidad de",both,lower_quartile,14604
+2368,2009,"Madrid, Comunidad de",both,lower_quartile,14205
+2369,2008,"Madrid, Comunidad de",both,lower_quartile,13915
+2370,2017,"Madrid, Comunidad de",both,median,21608
+2371,2016,"Madrid, Comunidad de",both,median,21165
+2372,2015,"Madrid, Comunidad de",both,median,21307
+2373,2014,"Madrid, Comunidad de",both,median,21579
+2374,2013,"Madrid, Comunidad de",both,median,21273
+2375,2012,"Madrid, Comunidad de",both,median,21418
+2376,2011,"Madrid, Comunidad de",both,median,21045
+2377,2010,"Madrid, Comunidad de",both,median,21319
+2378,2009,"Madrid, Comunidad de",both,median,20712
+2379,2008,"Madrid, Comunidad de",both,median,20269
+2380,2017,"Madrid, Comunidad de",both,upper_quartile,34094
+2381,2016,"Madrid, Comunidad de",both,upper_quartile,33321
+2382,2015,"Madrid, Comunidad de",both,upper_quartile,33382
+2383,2014,"Madrid, Comunidad de",both,upper_quartile,33791
+2384,2013,"Madrid, Comunidad de",both,upper_quartile,33557
+2385,2012,"Madrid, Comunidad de",both,upper_quartile,33429
+2386,2011,"Madrid, Comunidad de",both,upper_quartile,33026
+2387,2010,"Madrid, Comunidad de",both,upper_quartile,32678
+2388,2009,"Madrid, Comunidad de",both,upper_quartile,33000
+2389,2008,"Madrid, Comunidad de",both,upper_quartile,32008
+2390,2017,"Madrid, Comunidad de",both,90th_percentile,50280
+2391,2016,"Madrid, Comunidad de",both,90th_percentile,49427
+2392,2015,"Madrid, Comunidad de",both,90th_percentile,49079
+2393,2014,"Madrid, Comunidad de",both,90th_percentile,49985
+2394,2013,"Madrid, Comunidad de",both,90th_percentile,49370
+2395,2012,"Madrid, Comunidad de",both,90th_percentile,48734
+2396,2011,"Madrid, Comunidad de",both,90th_percentile,48212
+2397,2010,"Madrid, Comunidad de",both,90th_percentile,47391
+2398,2009,"Madrid, Comunidad de",both,90th_percentile,48338
+2399,2008,"Madrid, Comunidad de",both,90th_percentile,46748
+2400,2017,"Madrid, Comunidad de",female,mean,24029
+2401,2016,"Madrid, Comunidad de",female,mean,23371
+2402,2015,"Madrid, Comunidad de",female,mean,23470
+2403,2014,"Madrid, Comunidad de",female,mean,23326
+2404,2013,"Madrid, Comunidad de",female,mean,22959
+2405,2012,"Madrid, Comunidad de",female,mean,22841
+2406,2011,"Madrid, Comunidad de",female,mean,22585
+2407,2010,"Madrid, Comunidad de",female,mean,22721
+2408,2009,"Madrid, Comunidad de",female,mean,22048
+2409,2008,"Madrid, Comunidad de",female,mean,21787
+2410,2017,"Madrid, Comunidad de",female,10th_percentile,8311
+2411,2016,"Madrid, Comunidad de",female,10th_percentile,8236
+2412,2015,"Madrid, Comunidad de",female,10th_percentile,7992
+2413,2014,"Madrid, Comunidad de",female,10th_percentile,7413
+2414,2013,"Madrid, Comunidad de",female,10th_percentile,7665
+2415,2012,"Madrid, Comunidad de",female,10th_percentile,7799
+2416,2011,"Madrid, Comunidad de",female,10th_percentile,8100
+2417,2010,"Madrid, Comunidad de",female,10th_percentile,8570
+2418,2009,"Madrid, Comunidad de",female,10th_percentile,7899
+2419,2008,"Madrid, Comunidad de",female,10th_percentile,8478
+2420,2017,"Madrid, Comunidad de",female,lower_quartile,13048
+2421,2016,"Madrid, Comunidad de",female,lower_quartile,12641
+2422,2015,"Madrid, Comunidad de",female,lower_quartile,12694
+2423,2014,"Madrid, Comunidad de",female,lower_quartile,12661
+2424,2013,"Madrid, Comunidad de",female,lower_quartile,12380
+2425,2012,"Madrid, Comunidad de",female,lower_quartile,12569
+2426,2011,"Madrid, Comunidad de",female,lower_quartile,12542
+2427,2010,"Madrid, Comunidad de",female,lower_quartile,13081
+2428,2009,"Madrid, Comunidad de",female,lower_quartile,12448
+2429,2008,"Madrid, Comunidad de",female,lower_quartile,12039
+2430,2017,"Madrid, Comunidad de",female,median,19368
+2431,2016,"Madrid, Comunidad de",female,median,18823
+2432,2015,"Madrid, Comunidad de",female,median,19145
+2433,2014,"Madrid, Comunidad de",female,median,19133
+2434,2013,"Madrid, Comunidad de",female,median,18587
+2435,2012,"Madrid, Comunidad de",female,median,18595
+2436,2011,"Madrid, Comunidad de",female,median,18448
+2437,2010,"Madrid, Comunidad de",female,median,18788
+2438,2009,"Madrid, Comunidad de",female,median,17845
+2439,2008,"Madrid, Comunidad de",female,median,17532
+2440,2017,"Madrid, Comunidad de",female,upper_quartile,30691
+2441,2016,"Madrid, Comunidad de",female,upper_quartile,30000
+2442,2015,"Madrid, Comunidad de",female,upper_quartile,29977
+2443,2014,"Madrid, Comunidad de",female,upper_quartile,30072
+2444,2013,"Madrid, Comunidad de",female,upper_quartile,29358
+2445,2012,"Madrid, Comunidad de",female,upper_quartile,29026
+2446,2011,"Madrid, Comunidad de",female,upper_quartile,28736
+2447,2010,"Madrid, Comunidad de",female,upper_quartile,28789
+2448,2009,"Madrid, Comunidad de",female,upper_quartile,27994
+2449,2008,"Madrid, Comunidad de",female,upper_quartile,27719
+2450,2017,"Madrid, Comunidad de",female,90th_percentile,45093
+2451,2016,"Madrid, Comunidad de",female,90th_percentile,44087
+2452,2015,"Madrid, Comunidad de",female,90th_percentile,44333
+2453,2014,"Madrid, Comunidad de",female,90th_percentile,44066
+2454,2013,"Madrid, Comunidad de",female,90th_percentile,43720
+2455,2012,"Madrid, Comunidad de",female,90th_percentile,43196
+2456,2011,"Madrid, Comunidad de",female,90th_percentile,41987
+2457,2010,"Madrid, Comunidad de",female,90th_percentile,41447
+2458,2009,"Madrid, Comunidad de",female,90th_percentile,41205
+2459,2008,"Madrid, Comunidad de",female,90th_percentile,40719
+2460,2017,"Madrid, Comunidad de",male,mean,29910
+2461,2016,"Madrid, Comunidad de",male,mean,29111
+2462,2015,"Madrid, Comunidad de",male,mean,29314
+2463,2014,"Madrid, Comunidad de",male,mean,29734
+2464,2013,"Madrid, Comunidad de",male,mean,29224
+2465,2012,"Madrid, Comunidad de",male,mean,29116
+2466,2011,"Madrid, Comunidad de",male,mean,28896
+2467,2010,"Madrid, Comunidad de",male,mean,29016
+2468,2009,"Madrid, Comunidad de",male,mean,29333
+2469,2008,"Madrid, Comunidad de",male,mean,28228
+2470,2017,"Madrid, Comunidad de",male,10th_percentile,12026
+2471,2016,"Madrid, Comunidad de",male,10th_percentile,11168
+2472,2015,"Madrid, Comunidad de",male,10th_percentile,11122
+2473,2014,"Madrid, Comunidad de",male,10th_percentile,10345
+2474,2013,"Madrid, Comunidad de",male,10th_percentile,10415
+2475,2012,"Madrid, Comunidad de",male,10th_percentile,10974
+2476,2011,"Madrid, Comunidad de",male,10th_percentile,11037
+2477,2010,"Madrid, Comunidad de",male,10th_percentile,12030
+2478,2009,"Madrid, Comunidad de",male,10th_percentile,11839
+2479,2008,"Madrid, Comunidad de",male,10th_percentile,11453
+2480,2017,"Madrid, Comunidad de",male,lower_quartile,16477
+2481,2016,"Madrid, Comunidad de",male,lower_quartile,15889
+2482,2015,"Madrid, Comunidad de",male,lower_quartile,15999
+2483,2014,"Madrid, Comunidad de",male,lower_quartile,16169
+2484,2013,"Madrid, Comunidad de",male,lower_quartile,16003
+2485,2012,"Madrid, Comunidad de",male,lower_quartile,16338
+2486,2011,"Madrid, Comunidad de",male,lower_quartile,16284
+2487,2010,"Madrid, Comunidad de",male,lower_quartile,16650
+2488,2009,"Madrid, Comunidad de",male,lower_quartile,16422
+2489,2008,"Madrid, Comunidad de",male,lower_quartile,15897
+2490,2017,"Madrid, Comunidad de",male,median,23704
+2491,2016,"Madrid, Comunidad de",male,median,23368
+2492,2015,"Madrid, Comunidad de",male,median,23478
+2493,2014,"Madrid, Comunidad de",male,median,24238
+2494,2013,"Madrid, Comunidad de",male,median,24000
+2495,2012,"Madrid, Comunidad de",male,median,24178
+2496,2011,"Madrid, Comunidad de",male,median,23755
+2497,2010,"Madrid, Comunidad de",male,median,23662
+2498,2009,"Madrid, Comunidad de",male,median,23526
+2499,2008,"Madrid, Comunidad de",male,median,22633
+2500,2017,"Madrid, Comunidad de",male,upper_quartile,37524
+2501,2016,"Madrid, Comunidad de",male,upper_quartile,37121
+2502,2015,"Madrid, Comunidad de",male,upper_quartile,37020
+2503,2014,"Madrid, Comunidad de",male,upper_quartile,37789
+2504,2013,"Madrid, Comunidad de",male,upper_quartile,37329
+2505,2012,"Madrid, Comunidad de",male,upper_quartile,37234
+2506,2011,"Madrid, Comunidad de",male,upper_quartile,37146
+2507,2010,"Madrid, Comunidad de",male,upper_quartile,36000
+2508,2009,"Madrid, Comunidad de",male,upper_quartile,37212
+2509,2008,"Madrid, Comunidad de",male,upper_quartile,35649
+2510,2017,"Madrid, Comunidad de",male,90th_percentile,54674
+2511,2016,"Madrid, Comunidad de",male,90th_percentile,54266
+2512,2015,"Madrid, Comunidad de",male,90th_percentile,53873
+2513,2014,"Madrid, Comunidad de",male,90th_percentile,54979
+2514,2013,"Madrid, Comunidad de",male,90th_percentile,54635
+2515,2012,"Madrid, Comunidad de",male,90th_percentile,53378
+2516,2011,"Madrid, Comunidad de",male,90th_percentile,53382
+2517,2010,"Madrid, Comunidad de",male,90th_percentile,52372
+2518,2009,"Madrid, Comunidad de",male,90th_percentile,54461
+2519,2008,"Madrid, Comunidad de",male,90th_percentile,52686
+2520,2017,"Murcia, Región de",both,mean,21309
+2521,2016,"Murcia, Región de",both,mean,21242
+2522,2015,"Murcia, Región de",both,mean,20928
+2523,2014,"Murcia, Región de",both,mean,20717
+2524,2013,"Murcia, Región de",both,mean,20449
+2525,2012,"Murcia, Región de",both,mean,20682
+2526,2011,"Murcia, Región de",both,mean,21077
+2527,2010,"Murcia, Región de",both,mean,20863
+2528,2009,"Murcia, Región de",both,mean,20430
+2529,2008,"Murcia, Región de",both,mean,18911
+2530,2017,"Murcia, Región de",both,10th_percentile,7736
+2531,2016,"Murcia, Región de",both,10th_percentile,7567
+2532,2015,"Murcia, Región de",both,10th_percentile,7000
+2533,2014,"Murcia, Región de",both,10th_percentile,6893
+2534,2013,"Murcia, Región de",both,10th_percentile,6788
+2535,2012,"Murcia, Región de",both,10th_percentile,6926
+2536,2011,"Murcia, Región de",both,10th_percentile,7689
+2537,2010,"Murcia, Región de",both,10th_percentile,7481
+2538,2009,"Murcia, Región de",both,10th_percentile,7907
+2539,2008,"Murcia, Región de",both,10th_percentile,7895
+2540,2017,"Murcia, Región de",both,lower_quartile,12970
+2541,2016,"Murcia, Región de",both,lower_quartile,12265
+2542,2015,"Murcia, Región de",both,lower_quartile,12402
+2543,2014,"Murcia, Región de",both,lower_quartile,12437
+2544,2013,"Murcia, Región de",both,lower_quartile,11717
+2545,2012,"Murcia, Región de",both,lower_quartile,12444
+2546,2011,"Murcia, Región de",both,lower_quartile,12531
+2547,2010,"Murcia, Región de",both,lower_quartile,12589
+2548,2009,"Murcia, Región de",both,lower_quartile,12492
+2549,2008,"Murcia, Región de",both,lower_quartile,12270
+2550,2017,"Murcia, Región de",both,median,18004
+2551,2016,"Murcia, Región de",both,median,17551
+2552,2015,"Murcia, Región de",both,median,17669
+2553,2014,"Murcia, Región de",both,median,17459
+2554,2013,"Murcia, Región de",both,median,17401
+2555,2012,"Murcia, Región de",both,median,17650
+2556,2011,"Murcia, Región de",both,median,17783
+2557,2010,"Murcia, Región de",both,median,17436
+2558,2009,"Murcia, Región de",both,median,17243
+2559,2008,"Murcia, Región de",both,median,16321
+2560,2017,"Murcia, Región de",both,upper_quartile,25903
+2561,2016,"Murcia, Región de",both,upper_quartile,25965
+2562,2015,"Murcia, Región de",both,upper_quartile,25534
+2563,2014,"Murcia, Región de",both,upper_quartile,26037
+2564,2013,"Murcia, Región de",both,upper_quartile,24994
+2565,2012,"Murcia, Región de",both,upper_quartile,25376
+2566,2011,"Murcia, Región de",both,upper_quartile,25639
+2567,2010,"Murcia, Región de",both,upper_quartile,24931
+2568,2009,"Murcia, Región de",both,upper_quartile,25574
+2569,2008,"Murcia, Región de",both,upper_quartile,22772
+2570,2017,"Murcia, Región de",both,90th_percentile,37636
+2571,2016,"Murcia, Región de",both,90th_percentile,38678
+2572,2015,"Murcia, Región de",both,90th_percentile,37760
+2573,2014,"Murcia, Región de",both,90th_percentile,37981
+2574,2013,"Murcia, Región de",both,90th_percentile,37364
+2575,2012,"Murcia, Región de",both,90th_percentile,37008
+2576,2011,"Murcia, Región de",both,90th_percentile,37830
+2577,2010,"Murcia, Región de",both,90th_percentile,37678
+2578,2009,"Murcia, Región de",both,90th_percentile,37198
+2579,2008,"Murcia, Región de",both,90th_percentile,32830
+2580,2017,"Murcia, Región de",female,mean,18048
+2581,2016,"Murcia, Región de",female,mean,18033
+2582,2015,"Murcia, Región de",female,mean,17540
+2583,2014,"Murcia, Región de",female,mean,17500
+2584,2013,"Murcia, Región de",female,mean,16957
+2585,2012,"Murcia, Región de",female,mean,17457
+2586,2011,"Murcia, Región de",female,mean,18053
+2587,2010,"Murcia, Región de",female,mean,17838
+2588,2009,"Murcia, Región de",female,mean,17384
+2589,2008,"Murcia, Región de",female,mean,16020
+2590,2017,"Murcia, Región de",female,10th_percentile,6199
+2591,2016,"Murcia, Región de",female,10th_percentile,5901
+2592,2015,"Murcia, Región de",female,10th_percentile,5382
+2593,2014,"Murcia, Región de",female,10th_percentile,5776
+2594,2013,"Murcia, Región de",female,10th_percentile,5368
+2595,2012,"Murcia, Región de",female,10th_percentile,5704
+2596,2011,"Murcia, Región de",female,10th_percentile,5990
+2597,2010,"Murcia, Región de",female,10th_percentile,5976
+2598,2009,"Murcia, Región de",female,10th_percentile,6513
+2599,2008,"Murcia, Región de",female,10th_percentile,6147
+2600,2017,"Murcia, Región de",female,lower_quartile,10263
+2601,2016,"Murcia, Región de",female,lower_quartile,9621
+2602,2015,"Murcia, Región de",female,lower_quartile,9325
+2603,2014,"Murcia, Región de",female,lower_quartile,9643
+2604,2013,"Murcia, Región de",female,lower_quartile,9034
+2605,2012,"Murcia, Región de",female,lower_quartile,9589
+2606,2011,"Murcia, Región de",female,lower_quartile,10189
+2607,2010,"Murcia, Región de",female,lower_quartile,10212
+2608,2009,"Murcia, Región de",female,lower_quartile,9567
+2609,2008,"Murcia, Región de",female,lower_quartile,9322
+2610,2017,"Murcia, Región de",female,median,14803
+2611,2016,"Murcia, Región de",female,median,14437
+2612,2015,"Murcia, Región de",female,median,14294
+2613,2014,"Murcia, Región de",female,median,14269
+2614,2013,"Murcia, Región de",female,median,14055
+2615,2012,"Murcia, Región de",female,median,14781
+2616,2011,"Murcia, Región de",female,median,15296
+2617,2010,"Murcia, Región de",female,median,14562
+2618,2009,"Murcia, Región de",female,median,14140
+2619,2008,"Murcia, Región de",female,median,13626
+2620,2017,"Murcia, Región de",female,upper_quartile,22802
+2621,2016,"Murcia, Región de",female,upper_quartile,23562
+2622,2015,"Murcia, Región de",female,upper_quartile,22602
+2623,2014,"Murcia, Región de",female,upper_quartile,22649
+2624,2013,"Murcia, Región de",female,upper_quartile,21962
+2625,2012,"Murcia, Región de",female,upper_quartile,22360
+2626,2011,"Murcia, Región de",female,upper_quartile,22910
+2627,2010,"Murcia, Región de",female,upper_quartile,21813
+2628,2009,"Murcia, Región de",female,upper_quartile,22295
+2629,2008,"Murcia, Región de",female,upper_quartile,20421
+2630,2017,"Murcia, Región de",female,90th_percentile,33513
+2631,2016,"Murcia, Región de",female,90th_percentile,34632
+2632,2015,"Murcia, Región de",female,90th_percentile,34236
+2633,2014,"Murcia, Región de",female,90th_percentile,33381
+2634,2013,"Murcia, Región de",female,90th_percentile,31746
+2635,2012,"Murcia, Región de",female,90th_percentile,31905
+2636,2011,"Murcia, Región de",female,90th_percentile,32153
+2637,2010,"Murcia, Región de",female,90th_percentile,32576
+2638,2009,"Murcia, Región de",female,90th_percentile,33445
+2639,2008,"Murcia, Región de",female,90th_percentile,29881
+2640,2017,"Murcia, Región de",male,mean,24009
+2641,2016,"Murcia, Región de",male,mean,23947
+2642,2015,"Murcia, Región de",male,mean,23773
+2643,2014,"Murcia, Región de",male,mean,23419
+2644,2013,"Murcia, Región de",male,mean,23428
+2645,2012,"Murcia, Región de",male,mean,23487
+2646,2011,"Murcia, Región de",male,mean,23460
+2647,2010,"Murcia, Región de",male,mean,23482
+2648,2009,"Murcia, Región de",male,mean,22628
+2649,2008,"Murcia, Región de",male,mean,21174
+2650,2017,"Murcia, Región de",male,10th_percentile,11416
+2651,2016,"Murcia, Región de",male,10th_percentile,10692
+2652,2015,"Murcia, Región de",male,10th_percentile,11655
+2653,2014,"Murcia, Región de",male,10th_percentile,10140
+2654,2013,"Murcia, Región de",male,10th_percentile,10262
+2655,2012,"Murcia, Región de",male,10th_percentile,10310
+2656,2011,"Murcia, Región de",male,10th_percentile,10436
+2657,2010,"Murcia, Región de",male,10th_percentile,11644
+2658,2009,"Murcia, Región de",male,10th_percentile,10827
+2659,2008,"Murcia, Región de",male,10th_percentile,11766
+2660,2017,"Murcia, Región de",male,lower_quartile,15893
+2661,2016,"Murcia, Región de",male,lower_quartile,14717
+2662,2015,"Murcia, Región de",male,lower_quartile,15338
+2663,2014,"Murcia, Región de",male,lower_quartile,14757
+2664,2013,"Murcia, Región de",male,lower_quartile,14757
+2665,2012,"Murcia, Región de",male,lower_quartile,14909
+2666,2011,"Murcia, Región de",male,lower_quartile,14720
+2667,2010,"Murcia, Región de",male,lower_quartile,14977
+2668,2009,"Murcia, Región de",male,lower_quartile,14926
+2669,2008,"Murcia, Región de",male,lower_quartile,14704
+2670,2017,"Murcia, Región de",male,median,20015
+2671,2016,"Murcia, Región de",male,median,19568
+2672,2015,"Murcia, Región de",male,median,19485
+2673,2014,"Murcia, Región de",male,median,19407
+2674,2013,"Murcia, Región de",male,median,19430
+2675,2012,"Murcia, Región de",male,median,19258
+2676,2011,"Murcia, Región de",male,median,19155
+2677,2010,"Murcia, Región de",male,median,19343
+2678,2009,"Murcia, Región de",male,median,18578
+2679,2008,"Murcia, Región de",male,median,17602
+2680,2017,"Murcia, Región de",male,upper_quartile,28325
+2681,2016,"Murcia, Región de",male,upper_quartile,28740
+2682,2015,"Murcia, Región de",male,upper_quartile,28303
+2683,2014,"Murcia, Región de",male,upper_quartile,29252
+2684,2013,"Murcia, Región de",male,upper_quartile,27694
+2685,2012,"Murcia, Región de",male,upper_quartile,27938
+2686,2011,"Murcia, Región de",male,upper_quartile,28056
+2687,2010,"Murcia, Región de",male,upper_quartile,27926
+2688,2009,"Murcia, Región de",male,upper_quartile,27868
+2689,2008,"Murcia, Región de",male,upper_quartile,24952
+2690,2017,"Murcia, Región de",male,90th_percentile,40646
+2691,2016,"Murcia, Región de",male,90th_percentile,42178
+2692,2015,"Murcia, Región de",male,90th_percentile,40723
+2693,2014,"Murcia, Región de",male,90th_percentile,40977
+2694,2013,"Murcia, Región de",male,90th_percentile,40841
+2695,2012,"Murcia, Región de",male,90th_percentile,41725
+2696,2011,"Murcia, Región de",male,90th_percentile,41880
+2697,2010,"Murcia, Región de",male,90th_percentile,40975
+2698,2009,"Murcia, Región de",male,90th_percentile,39885
+2699,2008,"Murcia, Región de",male,90th_percentile,35942
+2700,2017,"Navarra, Comunidad Foral de",both,mean,26329
+2701,2016,"Navarra, Comunidad Foral de",both,mean,25468
+2702,2015,"Navarra, Comunidad Foral de",both,mean,24863
+2703,2014,"Navarra, Comunidad Foral de",both,mean,24700
+2704,2013,"Navarra, Comunidad Foral de",both,mean,23836
+2705,2012,"Navarra, Comunidad Foral de",both,mean,23784
+2706,2011,"Navarra, Comunidad Foral de",both,mean,24384
+2707,2010,"Navarra, Comunidad Foral de",both,mean,23824
+2708,2009,"Navarra, Comunidad Foral de",both,mean,23657
+2709,2008,"Navarra, Comunidad Foral de",both,mean,23342
+2710,2017,"Navarra, Comunidad Foral de",both,10th_percentile,10059
+2711,2016,"Navarra, Comunidad Foral de",both,10th_percentile,9390
+2712,2015,"Navarra, Comunidad Foral de",both,10th_percentile,8720
+2713,2014,"Navarra, Comunidad Foral de",both,10th_percentile,9363
+2714,2013,"Navarra, Comunidad Foral de",both,10th_percentile,8114
+2715,2012,"Navarra, Comunidad Foral de",both,10th_percentile,8228
+2716,2011,"Navarra, Comunidad Foral de",both,10th_percentile,8950
+2717,2010,"Navarra, Comunidad Foral de",both,10th_percentile,9104
+2718,2009,"Navarra, Comunidad Foral de",both,10th_percentile,8553
+2719,2008,"Navarra, Comunidad Foral de",both,10th_percentile,9036
+2720,2017,"Navarra, Comunidad Foral de",both,lower_quartile,16530
+2721,2016,"Navarra, Comunidad Foral de",both,lower_quartile,15700
+2722,2015,"Navarra, Comunidad Foral de",both,lower_quartile,15145
+2723,2014,"Navarra, Comunidad Foral de",both,lower_quartile,15725
+2724,2013,"Navarra, Comunidad Foral de",both,lower_quartile,14543
+2725,2012,"Navarra, Comunidad Foral de",both,lower_quartile,15083
+2726,2011,"Navarra, Comunidad Foral de",both,lower_quartile,15921
+2727,2010,"Navarra, Comunidad Foral de",both,lower_quartile,15233
+2728,2009,"Navarra, Comunidad Foral de",both,lower_quartile,16032
+2729,2008,"Navarra, Comunidad Foral de",both,lower_quartile,15445
+2730,2017,"Navarra, Comunidad Foral de",both,median,23450
+2731,2016,"Navarra, Comunidad Foral de",both,median,22578
+2732,2015,"Navarra, Comunidad Foral de",both,median,22423
+2733,2014,"Navarra, Comunidad Foral de",both,median,22258
+2734,2013,"Navarra, Comunidad Foral de",both,median,21360
+2735,2012,"Navarra, Comunidad Foral de",both,median,21476
+2736,2011,"Navarra, Comunidad Foral de",both,median,22511
+2737,2010,"Navarra, Comunidad Foral de",both,median,21633
+2738,2009,"Navarra, Comunidad Foral de",both,median,21482
+2739,2008,"Navarra, Comunidad Foral de",both,median,21369
+2740,2017,"Navarra, Comunidad Foral de",both,upper_quartile,33107
+2741,2016,"Navarra, Comunidad Foral de",both,upper_quartile,32568
+2742,2015,"Navarra, Comunidad Foral de",both,upper_quartile,31787
+2743,2014,"Navarra, Comunidad Foral de",both,upper_quartile,31237
+2744,2013,"Navarra, Comunidad Foral de",both,upper_quartile,30567
+2745,2012,"Navarra, Comunidad Foral de",both,upper_quartile,30476
+2746,2011,"Navarra, Comunidad Foral de",both,upper_quartile,31098
+2747,2010,"Navarra, Comunidad Foral de",both,upper_quartile,29813
+2748,2009,"Navarra, Comunidad Foral de",both,upper_quartile,30200
+2749,2008,"Navarra, Comunidad Foral de",both,upper_quartile,29766
+2750,2017,"Navarra, Comunidad Foral de",both,90th_percentile,43798
+2751,2016,"Navarra, Comunidad Foral de",both,90th_percentile,43388
+2752,2015,"Navarra, Comunidad Foral de",both,90th_percentile,42123
+2753,2014,"Navarra, Comunidad Foral de",both,90th_percentile,40996
+2754,2013,"Navarra, Comunidad Foral de",both,90th_percentile,40487
+2755,2012,"Navarra, Comunidad Foral de",both,90th_percentile,39747
+2756,2011,"Navarra, Comunidad Foral de",both,90th_percentile,40218
+2757,2010,"Navarra, Comunidad Foral de",both,90th_percentile,38956
+2758,2009,"Navarra, Comunidad Foral de",both,90th_percentile,38798
+2759,2008,"Navarra, Comunidad Foral de",both,90th_percentile,37822
+2760,2017,"Navarra, Comunidad Foral de",female,mean,21898
+2761,2016,"Navarra, Comunidad Foral de",female,mean,20946
+2762,2015,"Navarra, Comunidad Foral de",female,mean,20563
+2763,2014,"Navarra, Comunidad Foral de",female,mean,20163
+2764,2013,"Navarra, Comunidad Foral de",female,mean,19364
+2765,2012,"Navarra, Comunidad Foral de",female,mean,19462
+2766,2011,"Navarra, Comunidad Foral de",female,mean,19977
+2767,2010,"Navarra, Comunidad Foral de",female,mean,19927
+2768,2009,"Navarra, Comunidad Foral de",female,mean,19487
+2769,2008,"Navarra, Comunidad Foral de",female,mean,19212
+2770,2017,"Navarra, Comunidad Foral de",female,10th_percentile,8542
+2771,2016,"Navarra, Comunidad Foral de",female,10th_percentile,7526
+2772,2015,"Navarra, Comunidad Foral de",female,10th_percentile,6686
+2773,2014,"Navarra, Comunidad Foral de",female,10th_percentile,7290
+2774,2013,"Navarra, Comunidad Foral de",female,10th_percentile,6049
+2775,2012,"Navarra, Comunidad Foral de",female,10th_percentile,6849
+2776,2011,"Navarra, Comunidad Foral de",female,10th_percentile,7391
+2777,2010,"Navarra, Comunidad Foral de",female,10th_percentile,7304
+2778,2009,"Navarra, Comunidad Foral de",female,10th_percentile,6485
+2779,2008,"Navarra, Comunidad Foral de",female,10th_percentile,7450
+2780,2017,"Navarra, Comunidad Foral de",female,lower_quartile,13073
+2781,2016,"Navarra, Comunidad Foral de",female,lower_quartile,12484
+2782,2015,"Navarra, Comunidad Foral de",female,lower_quartile,11726
+2783,2014,"Navarra, Comunidad Foral de",female,lower_quartile,11954
+2784,2013,"Navarra, Comunidad Foral de",female,lower_quartile,11164
+2785,2012,"Navarra, Comunidad Foral de",female,lower_quartile,11623
+2786,2011,"Navarra, Comunidad Foral de",female,lower_quartile,12125
+2787,2010,"Navarra, Comunidad Foral de",female,lower_quartile,12350
+2788,2009,"Navarra, Comunidad Foral de",female,lower_quartile,11986
+2789,2008,"Navarra, Comunidad Foral de",female,lower_quartile,12036
+2790,2017,"Navarra, Comunidad Foral de",female,median,19740
+2791,2016,"Navarra, Comunidad Foral de",female,median,19009
+2792,2015,"Navarra, Comunidad Foral de",female,median,18597
+2793,2014,"Navarra, Comunidad Foral de",female,median,18047
+2794,2013,"Navarra, Comunidad Foral de",female,median,17667
+2795,2012,"Navarra, Comunidad Foral de",female,median,17807
+2796,2011,"Navarra, Comunidad Foral de",female,median,18480
+2797,2010,"Navarra, Comunidad Foral de",female,median,18188
+2798,2009,"Navarra, Comunidad Foral de",female,median,17933
+2799,2008,"Navarra, Comunidad Foral de",female,median,17073
+2800,2017,"Navarra, Comunidad Foral de",female,upper_quartile,27624
+2801,2016,"Navarra, Comunidad Foral de",female,upper_quartile,26875
+2802,2015,"Navarra, Comunidad Foral de",female,upper_quartile,26406
+2803,2014,"Navarra, Comunidad Foral de",female,upper_quartile,26052
+2804,2013,"Navarra, Comunidad Foral de",female,upper_quartile,24648
+2805,2012,"Navarra, Comunidad Foral de",female,upper_quartile,24548
+2806,2011,"Navarra, Comunidad Foral de",female,upper_quartile,25110
+2807,2010,"Navarra, Comunidad Foral de",female,upper_quartile,25260
+2808,2009,"Navarra, Comunidad Foral de",female,upper_quartile,24633
+2809,2008,"Navarra, Comunidad Foral de",female,upper_quartile,23829
+2810,2017,"Navarra, Comunidad Foral de",female,90th_percentile,37860
+2811,2016,"Navarra, Comunidad Foral de",female,90th_percentile,37321
+2812,2015,"Navarra, Comunidad Foral de",female,90th_percentile,37045
+2813,2014,"Navarra, Comunidad Foral de",female,90th_percentile,34914
+2814,2013,"Navarra, Comunidad Foral de",female,90th_percentile,34231
+2815,2012,"Navarra, Comunidad Foral de",female,90th_percentile,33819
+2816,2011,"Navarra, Comunidad Foral de",female,90th_percentile,34593
+2817,2010,"Navarra, Comunidad Foral de",female,90th_percentile,33636
+2818,2009,"Navarra, Comunidad Foral de",female,90th_percentile,33599
+2819,2008,"Navarra, Comunidad Foral de",female,90th_percentile,32223
+2820,2017,"Navarra, Comunidad Foral de",male,mean,29699
+2821,2016,"Navarra, Comunidad Foral de",male,mean,29098
+2822,2015,"Navarra, Comunidad Foral de",male,mean,28727
+2823,2014,"Navarra, Comunidad Foral de",male,mean,28659
+2824,2013,"Navarra, Comunidad Foral de",male,mean,27848
+2825,2012,"Navarra, Comunidad Foral de",male,mean,27632
+2826,2011,"Navarra, Comunidad Foral de",male,mean,27834
+2827,2010,"Navarra, Comunidad Foral de",male,mean,26982
+2828,2009,"Navarra, Comunidad Foral de",male,mean,26755
+2829,2008,"Navarra, Comunidad Foral de",male,mean,26635
+2830,2017,"Navarra, Comunidad Foral de",male,10th_percentile,13480
+2831,2016,"Navarra, Comunidad Foral de",male,10th_percentile,12714
+2832,2015,"Navarra, Comunidad Foral de",male,10th_percentile,12872
+2833,2014,"Navarra, Comunidad Foral de",male,10th_percentile,13266
+2834,2013,"Navarra, Comunidad Foral de",male,10th_percentile,11608
+2835,2012,"Navarra, Comunidad Foral de",male,10th_percentile,12116
+2836,2011,"Navarra, Comunidad Foral de",male,10th_percentile,13129
+2837,2010,"Navarra, Comunidad Foral de",male,10th_percentile,11205
+2838,2009,"Navarra, Comunidad Foral de",male,10th_percentile,13783
+2839,2008,"Navarra, Comunidad Foral de",male,10th_percentile,13438
+2840,2017,"Navarra, Comunidad Foral de",male,lower_quartile,20017
+2841,2016,"Navarra, Comunidad Foral de",male,lower_quartile,19078
+2842,2015,"Navarra, Comunidad Foral de",male,lower_quartile,19416
+2843,2014,"Navarra, Comunidad Foral de",male,lower_quartile,19989
+2844,2013,"Navarra, Comunidad Foral de",male,lower_quartile,18769
+2845,2012,"Navarra, Comunidad Foral de",male,lower_quartile,19226
+2846,2011,"Navarra, Comunidad Foral de",male,lower_quartile,19732
+2847,2010,"Navarra, Comunidad Foral de",male,lower_quartile,18593
+2848,2009,"Navarra, Comunidad Foral de",male,lower_quartile,18991
+2849,2008,"Navarra, Comunidad Foral de",male,lower_quartile,19000
+2850,2017,"Navarra, Comunidad Foral de",male,median,26794
+2851,2016,"Navarra, Comunidad Foral de",male,median,26322
+2852,2015,"Navarra, Comunidad Foral de",male,median,26137
+2853,2014,"Navarra, Comunidad Foral de",male,median,25900
+2854,2013,"Navarra, Comunidad Foral de",male,median,25734
+2855,2012,"Navarra, Comunidad Foral de",male,median,25401
+2856,2011,"Navarra, Comunidad Foral de",male,median,25869
+2857,2010,"Navarra, Comunidad Foral de",male,median,24699
+2858,2009,"Navarra, Comunidad Foral de",male,median,24499
+2859,2008,"Navarra, Comunidad Foral de",male,median,24983
+2860,2017,"Navarra, Comunidad Foral de",male,upper_quartile,36590
+2861,2016,"Navarra, Comunidad Foral de",male,upper_quartile,36113
+2862,2015,"Navarra, Comunidad Foral de",male,upper_quartile,35331
+2863,2014,"Navarra, Comunidad Foral de",male,upper_quartile,34919
+2864,2013,"Navarra, Comunidad Foral de",male,upper_quartile,34505
+2865,2012,"Navarra, Comunidad Foral de",male,upper_quartile,34224
+2866,2011,"Navarra, Comunidad Foral de",male,upper_quartile,34223
+2867,2010,"Navarra, Comunidad Foral de",male,upper_quartile,32534
+2868,2009,"Navarra, Comunidad Foral de",male,upper_quartile,32785
+2869,2008,"Navarra, Comunidad Foral de",male,upper_quartile,32498
+2870,2017,"Navarra, Comunidad Foral de",male,90th_percentile,46927
+2871,2016,"Navarra, Comunidad Foral de",male,90th_percentile,46918
+2872,2015,"Navarra, Comunidad Foral de",male,90th_percentile,45693
+2873,2014,"Navarra, Comunidad Foral de",male,90th_percentile,45553
+2874,2013,"Navarra, Comunidad Foral de",male,90th_percentile,44753
+2875,2012,"Navarra, Comunidad Foral de",male,90th_percentile,43829
+2876,2011,"Navarra, Comunidad Foral de",male,90th_percentile,43372
+2877,2010,"Navarra, Comunidad Foral de",male,90th_percentile,42081
+2878,2009,"Navarra, Comunidad Foral de",male,90th_percentile,41681
+2879,2008,"Navarra, Comunidad Foral de",male,90th_percentile,40321
+2880,2017,País Vasco,both,mean,28204
+2881,2016,País Vasco,both,mean,27480
+2882,2015,País Vasco,both,mean,27571
+2883,2014,País Vasco,both,mean,27786
+2884,2013,País Vasco,both,mean,26915
+2885,2012,País Vasco,both,mean,26535
+2886,2011,País Vasco,both,mean,26370
+2887,2010,País Vasco,both,mean,26593
+2888,2009,País Vasco,both,mean,26162
+2889,2008,País Vasco,both,mean,25547
+2890,2017,País Vasco,both,10th_percentile,10126
+2891,2016,País Vasco,both,10th_percentile,9549
+2892,2015,País Vasco,both,10th_percentile,9876
+2893,2014,País Vasco,both,10th_percentile,9087
+2894,2013,País Vasco,both,10th_percentile,9397
+2895,2012,País Vasco,both,10th_percentile,9057
+2896,2011,País Vasco,both,10th_percentile,9596
+2897,2010,País Vasco,both,10th_percentile,9725
+2898,2009,País Vasco,both,10th_percentile,10248
+2899,2008,País Vasco,both,10th_percentile,9996
+2900,2017,País Vasco,both,lower_quartile,16997
+2901,2016,País Vasco,both,lower_quartile,16233
+2902,2015,País Vasco,both,lower_quartile,16617
+2903,2014,País Vasco,both,lower_quartile,16780
+2904,2013,País Vasco,both,lower_quartile,15951
+2905,2012,País Vasco,both,lower_quartile,16379
+2906,2011,País Vasco,both,lower_quartile,16552
+2907,2010,País Vasco,both,lower_quartile,16544
+2908,2009,País Vasco,both,lower_quartile,16400
+2909,2008,País Vasco,both,lower_quartile,15984
+2910,2017,País Vasco,both,median,25584
+2911,2016,País Vasco,both,median,24939
+2912,2015,País Vasco,both,median,25171
+2913,2014,País Vasco,both,median,25600
+2914,2013,País Vasco,both,median,23728
+2915,2012,País Vasco,both,median,23974
+2916,2011,País Vasco,both,median,24197
+2917,2010,País Vasco,both,median,23799
+2918,2009,País Vasco,both,median,23855
+2919,2008,País Vasco,both,median,23143
+2920,2017,País Vasco,both,upper_quartile,36944
+2921,2016,País Vasco,both,upper_quartile,36137
+2922,2015,País Vasco,both,upper_quartile,35972
+2923,2014,País Vasco,both,upper_quartile,36831
+2924,2013,País Vasco,both,upper_quartile,35099
+2925,2012,País Vasco,both,upper_quartile,34568
+2926,2011,País Vasco,both,upper_quartile,34694
+2927,2010,País Vasco,both,upper_quartile,34350
+2928,2009,País Vasco,both,upper_quartile,34052
+2929,2008,País Vasco,both,upper_quartile,32833
+2930,2017,País Vasco,both,90th_percentile,46946
+2931,2016,País Vasco,both,90th_percentile,46823
+2932,2015,País Vasco,both,90th_percentile,45838
+2933,2014,País Vasco,both,90th_percentile,47126
+2934,2013,País Vasco,both,90th_percentile,45945
+2935,2012,País Vasco,both,90th_percentile,44429
+2936,2011,País Vasco,both,90th_percentile,42912
+2937,2010,País Vasco,both,90th_percentile,45612
+2938,2009,País Vasco,both,90th_percentile,43083
+2939,2008,País Vasco,both,90th_percentile,42336
+2940,2017,País Vasco,female,mean,24165
+2941,2016,País Vasco,female,mean,23428
+2942,2015,País Vasco,female,mean,23537
+2943,2014,País Vasco,female,mean,23781
+2944,2013,País Vasco,female,mean,22687
+2945,2012,País Vasco,female,mean,22313
+2946,2011,País Vasco,female,mean,22449
+2947,2010,País Vasco,female,mean,22706
+2948,2009,País Vasco,female,mean,22502
+2949,2008,País Vasco,female,mean,21766
+2950,2017,País Vasco,female,10th_percentile,7765
+2951,2016,País Vasco,female,10th_percentile,7336
+2952,2015,País Vasco,female,10th_percentile,7603
+2953,2014,País Vasco,female,10th_percentile,7211
+2954,2013,País Vasco,female,10th_percentile,7888
+2955,2012,País Vasco,female,10th_percentile,7552
+2956,2011,País Vasco,female,10th_percentile,7679
+2957,2010,País Vasco,female,10th_percentile,8475
+2958,2009,País Vasco,female,10th_percentile,8635
+2959,2008,País Vasco,female,10th_percentile,8362
+2960,2017,País Vasco,female,lower_quartile,13515
+2961,2016,País Vasco,female,lower_quartile,12796
+2962,2015,País Vasco,female,lower_quartile,12844
+2963,2014,País Vasco,female,lower_quartile,12577
+2964,2013,País Vasco,female,lower_quartile,12729
+2965,2012,País Vasco,female,lower_quartile,12514
+2966,2011,País Vasco,female,lower_quartile,13165
+2967,2010,País Vasco,female,lower_quartile,13001
+2968,2009,País Vasco,female,lower_quartile,12940
+2969,2008,País Vasco,female,lower_quartile,12998
+2970,2017,País Vasco,female,median,21242
+2971,2016,País Vasco,female,median,20464
+2972,2015,País Vasco,female,median,20504
+2973,2014,País Vasco,female,median,21358
+2974,2013,País Vasco,female,median,19576
+2975,2012,País Vasco,female,median,19640
+2976,2011,País Vasco,female,median,19707
+2977,2010,País Vasco,female,median,19447
+2978,2009,País Vasco,female,median,19422
+2979,2008,País Vasco,female,median,18774
+2980,2017,País Vasco,female,upper_quartile,32268
+2981,2016,País Vasco,female,upper_quartile,31615
+2982,2015,País Vasco,female,upper_quartile,31624
+2983,2014,País Vasco,female,upper_quartile,32371
+2984,2013,País Vasco,female,upper_quartile,29749
+2985,2012,País Vasco,female,upper_quartile,29591
+2986,2011,País Vasco,female,upper_quartile,30201
+2987,2010,País Vasco,female,upper_quartile,30016
+2988,2009,País Vasco,female,upper_quartile,30479
+2989,2008,País Vasco,female,upper_quartile,28657
+2990,2017,País Vasco,female,90th_percentile,43024
+2991,2016,País Vasco,female,90th_percentile,42445
+2992,2015,País Vasco,female,90th_percentile,42032
+2993,2014,País Vasco,female,90th_percentile,42783
+2994,2013,País Vasco,female,90th_percentile,41108
+2995,2012,País Vasco,female,90th_percentile,39720
+2996,2011,País Vasco,female,90th_percentile,38781
+2997,2010,País Vasco,female,90th_percentile,41079
+2998,2009,País Vasco,female,90th_percentile,39870
+2999,2008,País Vasco,female,90th_percentile,37045
+3000,2017,País Vasco,male,mean,31618
+3001,2016,País Vasco,male,mean,31001
+3002,2015,País Vasco,male,mean,31088
+3003,2014,País Vasco,male,mean,31271
+3004,2013,País Vasco,male,mean,30312
+3005,2012,País Vasco,male,mean,30084
+3006,2011,País Vasco,male,mean,29492
+3007,2010,País Vasco,male,mean,29708
+3008,2009,País Vasco,male,mean,28889
+3009,2008,País Vasco,male,mean,28264
+3010,2017,País Vasco,male,10th_percentile,14000
+3011,2016,País Vasco,male,10th_percentile,12622
+3012,2015,País Vasco,male,10th_percentile,14159
+3013,2014,País Vasco,male,10th_percentile,12489
+3014,2013,País Vasco,male,10th_percentile,11750
+3015,2012,País Vasco,male,10th_percentile,12800
+3016,2011,País Vasco,male,10th_percentile,13774
+3017,2010,País Vasco,male,10th_percentile,13965
+3018,2009,País Vasco,male,10th_percentile,14192
+3019,2008,País Vasco,male,10th_percentile,13320
+3020,2017,País Vasco,male,lower_quartile,20814
+3021,2016,País Vasco,male,lower_quartile,19951
+3022,2015,País Vasco,male,lower_quartile,20459
+3023,2014,País Vasco,male,lower_quartile,20349
+3024,2013,País Vasco,male,lower_quartile,19256
+3025,2012,País Vasco,male,lower_quartile,19876
+3026,2011,País Vasco,male,lower_quartile,19679
+3027,2010,País Vasco,male,lower_quartile,19553
+3028,2009,País Vasco,male,lower_quartile,19324
+3029,2008,País Vasco,male,lower_quartile,19086
+3030,2017,País Vasco,male,median,29027
+3031,2016,País Vasco,male,median,28419
+3032,2015,País Vasco,male,median,28529
+3033,2014,País Vasco,male,median,28799
+3034,2013,País Vasco,male,median,27412
+3035,2012,País Vasco,male,median,27896
+3036,2011,País Vasco,male,median,27488
+3037,2010,País Vasco,male,median,27126
+3038,2009,País Vasco,male,median,26269
+3039,2008,País Vasco,male,median,25863
+3040,2017,País Vasco,male,upper_quartile,40001
+3041,2016,País Vasco,male,upper_quartile,39302
+3042,2015,País Vasco,male,upper_quartile,39140
+3043,2014,País Vasco,male,upper_quartile,39559
+3044,2013,País Vasco,male,upper_quartile,38470
+3045,2012,País Vasco,male,upper_quartile,37457
+3046,2011,País Vasco,male,upper_quartile,37241
+3047,2010,País Vasco,male,upper_quartile,36870
+3048,2009,País Vasco,male,upper_quartile,36052
+3049,2008,País Vasco,male,upper_quartile,35508
+3050,2017,País Vasco,male,90th_percentile,50433
+3051,2016,País Vasco,male,90th_percentile,50071
+3052,2015,País Vasco,male,90th_percentile,49287
+3053,2014,País Vasco,male,90th_percentile,51058
+3054,2013,País Vasco,male,90th_percentile,50404
+3055,2012,País Vasco,male,90th_percentile,48245
+3056,2011,País Vasco,male,90th_percentile,46361
+3057,2010,País Vasco,male,90th_percentile,48413
+3058,2009,País Vasco,male,90th_percentile,45531
+3059,2008,País Vasco,male,90th_percentile,45024
+3060,2017,"Rioja, La",both,mean,22234
+3061,2016,"Rioja, La",both,mean,21999
+3062,2015,"Rioja, La",both,mean,21756
+3063,2014,"Rioja, La",both,mean,21954
+3064,2013,"Rioja, La",both,mean,20628
+3065,2012,"Rioja, La",both,mean,20346
+3066,2011,"Rioja, La",both,mean,20996
+3067,2010,"Rioja, La",both,mean,21035
+3068,2009,"Rioja, La",both,mean,21179
+3069,2008,"Rioja, La",both,mean,20674
+3070,2017,"Rioja, La",both,10th_percentile,8389
+3071,2016,"Rioja, La",both,10th_percentile,8116
+3072,2015,"Rioja, La",both,10th_percentile,7519
+3073,2014,"Rioja, La",both,10th_percentile,7937
+3074,2013,"Rioja, La",both,10th_percentile,7139
+3075,2012,"Rioja, La",both,10th_percentile,7539
+3076,2011,"Rioja, La",both,10th_percentile,8163
+3077,2010,"Rioja, La",both,10th_percentile,8196
+3078,2009,"Rioja, La",both,10th_percentile,8803
+3079,2008,"Rioja, La",both,10th_percentile,8604
+3080,2017,"Rioja, La",both,lower_quartile,13717
+3081,2016,"Rioja, La",both,lower_quartile,13830
+3082,2015,"Rioja, La",both,lower_quartile,13817
+3083,2014,"Rioja, La",both,lower_quartile,14027
+3084,2013,"Rioja, La",both,lower_quartile,12762
+3085,2012,"Rioja, La",both,lower_quartile,12728
+3086,2011,"Rioja, La",both,lower_quartile,13390
+3087,2010,"Rioja, La",both,lower_quartile,13360
+3088,2009,"Rioja, La",both,lower_quartile,14194
+3089,2008,"Rioja, La",both,lower_quartile,13771
+3090,2017,"Rioja, La",both,median,19539
+3091,2016,"Rioja, La",both,median,19507
+3092,2015,"Rioja, La",both,median,19136
+3093,2014,"Rioja, La",both,median,19049
+3094,2013,"Rioja, La",both,median,17764
+3095,2012,"Rioja, La",both,median,17897
+3096,2011,"Rioja, La",both,median,18615
+3097,2010,"Rioja, La",both,median,18632
+3098,2009,"Rioja, La",both,median,18562
+3099,2008,"Rioja, La",both,median,17826
+3100,2017,"Rioja, La",both,upper_quartile,27128
+3101,2016,"Rioja, La",both,upper_quartile,26549
+3102,2015,"Rioja, La",both,upper_quartile,26421
+3103,2014,"Rioja, La",both,upper_quartile,27086
+3104,2013,"Rioja, La",both,upper_quartile,24738
+3105,2012,"Rioja, La",both,upper_quartile,24831
+3106,2011,"Rioja, La",both,upper_quartile,25597
+3107,2010,"Rioja, La",both,upper_quartile,25442
+3108,2009,"Rioja, La",both,upper_quartile,25283
+3109,2008,"Rioja, La",both,upper_quartile,24455
+3110,2017,"Rioja, La",both,90th_percentile,38887
+3111,2016,"Rioja, La",both,90th_percentile,38403
+3112,2015,"Rioja, La",both,90th_percentile,37930
+3113,2014,"Rioja, La",both,90th_percentile,38226
+3114,2013,"Rioja, La",both,90th_percentile,35744
+3115,2012,"Rioja, La",both,90th_percentile,35007
+3116,2011,"Rioja, La",both,90th_percentile,35940
+3117,2010,"Rioja, La",both,90th_percentile,36600
+3118,2009,"Rioja, La",both,90th_percentile,36361
+3119,2008,"Rioja, La",both,90th_percentile,35549
+3120,2017,"Rioja, La",female,mean,19353
+3121,2016,"Rioja, La",female,mean,19047
+3122,2015,"Rioja, La",female,mean,18762
+3123,2014,"Rioja, La",female,mean,18959
+3124,2013,"Rioja, La",female,mean,17435
+3125,2012,"Rioja, La",female,mean,17486
+3126,2011,"Rioja, La",female,mean,18328
+3127,2010,"Rioja, La",female,mean,18131
+3128,2009,"Rioja, La",female,mean,18702
+3129,2008,"Rioja, La",female,mean,18364
+3130,2017,"Rioja, La",female,10th_percentile,6985
+3131,2016,"Rioja, La",female,10th_percentile,6528
+3132,2015,"Rioja, La",female,10th_percentile,6018
+3133,2014,"Rioja, La",female,10th_percentile,6238
+3134,2013,"Rioja, La",female,10th_percentile,6924
+3135,2012,"Rioja, La",female,10th_percentile,6807
+3136,2011,"Rioja, La",female,10th_percentile,6781
+3137,2010,"Rioja, La",female,10th_percentile,6914
+3138,2009,"Rioja, La",female,10th_percentile,6761
+3139,2008,"Rioja, La",female,10th_percentile,6561
+3140,2017,"Rioja, La",female,lower_quartile,11089
+3141,2016,"Rioja, La",female,lower_quartile,11026
+3142,2015,"Rioja, La",female,lower_quartile,10796
+3143,2014,"Rioja, La",female,lower_quartile,11314
+3144,2013,"Rioja, La",female,lower_quartile,10751
+3145,2012,"Rioja, La",female,lower_quartile,10313
+3146,2011,"Rioja, La",female,lower_quartile,10973
+3147,2010,"Rioja, La",female,lower_quartile,10950
+3148,2009,"Rioja, La",female,lower_quartile,11762
+3149,2008,"Rioja, La",female,lower_quartile,10949
+3150,2017,"Rioja, La",female,median,16395
+3151,2016,"Rioja, La",female,median,16648
+3152,2015,"Rioja, La",female,median,16342
+3153,2014,"Rioja, La",female,median,16134
+3154,2013,"Rioja, La",female,median,15319
+3155,2012,"Rioja, La",female,median,15069
+3156,2011,"Rioja, La",female,median,15288
+3157,2010,"Rioja, La",female,median,15653
+3158,2009,"Rioja, La",female,median,16011
+3159,2008,"Rioja, La",female,median,15450
+3160,2017,"Rioja, La",female,upper_quartile,24633
+3161,2016,"Rioja, La",female,upper_quartile,23813
+3162,2015,"Rioja, La",female,upper_quartile,23686
+3163,2014,"Rioja, La",female,upper_quartile,24053
+3164,2013,"Rioja, La",female,upper_quartile,21258
+3165,2012,"Rioja, La",female,upper_quartile,22068
+3166,2011,"Rioja, La",female,upper_quartile,23266
+3167,2010,"Rioja, La",female,upper_quartile,22202
+3168,2009,"Rioja, La",female,upper_quartile,22536
+3169,2008,"Rioja, La",female,upper_quartile,21894
+3170,2017,"Rioja, La",female,90th_percentile,35086
+3171,2016,"Rioja, La",female,90th_percentile,34044
+3172,2015,"Rioja, La",female,90th_percentile,34279
+3173,2014,"Rioja, La",female,90th_percentile,34817
+3174,2013,"Rioja, La",female,90th_percentile,30932
+3175,2012,"Rioja, La",female,90th_percentile,29504
+3176,2011,"Rioja, La",female,90th_percentile,33201
+3177,2010,"Rioja, La",female,90th_percentile,33250
+3178,2009,"Rioja, La",female,90th_percentile,33922
+3179,2008,"Rioja, La",female,90th_percentile,33402
+3180,2017,"Rioja, La",male,mean,24820
+3181,2016,"Rioja, La",male,mean,24653
+3182,2015,"Rioja, La",male,mean,24532
+3183,2014,"Rioja, La",male,mean,24814
+3184,2013,"Rioja, La",male,mean,23641
+3185,2012,"Rioja, La",male,mean,23097
+3186,2011,"Rioja, La",male,mean,23512
+3187,2010,"Rioja, La",male,mean,23641
+3188,2009,"Rioja, La",male,mean,23240
+3189,2008,"Rioja, La",male,mean,22549
+3190,2017,"Rioja, La",male,10th_percentile,12200
+3191,2016,"Rioja, La",male,10th_percentile,11769
+3192,2015,"Rioja, La",male,10th_percentile,12865
+3193,2014,"Rioja, La",male,10th_percentile,12894
+3194,2013,"Rioja, La",male,10th_percentile,9439
+3195,2012,"Rioja, La",male,10th_percentile,9617
+3196,2011,"Rioja, La",male,10th_percentile,11757
+3197,2010,"Rioja, La",male,10th_percentile,11992
+3198,2009,"Rioja, La",male,10th_percentile,12781
+3199,2008,"Rioja, La",male,10th_percentile,12602
+3200,2017,"Rioja, La",male,lower_quartile,16997
+3201,2016,"Rioja, La",male,lower_quartile,16879
+3202,2015,"Rioja, La",male,lower_quartile,16624
+3203,2014,"Rioja, La",male,lower_quartile,16614
+3204,2013,"Rioja, La",male,lower_quartile,15063
+3205,2012,"Rioja, La",male,lower_quartile,15387
+3206,2011,"Rioja, La",male,lower_quartile,16217
+3207,2010,"Rioja, La",male,lower_quartile,16206
+3208,2009,"Rioja, La",male,lower_quartile,16108
+3209,2008,"Rioja, La",male,lower_quartile,15874
+3210,2017,"Rioja, La",male,median,21534
+3211,2016,"Rioja, La",male,median,21335
+3212,2015,"Rioja, La",male,median,21344
+3213,2014,"Rioja, La",male,median,21230
+3214,2013,"Rioja, La",male,median,19887
+3215,2012,"Rioja, La",male,median,20229
+3216,2011,"Rioja, La",male,median,20595
+3217,2010,"Rioja, La",male,median,20413
+3218,2009,"Rioja, La",male,median,20019
+3219,2008,"Rioja, La",male,median,19392
+3220,2017,"Rioja, La",male,upper_quartile,28845
+3221,2016,"Rioja, La",male,upper_quartile,29093
+3222,2015,"Rioja, La",male,upper_quartile,29318
+3223,2014,"Rioja, La",male,upper_quartile,30343
+3224,2013,"Rioja, La",male,upper_quartile,27398
+3225,2012,"Rioja, La",male,upper_quartile,27360
+3226,2011,"Rioja, La",male,upper_quartile,27453
+3227,2010,"Rioja, La",male,upper_quartile,27084
+3228,2009,"Rioja, La",male,upper_quartile,26865
+3229,2008,"Rioja, La",male,upper_quartile,25979
+3230,2017,"Rioja, La",male,90th_percentile,41797
+3231,2016,"Rioja, La",male,90th_percentile,41735
+3232,2015,"Rioja, La",male,90th_percentile,40387
+3233,2014,"Rioja, La",male,90th_percentile,41801
+3234,2013,"Rioja, La",male,90th_percentile,39722
+3235,2012,"Rioja, La",male,90th_percentile,39861
+3236,2011,"Rioja, La",male,90th_percentile,38106
+3237,2010,"Rioja, La",male,90th_percentile,39760
+3238,2009,"Rioja, La",male,90th_percentile,37994
+3239,2008,"Rioja, La",male,90th_percentile,37080

@@ -1,0 +1,3241 @@
+year,state,gender,statistic,gross_income_euros
+2017,nationwide,both,mean,23646.5
+2016,nationwide,both,mean,23156.34
+2015,nationwide,both,mean,23106.3
+2014,nationwide,both,mean,22858.17
+2013,nationwide,both,mean,22697.86
+2012,nationwide,both,mean,22726.44
+2011,nationwide,both,mean,22899.35
+2010,nationwide,both,mean,22790.2
+2009,nationwide,both,mean,22511.47
+2008,nationwide,both,mean,21883.42
+2017,nationwide,both,10th_percentile,8583.81
+2016,nationwide,both,10th_percentile,8095.44
+2015,nationwide,both,10th_percentile,7962.45
+2014,nationwide,both,10th_percentile,7626.2
+2013,nationwide,both,10th_percentile,7692.3
+2012,nationwide,both,10th_percentile,7979.4
+2011,nationwide,both,10th_percentile,8402.15
+2010,nationwide,both,10th_percentile,8643.66
+2009,nationwide,both,10th_percentile,8723.15
+2008,nationwide,both,10th_percentile,8903.52
+2017,nationwide,both,lower_quartile,13897.22
+2016,nationwide,both,lower_quartile,13369.74
+2015,nationwide,both,lower_quartile,13414.92
+2014,nationwide,both,lower_quartile,13217.84
+2013,nationwide,both,lower_quartile,13039.36
+2012,nationwide,both,lower_quartile,13369.45
+2011,nationwide,both,lower_quartile,13553.97
+2010,nationwide,both,lower_quartile,13602.53
+2009,nationwide,both,lower_quartile,13587.26
+2008,nationwide,both,lower_quartile,13342.53
+2017,nationwide,both,median,19830.12
+2016,nationwide,both,median,19432.62
+2015,nationwide,both,median,19466.49
+2014,nationwide,both,median,19263.78
+2013,nationwide,both,median,19029.66
+2012,nationwide,both,median,19040.98
+2011,nationwide,both,median,19303.51
+2010,nationwide,both,median,19017.09
+2009,nationwide,both,median,18803.28
+2008,nationwide,both,median,18244.4
+2017,nationwide,both,upper_quartile,29628.64
+2016,nationwide,both,upper_quartile,29191.56
+2015,nationwide,both,upper_quartile,29163.66
+2014,nationwide,both,upper_quartile,28782.7
+2013,nationwide,both,upper_quartile,28563.69
+2012,nationwide,both,upper_quartile,28395.5
+2011,nationwide,both,upper_quartile,28658.66
+2010,nationwide,both,upper_quartile,28255.45
+2009,nationwide,both,upper_quartile,28024.86
+2008,nationwide,both,upper_quartile,26874.02
+2017,nationwide,both,90th_percentile,42454.21
+2016,nationwide,both,90th_percentile,41855.38
+2015,nationwide,both,90th_percentile,41648.67
+2014,nationwide,both,90th_percentile,41350.36
+2013,nationwide,both,90th_percentile,41108.4
+2012,nationwide,both,90th_percentile,40807.99
+2011,nationwide,both,90th_percentile,40680.54
+2010,nationwide,both,90th_percentile,40811.42
+2009,nationwide,both,90th_percentile,40123.94
+2008,nationwide,both,90th_percentile,38558.29
+2017,nationwide,female,mean,20607.85
+2016,nationwide,female,mean,20131.41
+2015,nationwide,female,mean,20051.58
+2014,nationwide,female,mean,19744.82
+2013,nationwide,female,mean,19514.58
+2012,nationwide,female,mean,19537.33
+2011,nationwide,female,mean,19767.59
+2010,nationwide,female,mean,19735.22
+2009,nationwide,female,mean,19502.02
+2008,nationwide,female,mean,18910.62
+2017,nationwide,female,10th_percentile,7161.93
+2016,nationwide,female,10th_percentile,6808.88
+2015,nationwide,female,10th_percentile,6630.92
+2014,nationwide,female,10th_percentile,6205.32
+2013,nationwide,female,10th_percentile,6457.78
+2012,nationwide,female,10th_percentile,6750.12
+2011,nationwide,female,10th_percentile,6996.22
+2010,nationwide,female,10th_percentile,7001.27
+2009,nationwide,female,10th_percentile,7027.1
+2008,nationwide,female,10th_percentile,7088.36
+2017,nationwide,female,lower_quartile,11567.75
+2016,nationwide,female,lower_quartile,11129.97
+2015,nationwide,female,lower_quartile,10993.54
+2014,nationwide,female,lower_quartile,10900.7
+2013,nationwide,female,lower_quartile,10801.94
+2012,nationwide,female,lower_quartile,11153.94
+2011,nationwide,female,lower_quartile,11376.86
+2010,nationwide,female,lower_quartile,11462.43
+2009,nationwide,female,lower_quartile,11324.09
+2008,nationwide,female,lower_quartile,11038.28
+2017,nationwide,female,median,17214.6
+2016,nationwide,female,median,16831.58
+2015,nationwide,female,median,16825.11
+2014,nationwide,female,median,16771.32
+2013,nationwide,female,median,16452.43
+2012,nationwide,female,median,16524.51
+2011,nationwide,female,median,16796.41
+2010,nationwide,female,median,16536.1
+2009,nationwide,female,median,16433.14
+2008,nationwide,female,median,15886.02
+2017,nationwide,female,upper_quartile,26174.19
+2016,nationwide,female,upper_quartile,25711.14
+2015,nationwide,female,upper_quartile,25562.92
+2014,nationwide,female,upper_quartile,25134.57
+2013,nationwide,female,upper_quartile,24568.84
+2012,nationwide,female,upper_quartile,24505.75
+2011,nationwide,female,upper_quartile,25038.56
+2010,nationwide,female,upper_quartile,24751.72
+2009,nationwide,female,upper_quartile,24556.88
+2008,nationwide,female,upper_quartile,23446.18
+2017,nationwide,female,90th_percentile,37896.51
+2016,nationwide,female,90th_percentile,37167.95
+2015,nationwide,female,90th_percentile,37098.89
+2014,nationwide,female,90th_percentile,36627.29
+2013,nationwide,female,90th_percentile,36068.77
+2012,nationwide,female,90th_percentile,35506.25
+2011,nationwide,female,90th_percentile,35871.36
+2010,nationwide,female,90th_percentile,36249.13
+2009,nationwide,female,90th_percentile,36009.1
+2008,nationwide,female,90th_percentile,34397.13
+2017,nationwide,male,mean,26391.84
+2016,nationwide,male,mean,25924.43
+2015,nationwide,male,mean,25992.76
+2014,nationwide,male,mean,25727.24
+2013,nationwide,male,mean,25675.17
+2012,nationwide,male,mean,25682.05
+2011,nationwide,male,mean,25667.89
+2010,nationwide,male,mean,25479.74
+2009,nationwide,male,mean,25001.05
+2008,nationwide,male,mean,24203.33
+2017,nationwide,male,10th_percentile,11393.3
+2016,nationwide,male,10th_percentile,10760.06
+2015,nationwide,male,10th_percentile,11101.74
+2014,nationwide,male,10th_percentile,10242.05
+2013,nationwide,male,10th_percentile,10020.04
+2012,nationwide,male,10th_percentile,10552.8
+2011,nationwide,male,10th_percentile,10973.96
+2010,nationwide,male,10th_percentile,11391.44
+2009,nationwide,male,10th_percentile,11552.95
+2008,nationwide,male,10th_percentile,11594.27
+2017,nationwide,male,lower_quartile,16326.55
+2016,nationwide,male,lower_quartile,15832.23
+2015,nationwide,male,lower_quartile,15962.29
+2014,nationwide,male,lower_quartile,15688.2
+2013,nationwide,male,lower_quartile,15555.04
+2012,nationwide,male,lower_quartile,15705.88
+2011,nationwide,male,lower_quartile,15718.4
+2010,nationwide,male,lower_quartile,15770.16
+2009,nationwide,male,lower_quartile,15545.16
+2008,nationwide,male,lower_quartile,15160.0
+2017,nationwide,male,median,21970.34
+2016,nationwide,male,median,21626.0
+2015,nationwide,male,median,21740.88
+2014,nationwide,male,median,21528.5
+2013,nationwide,male,median,21371.13
+2012,nationwide,male,median,21425.14
+2011,nationwide,male,median,21487.99
+2010,nationwide,male,median,21206.99
+2009,nationwide,male,median,20730.71
+2008,nationwide,male,median,20057.56
+2017,nationwide,male,upper_quartile,32512.91
+2016,nationwide,male,upper_quartile,32178.45
+2015,nationwide,male,upper_quartile,32194.83
+2014,nationwide,male,upper_quartile,31837.0
+2013,nationwide,male,upper_quartile,32114.8
+2012,nationwide,male,upper_quartile,31866.94
+2011,nationwide,male,upper_quartile,31874.98
+2010,nationwide,male,upper_quartile,31164.24
+2009,nationwide,male,upper_quartile,30678.89
+2008,nationwide,male,upper_quartile,29385.82
+2017,nationwide,male,90th_percentile,45813.46
+2016,nationwide,male,90th_percentile,45543.69
+2015,nationwide,male,90th_percentile,45148.06
+2014,nationwide,male,90th_percentile,45259.58
+2013,nationwide,male,90th_percentile,45516.2
+2012,nationwide,male,90th_percentile,45494.89
+2011,nationwide,male,90th_percentile,44848.03
+2010,nationwide,male,90th_percentile,44725.21
+2009,nationwide,male,90th_percentile,43406.27
+2008,nationwide,male,90th_percentile,41792.77
+2017,Andalucía,both,mean,21404.28
+2016,Andalucía,both,mean,21268.41
+2015,Andalucía,both,mean,21381.03
+2014,Andalucía,both,mean,20840.3
+2013,Andalucía,both,mean,20782.03
+2012,Andalucía,both,mean,20891.63
+2011,Andalucía,both,mean,21350.98
+2010,Andalucía,both,mean,20964.36
+2009,Andalucía,both,mean,20906.33
+2008,Andalucía,both,mean,20138.56
+2017,Andalucía,both,10th_percentile,7836.76
+2016,Andalucía,both,10th_percentile,7427.89
+2015,Andalucía,both,10th_percentile,7438.69
+2014,Andalucía,both,10th_percentile,6741.52
+2013,Andalucía,both,10th_percentile,7066.88
+2012,Andalucía,both,10th_percentile,7393.08
+2011,Andalucía,both,10th_percentile,7440.95
+2010,Andalucía,both,10th_percentile,7418.63
+2009,Andalucía,both,10th_percentile,7757.16
+2008,Andalucía,both,10th_percentile,8153.42
+2017,Andalucía,both,lower_quartile,12735.0
+2016,Andalucía,both,lower_quartile,12212.29
+2015,Andalucía,both,lower_quartile,12454.33
+2014,Andalucía,both,lower_quartile,11937.48
+2013,Andalucía,both,lower_quartile,12012.54
+2012,Andalucía,both,lower_quartile,12321.3
+2011,Andalucía,both,lower_quartile,12510.79
+2010,Andalucía,both,lower_quartile,12556.13
+2009,Andalucía,both,lower_quartile,12816.46
+2008,Andalucía,both,lower_quartile,12906.0
+2017,Andalucía,both,median,18251.94
+2016,Andalucía,both,median,18051.91
+2015,Andalucía,both,median,18101.7
+2014,Andalucía,both,median,18034.03
+2013,Andalucía,both,median,17722.42
+2012,Andalucía,both,median,17910.11
+2011,Andalucía,both,median,18193.56
+2010,Andalucía,both,median,17565.81
+2009,Andalucía,both,median,17866.08
+2008,Andalucía,both,median,17371.95
+2017,Andalucía,both,upper_quartile,26668.08
+2016,Andalucía,both,upper_quartile,26862.33
+2015,Andalucía,both,upper_quartile,27048.58
+2014,Andalucía,both,upper_quartile,26129.25
+2013,Andalucía,both,upper_quartile,26357.12
+2012,Andalucía,both,upper_quartile,25948.92
+2011,Andalucía,both,upper_quartile,26681.9
+2010,Andalucía,both,upper_quartile,25569.75
+2009,Andalucía,both,upper_quartile,26036.43
+2008,Andalucía,both,upper_quartile,24537.31
+2017,Andalucía,both,90th_percentile,38260.58
+2016,Andalucía,both,90th_percentile,38731.32
+2015,Andalucía,both,90th_percentile,39121.07
+2014,Andalucía,both,90th_percentile,37835.52
+2013,Andalucía,both,90th_percentile,38061.86
+2012,Andalucía,both,90th_percentile,37291.48
+2011,Andalucía,both,90th_percentile,38761.2
+2010,Andalucía,both,90th_percentile,38447.0
+2009,Andalucía,both,90th_percentile,37655.42
+2008,Andalucía,both,90th_percentile,35105.72
+2017,Andalucía,female,mean,18287.29
+2016,Andalucía,female,mean,18177.37
+2015,Andalucía,female,mean,18340.96
+2014,Andalucía,female,mean,17576.13
+2013,Andalucía,female,mean,17690.19
+2012,Andalucía,female,mean,17828.44
+2011,Andalucía,female,mean,18389.21
+2010,Andalucía,female,mean,17921.33
+2009,Andalucía,female,mean,18371.23
+2008,Andalucía,female,mean,17298.33
+2017,Andalucía,female,10th_percentile,6598.44
+2016,Andalucía,female,10th_percentile,6077.43
+2015,Andalucía,female,10th_percentile,6117.82
+2014,Andalucía,female,10th_percentile,5014.88
+2013,Andalucía,female,10th_percentile,5975.64
+2012,Andalucía,female,10th_percentile,6335.14
+2011,Andalucía,female,10th_percentile,6168.16
+2010,Andalucía,female,10th_percentile,6184.5
+2009,Andalucía,female,10th_percentile,6261.59
+2008,Andalucía,female,10th_percentile,6275.09
+2017,Andalucía,female,lower_quartile,9907.8
+2016,Andalucía,female,lower_quartile,9826.35
+2015,Andalucía,female,lower_quartile,9714.12
+2014,Andalucía,female,lower_quartile,9096.52
+2013,Andalucía,female,lower_quartile,9184.41
+2012,Andalucía,female,lower_quartile,9926.27
+2011,Andalucía,female,lower_quartile,9858.12
+2010,Andalucía,female,lower_quartile,9967.4
+2009,Andalucía,female,lower_quartile,10054.28
+2008,Andalucía,female,lower_quartile,9859.25
+2017,Andalucía,female,median,15368.02
+2016,Andalucía,female,median,15203.96
+2015,Andalucía,female,median,15295.34
+2014,Andalucía,female,median,15044.26
+2013,Andalucía,female,median,15029.15
+2012,Andalucía,female,median,15480.07
+2011,Andalucía,female,median,15578.41
+2010,Andalucía,female,median,14845.01
+2009,Andalucía,female,median,15963.82
+2008,Andalucía,female,median,15137.4
+2017,Andalucía,female,upper_quartile,23772.43
+2016,Andalucía,female,upper_quartile,23822.52
+2015,Andalucía,female,upper_quartile,23679.6
+2014,Andalucía,female,upper_quartile,23211.41
+2013,Andalucía,female,upper_quartile,23188.65
+2012,Andalucía,female,upper_quartile,22931.4
+2011,Andalucía,female,upper_quartile,23973.22
+2010,Andalucía,female,upper_quartile,22617.39
+2009,Andalucía,female,upper_quartile,23749.28
+2008,Andalucía,female,upper_quartile,22198.09
+2017,Andalucía,female,90th_percentile,33912.39
+2016,Andalucía,female,90th_percentile,34205.84
+2015,Andalucía,female,90th_percentile,34389.77
+2014,Andalucía,female,90th_percentile,33157.75
+2013,Andalucía,female,90th_percentile,32818.67
+2012,Andalucía,female,90th_percentile,32126.78
+2011,Andalucía,female,90th_percentile,34038.22
+2010,Andalucía,female,90th_percentile,33623.63
+2009,Andalucía,female,90th_percentile,33967.87
+2008,Andalucía,female,90th_percentile,31190.72
+2017,Andalucía,male,mean,24175.52
+2016,Andalucía,male,mean,24026.82
+2015,Andalucía,male,mean,24200.2
+2014,Andalucía,male,mean,23541.32
+2013,Andalucía,male,mean,23565.36
+2012,Andalucía,male,mean,23592.08
+2011,Andalucía,male,mean,23815.22
+2010,Andalucía,male,mean,23463.96
+2009,Andalucía,male,mean,22908.86
+2008,Andalucía,male,mean,22108.57
+2017,Andalucía,male,10th_percentile,10159.35
+2016,Andalucía,male,10th_percentile,9284.7
+2015,Andalucía,male,10th_percentile,10031.36
+2014,Andalucía,male,10th_percentile,9586.66
+2013,Andalucía,male,10th_percentile,9072.66
+2012,Andalucía,male,10th_percentile,9700.1
+2011,Andalucía,male,10th_percentile,10277.09
+2010,Andalucía,male,10th_percentile,10422.08
+2009,Andalucía,male,10th_percentile,10694.53
+2008,Andalucía,male,10th_percentile,11451.4
+2017,Andalucía,male,lower_quartile,15680.56
+2016,Andalucía,male,lower_quartile,15009.04
+2015,Andalucía,male,lower_quartile,15183.2
+2014,Andalucía,male,lower_quartile,15002.84
+2013,Andalucía,male,lower_quartile,14737.2
+2012,Andalucía,male,lower_quartile,14833.65
+2011,Andalucía,male,lower_quartile,14839.16
+2010,Andalucía,male,lower_quartile,15000.28
+2009,Andalucía,male,lower_quartile,14880.34
+2008,Andalucía,male,lower_quartile,14757.95
+2017,Andalucía,male,median,20410.32
+2016,Andalucía,male,median,20168.27
+2015,Andalucía,male,median,20109.36
+2014,Andalucía,male,median,19774.52
+2013,Andalucía,male,median,19750.02
+2012,Andalucía,male,median,19733.29
+2011,Andalucía,male,median,19772.01
+2010,Andalucía,male,median,19328.83
+2009,Andalucía,male,median,19125.41
+2008,Andalucía,male,median,18513.57
+2017,Andalucía,male,upper_quartile,29443.23
+2016,Andalucía,male,upper_quartile,29660.56
+2015,Andalucía,male,upper_quartile,30000.12
+2014,Andalucía,male,upper_quartile,28752.86
+2013,Andalucía,male,upper_quartile,29387.21
+2012,Andalucía,male,upper_quartile,28777.49
+2011,Andalucía,male,upper_quartile,29326.05
+2010,Andalucía,male,upper_quartile,28035.21
+2009,Andalucía,male,upper_quartile,28186.49
+2008,Andalucía,male,upper_quartile,26005.41
+2017,Andalucía,male,90th_percentile,41715.76
+2016,Andalucía,male,90th_percentile,42694.13
+2015,Andalucía,male,90th_percentile,43035.61
+2014,Andalucía,male,90th_percentile,41329.03
+2013,Andalucía,male,90th_percentile,42283.86
+2012,Andalucía,male,90th_percentile,41464.59
+2011,Andalucía,male,90th_percentile,42039.1
+2010,Andalucía,male,90th_percentile,41776.86
+2009,Andalucía,male,90th_percentile,39934.18
+2008,Andalucía,male,90th_percentile,37702.09
+2017,Aragón,both,mean,23039.94
+2016,Aragón,both,mean,22248.76
+2015,Aragón,both,mean,22327.18
+2014,Aragón,both,mean,22095.79
+2013,Aragón,both,mean,22054.85
+2012,Aragón,both,mean,22103.79
+2011,Aragón,both,mean,22333.53
+2010,Aragón,both,mean,22316.69
+2009,Aragón,both,mean,22133.77
+2008,Aragón,both,mean,21594.47
+2017,Aragón,both,10th_percentile,9082.3
+2016,Aragón,both,10th_percentile,7896.6
+2015,Aragón,both,10th_percentile,7875.69
+2014,Aragón,both,10th_percentile,7799.43
+2013,Aragón,both,10th_percentile,7735.35
+2012,Aragón,both,10th_percentile,8216.38
+2011,Aragón,both,10th_percentile,8863.66
+2010,Aragón,both,10th_percentile,8683.56
+2009,Aragón,both,10th_percentile,8641.36
+2008,Aragón,both,10th_percentile,9051.37
+2017,Aragón,both,lower_quartile,14438.76
+2016,Aragón,both,lower_quartile,13664.48
+2015,Aragón,both,lower_quartile,13424.35
+2014,Aragón,both,lower_quartile,13853.64
+2013,Aragón,both,lower_quartile,13415.54
+2012,Aragón,both,lower_quartile,13688.48
+2011,Aragón,both,lower_quartile,14044.52
+2010,Aragón,both,lower_quartile,14176.97
+2009,Aragón,both,lower_quartile,14051.02
+2008,Aragón,both,lower_quartile,13875.48
+2017,Aragón,both,median,20198.39
+2016,Aragón,both,median,19417.81
+2015,Aragón,both,median,19589.29
+2014,Aragón,both,median,19539.86
+2013,Aragón,both,median,19094.86
+2012,Aragón,both,median,19094.81
+2011,Aragón,both,median,19646.75
+2010,Aragón,both,median,19552.41
+2009,Aragón,both,median,19413.22
+2008,Aragón,both,median,19084.91
+2017,Aragón,both,upper_quartile,28708.75
+2016,Aragón,both,upper_quartile,27990.4
+2015,Aragón,both,upper_quartile,28144.48
+2014,Aragón,both,upper_quartile,27934.08
+2013,Aragón,both,upper_quartile,27796.12
+2012,Aragón,both,upper_quartile,27034.53
+2011,Aragón,both,upper_quartile,27779.87
+2010,Aragón,both,upper_quartile,27478.9
+2009,Aragón,both,upper_quartile,27052.27
+2008,Aragón,both,upper_quartile,26580.39
+2017,Aragón,both,90th_percentile,39100.8
+2016,Aragón,both,90th_percentile,38305.12
+2015,Aragón,both,90th_percentile,39085.72
+2014,Aragón,both,90th_percentile,37273.45
+2013,Aragón,both,90th_percentile,38702.21
+2012,Aragón,both,90th_percentile,38756.84
+2011,Aragón,both,90th_percentile,38723.33
+2010,Aragón,both,90th_percentile,39028.27
+2009,Aragón,both,90th_percentile,38392.52
+2008,Aragón,both,90th_percentile,36579.8
+2017,Aragón,female,mean,19677.22
+2016,Aragón,female,mean,18766.21
+2015,Aragón,female,mean,18950.17
+2014,Aragón,female,mean,18764.63
+2013,Aragón,female,mean,18701.61
+2012,Aragón,female,mean,18042.28
+2011,Aragón,female,mean,18831.38
+2010,Aragón,female,mean,18843.25
+2009,Aragón,female,mean,18861.82
+2008,Aragón,female,mean,17843.46
+2017,Aragón,female,10th_percentile,7213.48
+2016,Aragón,female,10th_percentile,6228.7
+2015,Aragón,female,10th_percentile,6173.3
+2014,Aragón,female,10th_percentile,6514.38
+2013,Aragón,female,10th_percentile,6535.3
+2012,Aragón,female,10th_percentile,6610.91
+2011,Aragón,female,10th_percentile,7418.93
+2010,Aragón,female,10th_percentile,7200.0
+2009,Aragón,female,10th_percentile,7114.8
+2008,Aragón,female,10th_percentile,7210.5
+2017,Aragón,female,lower_quartile,11626.11
+2016,Aragón,female,lower_quartile,10237.79
+2015,Aragón,female,lower_quartile,10444.87
+2014,Aragón,female,lower_quartile,11000.39
+2013,Aragón,female,lower_quartile,10941.54
+2012,Aragón,female,lower_quartile,10549.6
+2011,Aragón,female,lower_quartile,11502.38
+2010,Aragón,female,lower_quartile,11586.66
+2009,Aragón,female,lower_quartile,11323.32
+2008,Aragón,female,lower_quartile,11113.81
+2017,Aragón,female,median,16812.83
+2016,Aragón,female,median,16411.68
+2015,Aragón,female,median,16324.07
+2014,Aragón,female,median,16691.51
+2013,Aragón,female,median,16160.06
+2012,Aragón,female,median,15734.04
+2011,Aragón,female,median,16206.05
+2010,Aragón,female,median,16412.07
+2009,Aragón,female,median,15878.02
+2008,Aragón,female,median,15608.17
+2017,Aragón,female,upper_quartile,24684.39
+2016,Aragón,female,upper_quartile,24084.48
+2015,Aragón,female,upper_quartile,24153.85
+2014,Aragón,female,upper_quartile,23716.65
+2013,Aragón,female,upper_quartile,23165.29
+2012,Aragón,female,upper_quartile,22199.5
+2011,Aragón,female,upper_quartile,23769.33
+2010,Aragón,female,upper_quartile,23033.22
+2009,Aragón,female,upper_quartile,22993.08
+2008,Aragón,female,upper_quartile,21890.54
+2017,Aragón,female,90th_percentile,34703.34
+2016,Aragón,female,90th_percentile,34140.98
+2015,Aragón,female,90th_percentile,34653.38
+2014,Aragón,female,90th_percentile,33023.2
+2013,Aragón,female,90th_percentile,33057.69
+2012,Aragón,female,90th_percentile,32332.65
+2011,Aragón,female,90th_percentile,33769.21
+2010,Aragón,female,90th_percentile,33031.69
+2009,Aragón,female,90th_percentile,34221.74
+2008,Aragón,female,90th_percentile,32080.91
+2017,Aragón,male,mean,25878.46
+2016,Aragón,male,mean,25326.91
+2015,Aragón,male,mean,25555.56
+2014,Aragón,male,mean,25118.61
+2013,Aragón,male,mean,25128.91
+2012,Aragón,male,mean,25766.27
+2011,Aragón,male,mean,25258.68
+2010,Aragón,male,mean,25263.29
+2009,Aragón,male,mean,24787.81
+2008,Aragón,male,mean,24272.36
+2017,Aragón,male,10th_percentile,12523.16
+2016,Aragón,male,10th_percentile,11973.96
+2015,Aragón,male,10th_percentile,11948.41
+2014,Aragón,male,10th_percentile,10600.79
+2013,Aragón,male,10th_percentile,10164.88
+2012,Aragón,male,10th_percentile,12249.0
+2011,Aragón,male,10th_percentile,11974.6
+2010,Aragón,male,10th_percentile,11972.3
+2009,Aragón,male,10th_percentile,12760.34
+2008,Aragón,male,10th_percentile,12420.56
+2017,Aragón,male,lower_quartile,17363.47
+2016,Aragón,male,lower_quartile,16733.12
+2015,Aragón,male,lower_quartile,16666.19
+2014,Aragón,male,lower_quartile,16721.02
+2013,Aragón,male,lower_quartile,15883.32
+2012,Aragón,male,lower_quartile,16765.53
+2011,Aragón,male,lower_quartile,16616.19
+2010,Aragón,male,lower_quartile,16806.8
+2009,Aragón,male,lower_quartile,16667.1
+2008,Aragón,male,lower_quartile,16449.72
+2017,Aragón,male,median,22790.36
+2016,Aragón,male,median,22380.02
+2015,Aragón,male,median,22452.41
+2014,Aragón,male,median,22364.62
+2013,Aragón,male,median,22275.4
+2012,Aragón,male,median,22231.84
+2011,Aragón,male,median,22542.61
+2010,Aragón,male,median,22129.41
+2009,Aragón,male,median,21989.38
+2008,Aragón,male,median,21551.6
+2017,Aragón,male,upper_quartile,31121.85
+2016,Aragón,male,upper_quartile,30722.39
+2015,Aragón,male,upper_quartile,30821.58
+2014,Aragón,male,upper_quartile,30385.38
+2013,Aragón,male,upper_quartile,31144.04
+2012,Aragón,male,upper_quartile,30744.34
+2011,Aragón,male,upper_quartile,30535.09
+2010,Aragón,male,upper_quartile,30260.95
+2009,Aragón,male,upper_quartile,30147.1
+2008,Aragón,male,upper_quartile,29441.16
+2017,Aragón,male,90th_percentile,42272.44
+2016,Aragón,male,90th_percentile,42235.64
+2015,Aragón,male,90th_percentile,42874.15
+2014,Aragón,male,90th_percentile,41393.47
+2013,Aragón,male,90th_percentile,43037.17
+2012,Aragón,male,90th_percentile,43906.88
+2011,Aragón,male,90th_percentile,41521.89
+2010,Aragón,male,90th_percentile,42564.3
+2009,Aragón,male,90th_percentile,41492.38
+2008,Aragón,male,90th_percentile,39380.62
+2017,"Asturias, Principado de",both,mean,23609.67
+2016,"Asturias, Principado de",both,mean,23095.83
+2015,"Asturias, Principado de",both,mean,22826.06
+2014,"Asturias, Principado de",both,mean,22045.29
+2013,"Asturias, Principado de",both,mean,21994.99
+2012,"Asturias, Principado de",both,mean,21750.66
+2011,"Asturias, Principado de",both,mean,22286.48
+2010,"Asturias, Principado de",both,mean,22241.39
+2009,"Asturias, Principado de",both,mean,22597.97
+2008,"Asturias, Principado de",both,mean,21805.67
+2017,"Asturias, Principado de",both,10th_percentile,8504.22
+2016,"Asturias, Principado de",both,10th_percentile,7591.08
+2015,"Asturias, Principado de",both,10th_percentile,7591.08
+2014,"Asturias, Principado de",both,10th_percentile,7226.86
+2013,"Asturias, Principado de",both,10th_percentile,7226.9
+2012,"Asturias, Principado de",both,10th_percentile,7538.76
+2011,"Asturias, Principado de",both,10th_percentile,8429.6
+2010,"Asturias, Principado de",both,10th_percentile,8783.94
+2009,"Asturias, Principado de",both,10th_percentile,8547.94
+2008,"Asturias, Principado de",both,10th_percentile,8634.04
+2017,"Asturias, Principado de",both,lower_quartile,13482.98
+2016,"Asturias, Principado de",both,lower_quartile,12923.35
+2015,"Asturias, Principado de",both,lower_quartile,13042.22
+2014,"Asturias, Principado de",both,lower_quartile,12813.0
+2013,"Asturias, Principado de",both,lower_quartile,12401.25
+2012,"Asturias, Principado de",both,lower_quartile,12918.05
+2011,"Asturias, Principado de",both,lower_quartile,13658.6
+2010,"Asturias, Principado de",both,lower_quartile,13651.02
+2009,"Asturias, Principado de",both,lower_quartile,13687.68
+2008,"Asturias, Principado de",both,lower_quartile,13335.75
+2017,"Asturias, Principado de",both,median,20174.85
+2016,"Asturias, Principado de",both,median,20081.25
+2015,"Asturias, Principado de",both,median,19959.74
+2014,"Asturias, Principado de",both,median,19212.77
+2013,"Asturias, Principado de",both,median,19057.38
+2012,"Asturias, Principado de",both,median,18784.7
+2011,"Asturias, Principado de",both,median,19276.74
+2010,"Asturias, Principado de",both,median,19055.8
+2009,"Asturias, Principado de",both,median,19202.33
+2008,"Asturias, Principado de",both,median,18697.53
+2017,"Asturias, Principado de",both,upper_quartile,30079.2
+2016,"Asturias, Principado de",both,upper_quartile,29429.86
+2015,"Asturias, Principado de",both,upper_quartile,29058.0
+2014,"Asturias, Principado de",both,upper_quartile,28363.24
+2013,"Asturias, Principado de",both,upper_quartile,28486.67
+2012,"Asturias, Principado de",both,upper_quartile,27220.1
+2011,"Asturias, Principado de",both,upper_quartile,27940.97
+2010,"Asturias, Principado de",both,upper_quartile,28121.34
+2009,"Asturias, Principado de",both,upper_quartile,28041.4
+2008,"Asturias, Principado de",both,upper_quartile,27084.62
+2017,"Asturias, Principado de",both,90th_percentile,42452.9
+2016,"Asturias, Principado de",both,90th_percentile,41032.42
+2015,"Asturias, Principado de",both,90th_percentile,41847.13
+2014,"Asturias, Principado de",both,90th_percentile,39870.62
+2013,"Asturias, Principado de",both,90th_percentile,39599.5
+2012,"Asturias, Principado de",both,90th_percentile,38796.83
+2011,"Asturias, Principado de",both,90th_percentile,38802.84
+2010,"Asturias, Principado de",both,90th_percentile,38782.2
+2009,"Asturias, Principado de",both,90th_percentile,39907.69
+2008,"Asturias, Principado de",both,90th_percentile,38359.61
+2017,"Asturias, Principado de",female,mean,19426.48
+2016,"Asturias, Principado de",female,mean,19077.92
+2015,"Asturias, Principado de",female,mean,18925.34
+2014,"Asturias, Principado de",female,mean,18400.68
+2013,"Asturias, Principado de",female,mean,18455.34
+2012,"Asturias, Principado de",female,mean,18026.01
+2011,"Asturias, Principado de",female,mean,18721.59
+2010,"Asturias, Principado de",female,mean,18786.13
+2009,"Asturias, Principado de",female,mean,19289.76
+2008,"Asturias, Principado de",female,mean,18452.09
+2017,"Asturias, Principado de",female,10th_percentile,6810.94
+2016,"Asturias, Principado de",female,10th_percentile,6218.32
+2015,"Asturias, Principado de",female,10th_percentile,6410.24
+2014,"Asturias, Principado de",female,10th_percentile,6322.88
+2013,"Asturias, Principado de",female,10th_percentile,6179.97
+2012,"Asturias, Principado de",female,10th_percentile,6518.05
+2011,"Asturias, Principado de",female,10th_percentile,7326.72
+2010,"Asturias, Principado de",female,10th_percentile,7330.34
+2009,"Asturias, Principado de",female,10th_percentile,7337.43
+2008,"Asturias, Principado de",female,10th_percentile,7169.76
+2017,"Asturias, Principado de",female,lower_quartile,11309.49
+2016,"Asturias, Principado de",female,lower_quartile,10772.84
+2015,"Asturias, Principado de",female,lower_quartile,10689.35
+2014,"Asturias, Principado de",female,lower_quartile,10754.7
+2013,"Asturias, Principado de",female,lower_quartile,10196.44
+2012,"Asturias, Principado de",female,lower_quartile,10689.15
+2011,"Asturias, Principado de",female,lower_quartile,11635.41
+2010,"Asturias, Principado de",female,lower_quartile,11465.37
+2009,"Asturias, Principado de",female,lower_quartile,11366.85
+2008,"Asturias, Principado de",female,lower_quartile,10925.78
+2017,"Asturias, Principado de",female,median,15795.6
+2016,"Asturias, Principado de",female,median,15912.63
+2015,"Asturias, Principado de",female,median,15594.05
+2014,"Asturias, Principado de",female,median,15954.87
+2013,"Asturias, Principado de",female,median,15431.98
+2012,"Asturias, Principado de",female,median,15474.56
+2011,"Asturias, Principado de",female,median,15478.73
+2010,"Asturias, Principado de",female,median,15362.12
+2009,"Asturias, Principado de",female,median,15857.5
+2008,"Asturias, Principado de",female,median,15419.78
+2017,"Asturias, Principado de",female,upper_quartile,24169.15
+2016,"Asturias, Principado de",female,upper_quartile,24339.88
+2015,"Asturias, Principado de",female,upper_quartile,23965.28
+2014,"Asturias, Principado de",female,upper_quartile,23331.74
+2013,"Asturias, Principado de",female,upper_quartile,23195.1
+2012,"Asturias, Principado de",female,upper_quartile,21980.12
+2011,"Asturias, Principado de",female,upper_quartile,23333.16
+2010,"Asturias, Principado de",female,upper_quartile,23519.22
+2009,"Asturias, Principado de",female,upper_quartile,24173.23
+2008,"Asturias, Principado de",female,upper_quartile,22456.42
+2017,"Asturias, Principado de",female,90th_percentile,36760.93
+2016,"Asturias, Principado de",female,90th_percentile,35863.24
+2015,"Asturias, Principado de",female,90th_percentile,35044.06
+2014,"Asturias, Principado de",female,90th_percentile,33779.15
+2013,"Asturias, Principado de",female,90th_percentile,34935.64
+2012,"Asturias, Principado de",female,90th_percentile,32734.12
+2011,"Asturias, Principado de",female,90th_percentile,33653.21
+2010,"Asturias, Principado de",female,90th_percentile,34528.14
+2009,"Asturias, Principado de",female,90th_percentile,34023.37
+2008,"Asturias, Principado de",female,90th_percentile,32926.03
+2017,"Asturias, Principado de",male,mean,27849.0
+2016,"Asturias, Principado de",male,mean,27010.87
+2015,"Asturias, Principado de",male,mean,26514.68
+2014,"Asturias, Principado de",male,mean,25322.01
+2013,"Asturias, Principado de",male,mean,25500.04
+2012,"Asturias, Principado de",male,mean,25048.82
+2011,"Asturias, Principado de",male,mean,25346.39
+2010,"Asturias, Principado de",male,mean,25170.79
+2009,"Asturias, Principado de",male,mean,25175.71
+2008,"Asturias, Principado de",male,mean,24306.27
+2017,"Asturias, Principado de",male,10th_percentile,12134.3
+2016,"Asturias, Principado de",male,10th_percentile,11168.0
+2015,"Asturias, Principado de",male,10th_percentile,11210.72
+2014,"Asturias, Principado de",male,10th_percentile,9811.92
+2013,"Asturias, Principado de",male,10th_percentile,8535.31
+2012,"Asturias, Principado de",male,10th_percentile,9892.17
+2011,"Asturias, Principado de",male,10th_percentile,11471.52
+2010,"Asturias, Principado de",male,10th_percentile,11714.17
+2009,"Asturias, Principado de",male,10th_percentile,11323.52
+2008,"Asturias, Principado de",male,10th_percentile,11303.38
+2017,"Asturias, Principado de",male,lower_quartile,17879.09
+2016,"Asturias, Principado de",male,lower_quartile,17190.14
+2015,"Asturias, Principado de",male,lower_quartile,16980.66
+2014,"Asturias, Principado de",male,lower_quartile,16181.76
+2013,"Asturias, Principado de",male,lower_quartile,15770.78
+2012,"Asturias, Principado de",male,lower_quartile,16392.96
+2011,"Asturias, Principado de",male,lower_quartile,16795.11
+2010,"Asturias, Principado de",male,lower_quartile,16680.81
+2009,"Asturias, Principado de",male,lower_quartile,16235.44
+2008,"Asturias, Principado de",male,lower_quartile,15921.69
+2017,"Asturias, Principado de",male,median,24030.46
+2016,"Asturias, Principado de",male,median,23437.86
+2015,"Asturias, Principado de",male,median,23248.86
+2014,"Asturias, Principado de",male,median,22433.47
+2013,"Asturias, Principado de",male,median,22383.08
+2012,"Asturias, Principado de",male,median,21732.37
+2011,"Asturias, Principado de",male,median,22029.51
+2010,"Asturias, Principado de",male,median,21831.09
+2009,"Asturias, Principado de",male,median,21397.37
+2008,"Asturias, Principado de",male,median,21173.29
+2017,"Asturias, Principado de",male,upper_quartile,34780.69
+2016,"Asturias, Principado de",male,upper_quartile,34001.92
+2015,"Asturias, Principado de",male,upper_quartile,34432.28
+2014,"Asturias, Principado de",male,upper_quartile,32512.93
+2013,"Asturias, Principado de",male,upper_quartile,32407.39
+2012,"Asturias, Principado de",male,upper_quartile,31345.36
+2011,"Asturias, Principado de",male,upper_quartile,31127.8
+2010,"Asturias, Principado de",male,upper_quartile,31148.16
+2009,"Asturias, Principado de",male,upper_quartile,30900.02
+2008,"Asturias, Principado de",male,upper_quartile,29593.39
+2017,"Asturias, Principado de",male,90th_percentile,45547.43
+2016,"Asturias, Principado de",male,90th_percentile,44938.52
+2015,"Asturias, Principado de",male,90th_percentile,44130.88
+2014,"Asturias, Principado de",male,90th_percentile,43292.45
+2013,"Asturias, Principado de",male,90th_percentile,43109.54
+2012,"Asturias, Principado de",male,90th_percentile,42573.36
+2011,"Asturias, Principado de",male,90th_percentile,42004.3
+2010,"Asturias, Principado de",male,90th_percentile,41869.79
+2009,"Asturias, Principado de",male,90th_percentile,43018.83
+2008,"Asturias, Principado de",male,90th_percentile,41101.2
+2017,"Balears, Illes",both,mean,22036.46
+2016,"Balears, Illes",both,mean,21478.34
+2015,"Balears, Illes",both,mean,21395.42
+2014,"Balears, Illes",both,mean,21322.08
+2013,"Balears, Illes",both,mean,20776.29
+2012,"Balears, Illes",both,mean,20960.53
+2011,"Balears, Illes",both,mean,21351.0
+2010,"Balears, Illes",both,mean,21613.6
+2009,"Balears, Illes",both,mean,21070.14
+2008,"Balears, Illes",both,mean,20388.09
+2017,"Balears, Illes",both,10th_percentile,9900.99
+2016,"Balears, Illes",both,10th_percentile,8594.84
+2015,"Balears, Illes",both,10th_percentile,8969.64
+2014,"Balears, Illes",both,10th_percentile,9312.05
+2013,"Balears, Illes",both,10th_percentile,8278.16
+2012,"Balears, Illes",both,10th_percentile,8588.24
+2011,"Balears, Illes",both,10th_percentile,9012.96
+2010,"Balears, Illes",both,10th_percentile,9219.76
+2009,"Balears, Illes",both,10th_percentile,9565.98
+2008,"Balears, Illes",both,10th_percentile,9619.14
+2017,"Balears, Illes",both,lower_quartile,14735.55
+2016,"Balears, Illes",both,lower_quartile,13884.59
+2015,"Balears, Illes",both,lower_quartile,14201.02
+2014,"Balears, Illes",both,lower_quartile,14131.02
+2013,"Balears, Illes",both,lower_quartile,13765.16
+2012,"Balears, Illes",both,lower_quartile,13954.34
+2011,"Balears, Illes",both,lower_quartile,14209.9
+2010,"Balears, Illes",both,lower_quartile,14303.77
+2009,"Balears, Illes",both,lower_quartile,14008.65
+2008,"Balears, Illes",both,lower_quartile,13486.1
+2017,"Balears, Illes",both,median,19264.02
+2016,"Balears, Illes",both,median,18847.22
+2015,"Balears, Illes",both,median,18610.0
+2014,"Balears, Illes",both,median,18714.35
+2013,"Balears, Illes",both,median,18030.53
+2012,"Balears, Illes",both,median,18088.52
+2011,"Balears, Illes",both,median,18403.17
+2010,"Balears, Illes",both,median,18406.42
+2009,"Balears, Illes",both,median,17224.24
+2008,"Balears, Illes",both,median,16813.32
+2017,"Balears, Illes",both,upper_quartile,25520.0
+2016,"Balears, Illes",both,upper_quartile,25243.95
+2015,"Balears, Illes",both,upper_quartile,24966.72
+2014,"Balears, Illes",both,upper_quartile,24936.55
+2013,"Balears, Illes",both,upper_quartile,24592.1
+2012,"Balears, Illes",both,upper_quartile,24976.54
+2011,"Balears, Illes",both,upper_quartile,25427.19
+2010,"Balears, Illes",both,upper_quartile,25579.52
+2009,"Balears, Illes",both,upper_quartile,24095.07
+2008,"Balears, Illes",both,upper_quartile,23334.3
+2017,"Balears, Illes",both,90th_percentile,37668.58
+2016,"Balears, Illes",both,90th_percentile,37025.02
+2015,"Balears, Illes",both,90th_percentile,36163.2
+2014,"Balears, Illes",both,90th_percentile,35283.25
+2013,"Balears, Illes",both,90th_percentile,34989.31
+2012,"Balears, Illes",both,90th_percentile,35224.61
+2011,"Balears, Illes",both,90th_percentile,36358.78
+2010,"Balears, Illes",both,90th_percentile,36976.78
+2009,"Balears, Illes",both,90th_percentile,36851.1
+2008,"Balears, Illes",both,90th_percentile,35047.39
+2017,"Balears, Illes",female,mean,20465.58
+2016,"Balears, Illes",female,mean,19702.6
+2015,"Balears, Illes",female,mean,19517.28
+2014,"Balears, Illes",female,mean,19008.38
+2013,"Balears, Illes",female,mean,18998.37
+2012,"Balears, Illes",female,mean,19022.24
+2011,"Balears, Illes",female,mean,19377.39
+2010,"Balears, Illes",female,mean,19812.19
+2009,"Balears, Illes",female,mean,18702.72
+2008,"Balears, Illes",female,mean,18159.78
+2017,"Balears, Illes",female,10th_percentile,8970.38
+2016,"Balears, Illes",female,10th_percentile,7787.06
+2015,"Balears, Illes",female,10th_percentile,7778.38
+2014,"Balears, Illes",female,10th_percentile,8590.04
+2013,"Balears, Illes",female,10th_percentile,7836.37
+2012,"Balears, Illes",female,10th_percentile,8031.43
+2011,"Balears, Illes",female,10th_percentile,8323.78
+2010,"Balears, Illes",female,10th_percentile,8392.14
+2009,"Balears, Illes",female,10th_percentile,8346.22
+2008,"Balears, Illes",female,10th_percentile,8091.47
+2017,"Balears, Illes",female,lower_quartile,13237.67
+2016,"Balears, Illes",female,lower_quartile,12354.0
+2015,"Balears, Illes",female,lower_quartile,12454.42
+2014,"Balears, Illes",female,lower_quartile,12325.0
+2013,"Balears, Illes",female,lower_quartile,12340.53
+2012,"Balears, Illes",female,lower_quartile,12900.79
+2011,"Balears, Illes",female,lower_quartile,13029.71
+2010,"Balears, Illes",female,lower_quartile,13133.39
+2009,"Balears, Illes",female,lower_quartile,12707.4
+2008,"Balears, Illes",female,lower_quartile,11853.68
+2017,"Balears, Illes",female,median,18113.66
+2016,"Balears, Illes",female,median,17582.01
+2015,"Balears, Illes",female,median,17370.54
+2014,"Balears, Illes",female,median,17133.18
+2013,"Balears, Illes",female,median,16887.8
+2012,"Balears, Illes",female,median,16999.82
+2011,"Balears, Illes",female,median,17358.36
+2010,"Balears, Illes",female,median,17240.49
+2009,"Balears, Illes",female,median,15889.99
+2008,"Balears, Illes",female,median,15385.11
+2017,"Balears, Illes",female,upper_quartile,24565.83
+2016,"Balears, Illes",female,upper_quartile,24141.58
+2015,"Balears, Illes",female,upper_quartile,23614.44
+2014,"Balears, Illes",female,upper_quartile,22985.52
+2013,"Balears, Illes",female,upper_quartile,22683.47
+2012,"Balears, Illes",female,upper_quartile,22465.23
+2011,"Balears, Illes",female,upper_quartile,23176.41
+2010,"Balears, Illes",female,upper_quartile,24034.08
+2009,"Balears, Illes",female,upper_quartile,22117.55
+2008,"Balears, Illes",female,upper_quartile,21092.28
+2017,"Balears, Illes",female,90th_percentile,35012.21
+2016,"Balears, Illes",female,90th_percentile,34027.05
+2015,"Balears, Illes",female,90th_percentile,33716.34
+2014,"Balears, Illes",female,90th_percentile,32227.97
+2013,"Balears, Illes",female,90th_percentile,32370.79
+2012,"Balears, Illes",female,90th_percentile,31419.01
+2011,"Balears, Illes",female,90th_percentile,32328.96
+2010,"Balears, Illes",female,90th_percentile,33381.35
+2009,"Balears, Illes",female,90th_percentile,33332.41
+2008,"Balears, Illes",female,90th_percentile,31763.18
+2017,"Balears, Illes",male,mean,23538.43
+2016,"Balears, Illes",male,mean,23286.85
+2015,"Balears, Illes",male,mean,23411.35
+2014,"Balears, Illes",male,mean,23770.56
+2013,"Balears, Illes",male,mean,22584.78
+2012,"Balears, Illes",male,mean,22859.04
+2011,"Balears, Illes",male,mean,23188.8
+2010,"Balears, Illes",male,mean,23213.04
+2009,"Balears, Illes",male,mean,23285.93
+2008,"Balears, Illes",male,mean,22253.73
+2017,"Balears, Illes",male,10th_percentile,11612.11
+2016,"Balears, Illes",male,10th_percentile,10226.59
+2015,"Balears, Illes",male,10th_percentile,11656.27
+2014,"Balears, Illes",male,10th_percentile,10609.1
+2013,"Balears, Illes",male,10th_percentile,9249.26
+2012,"Balears, Illes",male,10th_percentile,9913.58
+2011,"Balears, Illes",male,10th_percentile,10731.96
+2010,"Balears, Illes",male,10th_percentile,11181.12
+2009,"Balears, Illes",male,10th_percentile,11788.86
+2008,"Balears, Illes",male,10th_percentile,11651.31
+2017,"Balears, Illes",male,lower_quartile,16038.48
+2016,"Balears, Illes",male,lower_quartile,15423.91
+2015,"Balears, Illes",male,lower_quartile,15852.0
+2014,"Balears, Illes",male,lower_quartile,16179.71
+2013,"Balears, Illes",male,lower_quartile,15100.5
+2012,"Balears, Illes",male,lower_quartile,15083.38
+2011,"Balears, Illes",male,lower_quartile,15082.52
+2010,"Balears, Illes",male,lower_quartile,15292.65
+2009,"Balears, Illes",male,lower_quartile,15148.63
+2008,"Balears, Illes",male,lower_quartile,14732.9
+2017,"Balears, Illes",male,median,20252.93
+2016,"Balears, Illes",male,median,20106.69
+2015,"Balears, Illes",male,median,19994.15
+2014,"Balears, Illes",male,median,20330.19
+2013,"Balears, Illes",male,median,19295.0
+2012,"Balears, Illes",male,median,19510.2
+2011,"Balears, Illes",male,median,19921.2
+2010,"Balears, Illes",male,median,19609.49
+2009,"Balears, Illes",male,median,18869.73
+2008,"Balears, Illes",male,median,18199.91
+2017,"Balears, Illes",male,upper_quartile,26899.07
+2016,"Balears, Illes",male,upper_quartile,26878.5
+2015,"Balears, Illes",male,upper_quartile,26872.55
+2014,"Balears, Illes",male,upper_quartile,27721.44
+2013,"Balears, Illes",male,upper_quartile,26980.65
+2012,"Balears, Illes",male,upper_quartile,27222.86
+2011,"Balears, Illes",male,upper_quartile,27597.85
+2010,"Balears, Illes",male,upper_quartile,27463.27
+2009,"Balears, Illes",male,upper_quartile,26518.22
+2008,"Balears, Illes",male,upper_quartile,25004.38
+2017,"Balears, Illes",male,90th_percentile,40246.05
+2016,"Balears, Illes",male,90th_percentile,39569.8
+2015,"Balears, Illes",male,90th_percentile,39014.67
+2014,"Balears, Illes",male,90th_percentile,38741.65
+2013,"Balears, Illes",male,90th_percentile,38056.3
+2012,"Balears, Illes",male,90th_percentile,38939.59
+2011,"Balears, Illes",male,90th_percentile,39822.29
+2010,"Balears, Illes",male,90th_percentile,39468.03
+2009,"Balears, Illes",male,90th_percentile,39540.7
+2008,"Balears, Illes",male,90th_percentile,37901.52
+2017,Canarias,both,mean,20185.33
+2016,Canarias,both,mean,19749.03
+2015,Canarias,both,mean,19856.61
+2014,Canarias,both,mean,19436.48
+2013,Canarias,both,mean,19167.93
+2012,Canarias,both,mean,19277.62
+2011,Canarias,both,mean,19516.96
+2010,Canarias,both,mean,19315.56
+2009,Canarias,both,mean,18926.36
+2008,Canarias,both,mean,18466.99
+2017,Canarias,both,10th_percentile,8504.67
+2016,Canarias,both,10th_percentile,7840.41
+2015,Canarias,both,10th_percentile,7283.78
+2014,Canarias,both,10th_percentile,7381.98
+2013,Canarias,both,10th_percentile,6623.23
+2012,Canarias,both,10th_percentile,6772.32
+2011,Canarias,both,10th_percentile,7529.64
+2010,Canarias,both,10th_percentile,7913.84
+2009,Canarias,both,10th_percentile,8186.66
+2008,Canarias,both,10th_percentile,8591.6
+2017,Canarias,both,lower_quartile,12491.9
+2016,Canarias,both,lower_quartile,11892.67
+2015,Canarias,both,lower_quartile,11609.2
+2014,Canarias,both,lower_quartile,11550.49
+2013,Canarias,both,lower_quartile,11127.36
+2012,Canarias,both,lower_quartile,11137.92
+2011,Canarias,both,lower_quartile,11577.26
+2010,Canarias,both,lower_quartile,11643.18
+2009,Canarias,both,lower_quartile,12144.18
+2008,Canarias,both,lower_quartile,12028.43
+2017,Canarias,both,median,17223.25
+2016,Canarias,both,median,16833.69
+2015,Canarias,both,median,17025.12
+2014,Canarias,both,median,16509.48
+2013,Canarias,both,median,16405.41
+2012,Canarias,both,median,16584.6
+2011,Canarias,both,median,16487.68
+2010,Canarias,both,median,15897.41
+2009,Canarias,both,median,16229.38
+2008,Canarias,both,median,15725.28
+2017,Canarias,both,upper_quartile,24044.2
+2016,Canarias,both,upper_quartile,23721.56
+2015,Canarias,both,upper_quartile,24326.91
+2014,Canarias,both,upper_quartile,23315.06
+2013,Canarias,both,upper_quartile,23306.4
+2012,Canarias,both,upper_quartile,23365.74
+2011,Canarias,both,upper_quartile,23691.54
+2010,Canarias,both,upper_quartile,23592.06
+2009,Canarias,both,upper_quartile,22715.64
+2008,Canarias,both,upper_quartile,21693.6
+2017,Canarias,both,90th_percentile,36164.07
+2016,Canarias,both,90th_percentile,35740.4
+2015,Canarias,both,90th_percentile,36148.33
+2014,Canarias,both,90th_percentile,34565.14
+2013,Canarias,both,90th_percentile,35000.88
+2012,Canarias,both,90th_percentile,34458.15
+2011,Canarias,both,90th_percentile,34847.21
+2010,Canarias,both,90th_percentile,35000.04
+2009,Canarias,both,90th_percentile,33618.92
+2008,Canarias,both,90th_percentile,32004.86
+2017,Canarias,female,mean,18917.73
+2016,Canarias,female,mean,18211.44
+2015,Canarias,female,mean,18279.76
+2014,Canarias,female,mean,18201.48
+2013,Canarias,female,mean,17619.86
+2012,Canarias,female,mean,17498.71
+2011,Canarias,female,mean,17824.94
+2010,Canarias,female,mean,17601.79
+2009,Canarias,female,mean,17528.33
+2008,Canarias,female,mean,17131.85
+2017,Canarias,female,10th_percentile,7589.96
+2016,Canarias,female,10th_percentile,7098.48
+2015,Canarias,female,10th_percentile,6408.0
+2014,Canarias,female,10th_percentile,6517.55
+2013,Canarias,female,10th_percentile,5676.33
+2012,Canarias,female,10th_percentile,6010.22
+2011,Canarias,female,10th_percentile,6427.08
+2010,Canarias,female,10th_percentile,6585.89
+2009,Canarias,female,10th_percentile,6453.04
+2008,Canarias,female,10th_percentile,6474.48
+2017,Canarias,female,lower_quartile,11207.17
+2016,Canarias,female,lower_quartile,10528.48
+2015,Canarias,female,lower_quartile,10039.23
+2014,Canarias,female,lower_quartile,10559.02
+2013,Canarias,female,lower_quartile,9658.85
+2012,Canarias,female,lower_quartile,10039.97
+2011,Canarias,female,lower_quartile,10433.7
+2010,Canarias,female,lower_quartile,10263.08
+2009,Canarias,female,lower_quartile,10595.76
+2008,Canarias,female,lower_quartile,10303.63
+2017,Canarias,female,median,16343.72
+2016,Canarias,female,median,15780.72
+2015,Canarias,female,median,15389.18
+2014,Canarias,female,median,15355.31
+2013,Canarias,female,median,14859.15
+2012,Canarias,female,median,14680.25
+2011,Canarias,female,median,14889.88
+2010,Canarias,female,median,14370.7
+2009,Canarias,female,median,15139.91
+2008,Canarias,female,median,14621.63
+2017,Canarias,female,upper_quartile,23162.2
+2016,Canarias,female,upper_quartile,22240.03
+2015,Canarias,female,upper_quartile,22957.35
+2014,Canarias,female,upper_quartile,22042.6
+2013,Canarias,female,upper_quartile,21999.98
+2012,Canarias,female,upper_quartile,21952.88
+2011,Canarias,female,upper_quartile,22485.06
+2010,Canarias,female,upper_quartile,21771.48
+2009,Canarias,female,upper_quartile,21483.88
+2008,Canarias,female,upper_quartile,20542.93
+2017,Canarias,female,90th_percentile,34659.38
+2016,Canarias,female,90th_percentile,33349.88
+2015,Canarias,female,90th_percentile,34047.74
+2014,Canarias,female,90th_percentile,33551.3
+2013,Canarias,female,90th_percentile,32766.41
+2012,Canarias,female,90th_percentile,32296.84
+2011,Canarias,female,90th_percentile,33140.42
+2010,Canarias,female,90th_percentile,32354.96
+2009,Canarias,female,90th_percentile,32101.27
+2008,Canarias,female,90th_percentile,31064.08
+2017,Canarias,male,mean,21291.66
+2016,Canarias,male,mean,21149.44
+2015,Canarias,male,mean,21336.72
+2014,Canarias,male,mean,20641.49
+2013,Canarias,male,mean,20678.43
+2012,Canarias,male,mean,21089.85
+2011,Canarias,male,mean,21090.86
+2010,Canarias,male,mean,20986.94
+2009,Canarias,male,mean,20109.24
+2008,Canarias,male,mean,19516.93
+2017,Canarias,male,10th_percentile,9897.61
+2016,Canarias,male,10th_percentile,9041.1
+2015,Canarias,male,10th_percentile,8538.67
+2014,Canarias,male,10th_percentile,9043.92
+2013,Canarias,male,10th_percentile,7877.31
+2012,Canarias,male,10th_percentile,8219.14
+2011,Canarias,male,10th_percentile,9125.77
+2010,Canarias,male,10th_percentile,9974.64
+2009,Canarias,male,10th_percentile,10206.2
+2008,Canarias,male,10th_percentile,10527.8
+2017,Canarias,male,lower_quartile,13652.33
+2016,Canarias,male,lower_quartile,13475.72
+2015,Canarias,male,lower_quartile,13578.97
+2014,Canarias,male,lower_quartile,12919.86
+2013,Canarias,male,lower_quartile,12880.62
+2012,Canarias,male,lower_quartile,13122.31
+2011,Canarias,male,lower_quartile,13123.3
+2010,Canarias,male,lower_quartile,13055.06
+2009,Canarias,male,lower_quartile,13590.0
+2008,Canarias,male,lower_quartile,13258.2
+2017,Canarias,male,median,17776.74
+2016,Canarias,male,median,17736.72
+2015,Canarias,male,median,18042.41
+2014,Canarias,male,median,17254.37
+2013,Canarias,male,median,17603.76
+2012,Canarias,male,median,17941.68
+2011,Canarias,male,median,17775.63
+2010,Canarias,male,median,16986.2
+2009,Canarias,male,median,16949.1
+2008,Canarias,male,median,16310.4
+2017,Canarias,male,upper_quartile,24621.85
+2016,Canarias,male,upper_quartile,24744.49
+2015,Canarias,male,upper_quartile,25292.49
+2014,Canarias,male,upper_quartile,24723.03
+2013,Canarias,male,upper_quartile,24267.24
+2012,Canarias,male,upper_quartile,25086.57
+2011,Canarias,male,upper_quartile,24850.91
+2010,Canarias,male,upper_quartile,25503.84
+2009,Canarias,male,upper_quartile,24200.4
+2008,Canarias,male,upper_quartile,22563.83
+2017,Canarias,male,90th_percentile,38279.08
+2016,Canarias,male,90th_percentile,37958.11
+2015,Canarias,male,90th_percentile,38151.86
+2014,Canarias,male,90th_percentile,35559.55
+2013,Canarias,male,90th_percentile,36825.01
+2012,Canarias,male,90th_percentile,36852.75
+2011,Canarias,male,90th_percentile,37146.34
+2010,Canarias,male,90th_percentile,37296.3
+2009,Canarias,male,90th_percentile,34919.47
+2008,Canarias,male,90th_percentile,32158.85
+2017,Cantabria,both,mean,22390.4
+2016,Cantabria,both,mean,22063.02
+2015,Cantabria,both,mean,21856.81
+2014,Cantabria,both,mean,21199.83
+2013,Cantabria,both,mean,20052.12
+2012,Cantabria,both,mean,20191.51
+2011,Cantabria,both,mean,20931.68
+2010,Cantabria,both,mean,21156.79
+2009,Cantabria,both,mean,20869.86
+2008,Cantabria,both,mean,20377.68
+2017,Cantabria,both,10th_percentile,8844.61
+2016,Cantabria,both,10th_percentile,8480.47
+2015,Cantabria,both,10th_percentile,8085.88
+2014,Cantabria,both,10th_percentile,7134.6
+2013,Cantabria,both,10th_percentile,7566.98
+2012,Cantabria,both,10th_percentile,7518.84
+2011,Cantabria,both,10th_percentile,8082.61
+2010,Cantabria,both,10th_percentile,8248.8
+2009,Cantabria,both,10th_percentile,8209.95
+2008,Cantabria,both,10th_percentile,8763.7
+2017,Cantabria,both,lower_quartile,13534.85
+2016,Cantabria,both,lower_quartile,12939.01
+2015,Cantabria,both,lower_quartile,13443.74
+2014,Cantabria,both,lower_quartile,12659.03
+2013,Cantabria,both,lower_quartile,12336.9
+2012,Cantabria,both,lower_quartile,12534.9
+2011,Cantabria,both,lower_quartile,13222.5
+2010,Cantabria,both,lower_quartile,13160.89
+2009,Cantabria,both,lower_quartile,12899.82
+2008,Cantabria,both,lower_quartile,13201.31
+2017,Cantabria,both,median,19092.46
+2016,Cantabria,both,median,18590.39
+2015,Cantabria,both,median,18861.3
+2014,Cantabria,both,median,18514.74
+2013,Cantabria,both,median,17632.21
+2012,Cantabria,both,median,17284.05
+2011,Cantabria,both,median,18023.05
+2010,Cantabria,both,median,18071.76
+2009,Cantabria,both,median,18002.19
+2008,Cantabria,both,median,17624.84
+2017,Cantabria,both,upper_quartile,27968.43
+2016,Cantabria,both,upper_quartile,27411.34
+2015,Cantabria,both,upper_quartile,27526.75
+2014,Cantabria,both,upper_quartile,26671.48
+2013,Cantabria,both,upper_quartile,25304.87
+2012,Cantabria,both,upper_quartile,24543.38
+2011,Cantabria,both,upper_quartile,26002.96
+2010,Cantabria,both,upper_quartile,26335.73
+2009,Cantabria,both,upper_quartile,26163.6
+2008,Cantabria,both,upper_quartile,25032.66
+2017,Cantabria,both,90th_percentile,40839.0
+2016,Cantabria,both,90th_percentile,39657.6
+2015,Cantabria,both,90th_percentile,38476.91
+2014,Cantabria,both,90th_percentile,38592.37
+2013,Cantabria,both,90th_percentile,35467.68
+2012,Cantabria,both,90th_percentile,36539.97
+2011,Cantabria,both,90th_percentile,36713.48
+2010,Cantabria,both,90th_percentile,37152.52
+2009,Cantabria,both,90th_percentile,37183.58
+2008,Cantabria,both,90th_percentile,35322.22
+2017,Cantabria,female,mean,19012.2
+2016,Cantabria,female,mean,18216.84
+2015,Cantabria,female,mean,17955.79
+2014,Cantabria,female,mean,17668.55
+2013,Cantabria,female,mean,16542.34
+2012,Cantabria,female,mean,16771.99
+2011,Cantabria,female,mean,17606.84
+2010,Cantabria,female,mean,17887.59
+2009,Cantabria,female,mean,18210.65
+2008,Cantabria,female,mean,17460.14
+2017,Cantabria,female,10th_percentile,6760.35
+2016,Cantabria,female,10th_percentile,6844.44
+2015,Cantabria,female,10th_percentile,6649.48
+2014,Cantabria,female,10th_percentile,5702.94
+2013,Cantabria,female,10th_percentile,6678.85
+2012,Cantabria,female,10th_percentile,6771.84
+2011,Cantabria,female,10th_percentile,6801.05
+2010,Cantabria,female,10th_percentile,6336.93
+2009,Cantabria,female,10th_percentile,6776.26
+2008,Cantabria,female,10th_percentile,6683.02
+2017,Cantabria,female,lower_quartile,11223.96
+2016,Cantabria,female,lower_quartile,10567.96
+2015,Cantabria,female,lower_quartile,10632.86
+2014,Cantabria,female,lower_quartile,9768.74
+2013,Cantabria,female,lower_quartile,10177.32
+2012,Cantabria,female,lower_quartile,10015.6
+2011,Cantabria,female,lower_quartile,10672.94
+2010,Cantabria,female,lower_quartile,10578.72
+2009,Cantabria,female,lower_quartile,10343.01
+2008,Cantabria,female,lower_quartile,10465.79
+2017,Cantabria,female,median,15998.06
+2016,Cantabria,female,median,15414.19
+2015,Cantabria,female,median,15456.0
+2014,Cantabria,female,median,15060.5
+2013,Cantabria,female,median,14575.17
+2012,Cantabria,female,median,14449.44
+2011,Cantabria,female,median,14912.6
+2010,Cantabria,female,median,14813.15
+2009,Cantabria,female,median,14415.9
+2008,Cantabria,female,median,15029.34
+2017,Cantabria,female,upper_quartile,24158.18
+2016,Cantabria,female,upper_quartile,22639.07
+2015,Cantabria,female,upper_quartile,23529.66
+2014,Cantabria,female,upper_quartile,22529.78
+2013,Cantabria,female,upper_quartile,21069.0
+2012,Cantabria,female,upper_quartile,20123.96
+2011,Cantabria,female,upper_quartile,22160.81
+2010,Cantabria,female,upper_quartile,22075.96
+2009,Cantabria,female,upper_quartile,23159.33
+2008,Cantabria,female,upper_quartile,21810.64
+2017,Cantabria,female,90th_percentile,35932.08
+2016,Cantabria,female,90th_percentile,34673.91
+2015,Cantabria,female,90th_percentile,33824.31
+2014,Cantabria,female,90th_percentile,33564.39
+2013,Cantabria,female,90th_percentile,29778.35
+2012,Cantabria,female,90th_percentile,31881.72
+2011,Cantabria,female,90th_percentile,32478.64
+2010,Cantabria,female,90th_percentile,32448.03
+2009,Cantabria,female,90th_percentile,35207.22
+2008,Cantabria,female,90th_percentile,32464.19
+2017,Cantabria,male,mean,25249.94
+2016,Cantabria,male,mean,25210.05
+2015,Cantabria,male,mean,25259.83
+2014,Cantabria,male,mean,24685.21
+2013,Cantabria,male,mean,23224.6
+2012,Cantabria,male,mean,23309.9
+2011,Cantabria,male,mean,23793.64
+2010,Cantabria,male,mean,23924.51
+2009,Cantabria,male,mean,22933.0
+2008,Cantabria,male,mean,22539.72
+2017,Cantabria,male,10th_percentile,11479.99
+2016,Cantabria,male,10th_percentile,11740.28
+2015,Cantabria,male,10th_percentile,12093.27
+2014,Cantabria,male,10th_percentile,10412.64
+2013,Cantabria,male,10th_percentile,9759.36
+2012,Cantabria,male,10th_percentile,10548.83
+2011,Cantabria,male,10th_percentile,11625.38
+2010,Cantabria,male,10th_percentile,11300.0
+2009,Cantabria,male,10th_percentile,11921.93
+2008,Cantabria,male,10th_percentile,12312.93
+2017,Cantabria,male,lower_quartile,16044.22
+2016,Cantabria,male,lower_quartile,15808.24
+2015,Cantabria,male,lower_quartile,16354.9
+2014,Cantabria,male,lower_quartile,16262.4
+2013,Cantabria,male,lower_quartile,15461.31
+2012,Cantabria,male,lower_quartile,15300.0
+2011,Cantabria,male,lower_quartile,15623.16
+2010,Cantabria,male,lower_quartile,15973.91
+2009,Cantabria,male,lower_quartile,15767.6
+2008,Cantabria,male,lower_quartile,15546.39
+2017,Cantabria,male,median,21322.62
+2016,Cantabria,male,median,20692.84
+2015,Cantabria,male,median,21468.08
+2014,Cantabria,male,median,21015.31
+2013,Cantabria,male,median,20001.84
+2012,Cantabria,male,median,19685.54
+2011,Cantabria,male,median,20318.96
+2010,Cantabria,male,median,20491.2
+2009,Cantabria,male,median,20134.47
+2008,Cantabria,male,median,19401.56
+2017,Cantabria,male,upper_quartile,31213.07
+2016,Cantabria,male,upper_quartile,31466.18
+2015,Cantabria,male,upper_quartile,30497.66
+2014,Cantabria,male,upper_quartile,31157.85
+2013,Cantabria,male,upper_quartile,29100.86
+2012,Cantabria,male,upper_quartile,27716.35
+2011,Cantabria,male,upper_quartile,28691.5
+2010,Cantabria,male,upper_quartile,29034.92
+2009,Cantabria,male,upper_quartile,27898.78
+2008,Cantabria,male,upper_quartile,26679.56
+2017,Cantabria,male,90th_percentile,44256.28
+2016,Cantabria,male,90th_percentile,43704.0
+2015,Cantabria,male,90th_percentile,42790.82
+2014,Cantabria,male,90th_percentile,43105.69
+2013,Cantabria,male,90th_percentile,40146.48
+2012,Cantabria,male,90th_percentile,39150.0
+2011,Cantabria,male,90th_percentile,39317.07
+2010,Cantabria,male,90th_percentile,40639.73
+2009,Cantabria,male,90th_percentile,37939.73
+2008,Cantabria,male,90th_percentile,36889.2
+2017,Castilla y León,both,mean,21846.88
+2016,Castilla y León,both,mean,21551.57
+2015,Castilla y León,both,mean,21296.1
+2014,Castilla y León,both,mean,20524.83
+2013,Castilla y León,both,mean,20440.56
+2012,Castilla y León,both,mean,20569.14
+2011,Castilla y León,both,mean,21029.37
+2010,Castilla y León,both,mean,20960.87
+2009,Castilla y León,both,mean,21037.13
+2008,Castilla y León,both,mean,20218.21
+2017,Castilla y León,both,10th_percentile,8450.96
+2016,Castilla y León,both,10th_percentile,8070.71
+2015,Castilla y León,both,10th_percentile,7992.37
+2014,Castilla y León,both,10th_percentile,7293.62
+2013,Castilla y León,both,10th_percentile,6898.27
+2012,Castilla y León,both,10th_percentile,6960.99
+2011,Castilla y León,both,10th_percentile,7779.75
+2010,Castilla y León,both,10th_percentile,7430.51
+2009,Castilla y León,both,10th_percentile,8736.0
+2008,Castilla y León,both,10th_percentile,8878.06
+2017,Castilla y León,both,lower_quartile,13426.68
+2016,Castilla y León,both,lower_quartile,13301.51
+2015,Castilla y León,both,lower_quartile,13117.8
+2014,Castilla y León,both,lower_quartile,12826.83
+2013,Castilla y León,both,lower_quartile,12370.71
+2012,Castilla y León,both,lower_quartile,12679.08
+2011,Castilla y León,both,lower_quartile,13282.54
+2010,Castilla y León,both,lower_quartile,12848.71
+2009,Castilla y León,both,lower_quartile,13087.83
+2008,Castilla y León,both,lower_quartile,12828.48
+2017,Castilla y León,both,median,18672.47
+2016,Castilla y León,both,median,18594.84
+2015,Castilla y León,both,median,18381.52
+2014,Castilla y León,both,median,17687.69
+2013,Castilla y León,both,median,17557.96
+2012,Castilla y León,both,median,17465.56
+2011,Castilla y León,both,median,17971.26
+2010,Castilla y León,both,median,17669.77
+2009,Castilla y León,both,median,17577.2
+2008,Castilla y León,both,median,17246.99
+2017,Castilla y León,both,upper_quartile,27329.11
+2016,Castilla y León,both,upper_quartile,26885.14
+2015,Castilla y León,both,upper_quartile,26642.59
+2014,Castilla y León,both,upper_quartile,25454.21
+2013,Castilla y León,both,upper_quartile,25707.27
+2012,Castilla y León,both,upper_quartile,25576.57
+2011,Castilla y León,both,upper_quartile,26353.94
+2010,Castilla y León,both,upper_quartile,25971.3
+2009,Castilla y León,both,upper_quartile,25778.46
+2008,Castilla y León,both,upper_quartile,24759.69
+2017,Castilla y León,both,90th_percentile,38408.41
+2016,Castilla y León,both,90th_percentile,38498.41
+2015,Castilla y León,both,90th_percentile,37758.8
+2014,Castilla y León,both,90th_percentile,36260.53
+2013,Castilla y León,both,90th_percentile,36672.65
+2012,Castilla y León,both,90th_percentile,36245.68
+2011,Castilla y León,both,90th_percentile,36889.73
+2010,Castilla y León,both,90th_percentile,37418.49
+2009,Castilla y León,both,90th_percentile,37155.42
+2008,Castilla y León,both,90th_percentile,34896.49
+2017,Castilla y León,female,mean,18796.93
+2016,Castilla y León,female,mean,18662.42
+2015,Castilla y León,female,mean,18523.74
+2014,Castilla y León,female,mean,17682.88
+2013,Castilla y León,female,mean,17429.41
+2012,Castilla y León,female,mean,17552.07
+2011,Castilla y León,female,mean,18193.91
+2010,Castilla y León,female,mean,17683.88
+2009,Castilla y León,female,mean,18249.87
+2008,Castilla y León,female,mean,17573.56
+2017,Castilla y León,female,10th_percentile,7108.18
+2016,Castilla y León,female,10th_percentile,6707.29
+2015,Castilla y León,female,10th_percentile,6793.86
+2014,Castilla y León,female,10th_percentile,5727.2
+2013,Castilla y León,female,10th_percentile,5630.59
+2012,Castilla y León,female,10th_percentile,6076.19
+2011,Castilla y León,female,10th_percentile,6363.75
+2010,Castilla y León,female,10th_percentile,6035.57
+2009,Castilla y León,female,10th_percentile,6789.42
+2008,Castilla y León,female,10th_percentile,6753.94
+2017,Castilla y León,female,lower_quartile,10770.0
+2016,Castilla y León,female,lower_quartile,10755.51
+2015,Castilla y León,female,lower_quartile,10703.93
+2014,Castilla y León,female,lower_quartile,9690.44
+2013,Castilla y León,female,lower_quartile,9825.12
+2012,Castilla y León,female,lower_quartile,10185.0
+2011,Castilla y León,female,lower_quartile,10688.79
+2010,Castilla y León,female,lower_quartile,10239.1
+2009,Castilla y León,female,lower_quartile,10573.33
+2008,Castilla y León,female,lower_quartile,10445.72
+2017,Castilla y León,female,median,15985.41
+2016,Castilla y León,female,median,15916.57
+2015,Castilla y León,female,median,15806.28
+2014,Castilla y León,female,median,15269.56
+2013,Castilla y León,female,median,15087.95
+2012,Castilla y León,female,median,15275.45
+2011,Castilla y León,female,median,15805.06
+2010,Castilla y León,female,median,15103.16
+2009,Castilla y León,female,median,15309.12
+2008,Castilla y León,female,median,14817.65
+2017,Castilla y León,female,upper_quartile,23910.55
+2016,Castilla y León,female,upper_quartile,23777.45
+2015,Castilla y León,female,upper_quartile,23633.69
+2014,Castilla y León,female,upper_quartile,23002.6
+2013,Castilla y León,female,upper_quartile,22461.94
+2012,Castilla y León,female,upper_quartile,22631.56
+2011,Castilla y León,female,upper_quartile,23222.14
+2010,Castilla y León,female,upper_quartile,21828.54
+2009,Castilla y León,female,upper_quartile,22894.37
+2008,Castilla y León,female,upper_quartile,21733.65
+2017,Castilla y León,female,90th_percentile,33965.65
+2016,Castilla y León,female,90th_percentile,34192.43
+2015,Castilla y León,female,90th_percentile,33804.92
+2014,Castilla y León,female,90th_percentile,31727.83
+2013,Castilla y León,female,90th_percentile,32263.4
+2012,Castilla y León,female,90th_percentile,31079.31
+2011,Castilla y León,female,90th_percentile,33356.31
+2010,Castilla y León,female,90th_percentile,32436.47
+2009,Castilla y León,female,90th_percentile,33030.68
+2008,Castilla y León,female,90th_percentile,32489.41
+2017,Castilla y León,male,mean,24782.8
+2016,Castilla y León,male,mean,24445.65
+2015,Castilla y León,male,mean,24135.64
+2014,Castilla y León,male,mean,22904.8
+2013,Castilla y León,male,mean,23379.0
+2012,Castilla y León,male,mean,23473.82
+2011,Castilla y León,male,mean,23482.58
+2010,Castilla y León,male,mean,23640.67
+2009,Castilla y León,male,mean,23116.47
+2008,Castilla y León,male,mean,22117.28
+2017,Castilla y León,male,10th_percentile,11579.65
+2016,Castilla y León,male,10th_percentile,11766.15
+2015,Castilla y León,male,10th_percentile,11661.8
+2014,Castilla y León,male,10th_percentile,10527.66
+2013,Castilla y León,male,10th_percentile,10053.48
+2012,Castilla y León,male,10th_percentile,10546.54
+2011,Castilla y León,male,10th_percentile,11150.4
+2010,Castilla y León,male,10th_percentile,11506.5
+2009,Castilla y León,male,10th_percentile,11483.69
+2008,Castilla y León,male,10th_percentile,11400.0
+2017,Castilla y León,male,lower_quartile,16324.44
+2016,Castilla y León,male,lower_quartile,16057.8
+2015,Castilla y León,male,lower_quartile,15929.93
+2014,Castilla y León,male,lower_quartile,15051.88
+2013,Castilla y León,male,lower_quartile,15099.09
+2012,Castilla y León,male,lower_quartile,15225.36
+2011,Castilla y León,male,lower_quartile,15343.78
+2010,Castilla y León,male,lower_quartile,15278.42
+2009,Castilla y León,male,lower_quartile,14865.17
+2008,Castilla y León,male,lower_quartile,14656.35
+2017,Castilla y León,male,median,21162.75
+2016,Castilla y León,male,median,20596.75
+2015,Castilla y León,male,median,20548.94
+2014,Castilla y León,male,median,19479.68
+2013,Castilla y León,male,median,19873.03
+2012,Castilla y León,male,median,19680.54
+2011,Castilla y León,male,median,19891.88
+2010,Castilla y León,male,median,19553.56
+2009,Castilla y León,male,median,19133.17
+2008,Castilla y León,male,median,18663.75
+2017,Castilla y León,male,upper_quartile,30184.74
+2016,Castilla y León,male,upper_quartile,29689.71
+2015,Castilla y León,male,upper_quartile,29338.96
+2014,Castilla y León,male,upper_quartile,27468.29
+2013,Castilla y León,male,upper_quartile,28688.85
+2012,Castilla y León,male,upper_quartile,28604.84
+2011,Castilla y León,male,upper_quartile,28520.08
+2010,Castilla y León,male,upper_quartile,28604.57
+2009,Castilla y León,male,upper_quartile,27749.03
+2008,Castilla y León,male,upper_quartile,26504.73
+2017,Castilla y León,male,90th_percentile,42565.56
+2016,Castilla y León,male,90th_percentile,42122.63
+2015,Castilla y León,male,90th_percentile,41065.81
+2014,Castilla y León,male,90th_percentile,39780.1
+2013,Castilla y León,male,90th_percentile,39842.97
+2012,Castilla y León,male,90th_percentile,40693.56
+2011,Castilla y León,male,90th_percentile,39312.86
+2010,Castilla y León,male,90th_percentile,40892.8
+2009,Castilla y León,male,90th_percentile,39100.05
+2008,Castilla y León,male,90th_percentile,36889.2
+2017,Castilla - La Mancha,both,mean,21033.32
+2016,Castilla - La Mancha,both,mean,20825.87
+2015,Castilla - La Mancha,both,mean,20670.55
+2014,Castilla - La Mancha,both,mean,20644.88
+2013,Castilla - La Mancha,both,mean,20630.07
+2012,Castilla - La Mancha,both,mean,20536.42
+2011,Castilla - La Mancha,both,mean,20664.9
+2010,Castilla - La Mancha,both,mean,20363.01
+2009,Castilla - La Mancha,both,mean,20228.79
+2008,Castilla - La Mancha,both,mean,19736.37
+2017,Castilla - La Mancha,both,10th_percentile,7860.36
+2016,Castilla - La Mancha,both,10th_percentile,7404.0
+2015,Castilla - La Mancha,both,10th_percentile,7292.25
+2014,Castilla - La Mancha,both,10th_percentile,7571.41
+2013,Castilla - La Mancha,both,10th_percentile,7545.12
+2012,Castilla - La Mancha,both,10th_percentile,7678.67
+2011,Castilla - La Mancha,both,10th_percentile,8133.07
+2010,Castilla - La Mancha,both,10th_percentile,8409.04
+2009,Castilla - La Mancha,both,10th_percentile,8084.76
+2008,Castilla - La Mancha,both,10th_percentile,8807.16
+2017,Castilla - La Mancha,both,lower_quartile,12959.57
+2016,Castilla - La Mancha,both,lower_quartile,12954.4
+2015,Castilla - La Mancha,both,lower_quartile,12932.13
+2014,Castilla - La Mancha,both,lower_quartile,13230.07
+2013,Castilla - La Mancha,both,lower_quartile,12921.49
+2012,Castilla - La Mancha,both,lower_quartile,12975.76
+2011,Castilla - La Mancha,both,lower_quartile,13503.19
+2010,Castilla - La Mancha,both,lower_quartile,13350.05
+2009,Castilla - La Mancha,both,lower_quartile,13267.84
+2008,Castilla - La Mancha,both,lower_quartile,12816.57
+2017,Castilla - La Mancha,both,median,17735.19
+2016,Castilla - La Mancha,both,median,17874.62
+2015,Castilla - La Mancha,both,median,17741.88
+2014,Castilla - La Mancha,both,median,17912.98
+2013,Castilla - La Mancha,both,median,17443.75
+2012,Castilla - La Mancha,both,median,17300.72
+2011,Castilla - La Mancha,both,median,17850.54
+2010,Castilla - La Mancha,both,median,17378.84
+2009,Castilla - La Mancha,both,median,17069.99
+2008,Castilla - La Mancha,both,median,16581.33
+2017,Castilla - La Mancha,both,upper_quartile,25187.76
+2016,Castilla - La Mancha,both,upper_quartile,25396.88
+2015,Castilla - La Mancha,both,upper_quartile,25340.2
+2014,Castilla - La Mancha,both,upper_quartile,25434.91
+2013,Castilla - La Mancha,both,upper_quartile,24539.28
+2012,Castilla - La Mancha,both,upper_quartile,24335.34
+2011,Castilla - La Mancha,both,upper_quartile,25021.38
+2010,Castilla - La Mancha,both,upper_quartile,24213.82
+2009,Castilla - La Mancha,both,upper_quartile,23687.01
+2008,Castilla - La Mancha,both,upper_quartile,23272.64
+2017,Castilla - La Mancha,both,90th_percentile,38095.73
+2016,Castilla - La Mancha,both,90th_percentile,37189.89
+2015,Castilla - La Mancha,both,90th_percentile,36955.72
+2014,Castilla - La Mancha,both,90th_percentile,35805.3
+2013,Castilla - La Mancha,both,90th_percentile,36983.04
+2012,Castilla - La Mancha,both,90th_percentile,36343.49
+2011,Castilla - La Mancha,both,90th_percentile,35788.51
+2010,Castilla - La Mancha,both,90th_percentile,35032.02
+2009,Castilla - La Mancha,both,90th_percentile,34794.54
+2008,Castilla - La Mancha,both,90th_percentile,34120.72
+2017,Castilla - La Mancha,female,mean,18327.35
+2016,Castilla - La Mancha,female,mean,18213.71
+2015,Castilla - La Mancha,female,mean,18097.55
+2014,Castilla - La Mancha,female,mean,18157.02
+2013,Castilla - La Mancha,female,mean,17481.02
+2012,Castilla - La Mancha,female,mean,17527.3
+2011,Castilla - La Mancha,female,mean,18001.99
+2010,Castilla - La Mancha,female,mean,17913.0
+2009,Castilla - La Mancha,female,mean,17709.92
+2008,Castilla - La Mancha,female,mean,17562.94
+2017,Castilla - La Mancha,female,10th_percentile,6471.33
+2016,Castilla - La Mancha,female,10th_percentile,5937.41
+2015,Castilla - La Mancha,female,10th_percentile,5859.39
+2014,Castilla - La Mancha,female,10th_percentile,5836.2
+2013,Castilla - La Mancha,female,10th_percentile,6060.23
+2012,Castilla - La Mancha,female,10th_percentile,6099.08
+2011,Castilla - La Mancha,female,10th_percentile,6701.46
+2010,Castilla - La Mancha,female,10th_percentile,6512.52
+2009,Castilla - La Mancha,female,10th_percentile,6648.21
+2008,Castilla - La Mancha,female,10th_percentile,6701.4
+2017,Castilla - La Mancha,female,lower_quartile,9930.07
+2016,Castilla - La Mancha,female,lower_quartile,9795.42
+2015,Castilla - La Mancha,female,lower_quartile,9470.08
+2014,Castilla - La Mancha,female,lower_quartile,10095.37
+2013,Castilla - La Mancha,female,lower_quartile,9962.03
+2012,Castilla - La Mancha,female,lower_quartile,10004.38
+2011,Castilla - La Mancha,female,lower_quartile,10865.51
+2010,Castilla - La Mancha,female,lower_quartile,10193.69
+2009,Castilla - La Mancha,female,lower_quartile,10302.2
+2008,Castilla - La Mancha,female,lower_quartile,10271.64
+2017,Castilla - La Mancha,female,median,15130.6
+2016,Castilla - La Mancha,female,median,15670.87
+2015,Castilla - La Mancha,female,median,15566.1
+2014,Castilla - La Mancha,female,median,15860.4
+2013,Castilla - La Mancha,female,median,15206.58
+2012,Castilla - La Mancha,female,median,14956.86
+2011,Castilla - La Mancha,female,median,16092.7
+2010,Castilla - La Mancha,female,median,15059.88
+2009,Castilla - La Mancha,female,median,15057.5
+2008,Castilla - La Mancha,female,median,14887.81
+2017,Castilla - La Mancha,female,upper_quartile,23041.89
+2016,Castilla - La Mancha,female,upper_quartile,23699.63
+2015,Castilla - La Mancha,female,upper_quartile,23406.5
+2014,Castilla - La Mancha,female,upper_quartile,24006.32
+2013,Castilla - La Mancha,female,upper_quartile,22000.48
+2012,Castilla - La Mancha,female,upper_quartile,21632.21
+2011,Castilla - La Mancha,female,upper_quartile,22729.09
+2010,Castilla - La Mancha,female,upper_quartile,22265.92
+2009,Castilla - La Mancha,female,upper_quartile,22109.88
+2008,Castilla - La Mancha,female,upper_quartile,22037.78
+2017,Castilla - La Mancha,female,90th_percentile,33944.24
+2016,Castilla - La Mancha,female,90th_percentile,33367.32
+2015,Castilla - La Mancha,female,90th_percentile,34183.05
+2014,Castilla - La Mancha,female,90th_percentile,32820.82
+2013,Castilla - La Mancha,female,90th_percentile,31051.78
+2012,Castilla - La Mancha,female,90th_percentile,31989.91
+2011,Castilla - La Mancha,female,90th_percentile,31372.42
+2010,Castilla - La Mancha,female,90th_percentile,32039.81
+2009,Castilla - La Mancha,female,90th_percentile,32205.79
+2008,Castilla - La Mancha,female,90th_percentile,32148.89
+2017,Castilla - La Mancha,male,mean,23160.99
+2016,Castilla - La Mancha,male,mean,22871.41
+2015,Castilla - La Mancha,male,mean,22765.56
+2014,Castilla - La Mancha,male,mean,22719.35
+2013,Castilla - La Mancha,male,mean,23316.59
+2012,Castilla - La Mancha,male,mean,22810.39
+2011,Castilla - La Mancha,male,mean,22771.53
+2010,Castilla - La Mancha,male,mean,22292.84
+2009,Castilla - La Mancha,male,mean,21980.61
+2008,Castilla - La Mancha,male,mean,21141.95
+2017,Castilla - La Mancha,male,10th_percentile,10444.27
+2016,Castilla - La Mancha,male,10th_percentile,10755.57
+2015,Castilla - La Mancha,male,10th_percentile,10728.17
+2014,Castilla - La Mancha,male,10th_percentile,10584.05
+2013,Castilla - La Mancha,male,10th_percentile,11457.96
+2012,Castilla - La Mancha,male,10th_percentile,11269.71
+2011,Castilla - La Mancha,male,10th_percentile,11877.96
+2010,Castilla - La Mancha,male,10th_percentile,12048.0
+2009,Castilla - La Mancha,male,10th_percentile,11709.13
+2008,Castilla - La Mancha,male,10th_percentile,11517.69
+2017,Castilla - La Mancha,male,lower_quartile,15625.8
+2016,Castilla - La Mancha,male,lower_quartile,15291.06
+2015,Castilla - La Mancha,male,lower_quartile,15232.03
+2014,Castilla - La Mancha,male,lower_quartile,15390.93
+2013,Castilla - La Mancha,male,lower_quartile,15229.86
+2012,Castilla - La Mancha,male,lower_quartile,15036.25
+2011,Castilla - La Mancha,male,lower_quartile,15319.59
+2010,Castilla - La Mancha,male,lower_quartile,15304.92
+2009,Castilla - La Mancha,male,lower_quartile,14896.75
+2008,Castilla - La Mancha,male,lower_quartile,14405.04
+2017,Castilla - La Mancha,male,median,19295.42
+2016,Castilla - La Mancha,male,median,19380.27
+2015,Castilla - La Mancha,male,median,19305.7
+2014,Castilla - La Mancha,male,median,19137.2
+2013,Castilla - La Mancha,male,median,19200.0
+2012,Castilla - La Mancha,male,median,18780.36
+2011,Castilla - La Mancha,male,median,19145.12
+2010,Castilla - La Mancha,male,median,18649.8
+2009,Castilla - La Mancha,male,median,18001.5
+2008,Castilla - La Mancha,male,median,17456.35
+2017,Castilla - La Mancha,male,upper_quartile,26863.69
+2016,Castilla - La Mancha,male,upper_quartile,26871.63
+2015,Castilla - La Mancha,male,upper_quartile,26995.82
+2014,Castilla - La Mancha,male,upper_quartile,26908.12
+2013,Castilla - La Mancha,male,upper_quartile,26999.96
+2012,Castilla - La Mancha,male,upper_quartile,26771.49
+2011,Castilla - La Mancha,male,upper_quartile,26562.59
+2010,Castilla - La Mancha,male,upper_quartile,25468.7
+2009,Castilla - La Mancha,male,upper_quartile,25093.3
+2008,Castilla - La Mancha,male,upper_quartile,24158.8
+2017,Castilla - La Mancha,male,90th_percentile,40480.9
+2016,Castilla - La Mancha,male,90th_percentile,39499.96
+2015,Castilla - La Mancha,male,90th_percentile,39411.46
+2014,Castilla - La Mancha,male,90th_percentile,37963.71
+2013,Castilla - La Mancha,male,90th_percentile,40483.01
+2012,Castilla - La Mancha,male,90th_percentile,39418.66
+2011,Castilla - La Mancha,male,90th_percentile,38798.68
+2010,Castilla - La Mancha,male,90th_percentile,37240.13
+2009,Castilla - La Mancha,male,90th_percentile,36378.04
+2008,Castilla - La Mancha,male,90th_percentile,35573.85
+2017,Cataluña,both,mean,25180.45
+2016,Cataluña,both,mean,24454.64
+2015,Cataluña,both,mean,24321.57
+2014,Cataluña,both,mean,23927.17
+2013,Cataluña,both,mean,24253.73
+2012,Cataluña,both,mean,24436.39
+2011,Cataluña,both,mean,24499.32
+2010,Cataluña,both,mean,24449.19
+2009,Cataluña,both,mean,23851.31
+2008,Cataluña,both,mean,23375.54
+2017,Cataluña,both,10th_percentile,9176.86
+2016,Cataluña,both,10th_percentile,8470.49
+2015,Cataluña,both,10th_percentile,8246.79
+2014,Cataluña,both,10th_percentile,7841.98
+2013,Cataluña,both,10th_percentile,8068.64
+2012,Cataluña,both,10th_percentile,8684.82
+2011,Cataluña,both,10th_percentile,8870.68
+2010,Cataluña,both,10th_percentile,9237.79
+2009,Cataluña,both,10th_percentile,9246.15
+2008,Cataluña,both,10th_percentile,9221.03
+2017,Cataluña,both,lower_quartile,15053.96
+2016,Cataluña,both,lower_quartile,14238.29
+2015,Cataluña,both,lower_quartile,14345.12
+2014,Cataluña,both,lower_quartile,14010.69
+2013,Cataluña,both,lower_quartile,13986.96
+2012,Cataluña,both,lower_quartile,14429.08
+2011,Cataluña,both,lower_quartile,14411.74
+2010,Cataluña,both,lower_quartile,14476.86
+2009,Cataluña,both,lower_quartile,14465.39
+2008,Cataluña,both,lower_quartile,14162.82
+2017,Cataluña,both,median,21719.75
+2016,Cataluña,both,median,21188.49
+2015,Cataluña,both,median,20972.14
+2014,Cataluña,both,median,20601.39
+2013,Cataluña,both,median,20763.38
+2012,Cataluña,both,median,20991.85
+2011,Cataluña,both,median,21249.33
+2010,Cataluña,both,median,20851.5
+2009,Cataluña,both,median,20633.92
+2008,Cataluña,both,median,19904.44
+2017,Cataluña,both,upper_quartile,31978.51
+2016,Cataluña,both,upper_quartile,31049.4
+2015,Cataluña,both,upper_quartile,30990.88
+2014,Cataluña,both,upper_quartile,30160.92
+2013,Cataluña,both,upper_quartile,31029.13
+2012,Cataluña,both,upper_quartile,30987.63
+2011,Cataluña,both,upper_quartile,31064.75
+2010,Cataluña,both,upper_quartile,30359.0
+2009,Cataluña,both,upper_quartile,29809.68
+2008,Cataluña,both,upper_quartile,28826.15
+2017,Cataluña,both,90th_percentile,43960.53
+2016,Cataluña,both,90th_percentile,42850.9
+2015,Cataluña,both,90th_percentile,42581.49
+2014,Cataluña,both,90th_percentile,42426.96
+2013,Cataluña,both,90th_percentile,43498.89
+2012,Cataluña,both,90th_percentile,43224.21
+2011,Cataluña,both,90th_percentile,42613.63
+2010,Cataluña,both,90th_percentile,42967.11
+2009,Cataluña,both,90th_percentile,41470.48
+2008,Cataluña,both,90th_percentile,40774.57
+2017,Cataluña,female,mean,21801.47
+2016,Cataluña,female,mean,21110.34
+2015,Cataluña,female,mean,20946.56
+2014,Cataluña,female,mean,20324.88
+2013,Cataluña,female,mean,20740.55
+2012,Cataluña,female,mean,20931.07
+2011,Cataluña,female,mean,20799.94
+2010,Cataluña,female,mean,21042.14
+2009,Cataluña,female,mean,20467.14
+2008,Cataluña,female,mean,19928.48
+2017,Cataluña,female,10th_percentile,7759.96
+2016,Cataluña,female,10th_percentile,7232.95
+2015,Cataluña,female,10th_percentile,6943.29
+2014,Cataluña,female,10th_percentile,6282.79
+2013,Cataluña,female,10th_percentile,6876.2
+2012,Cataluña,female,10th_percentile,7299.54
+2011,Cataluña,female,10th_percentile,7587.42
+2010,Cataluña,female,10th_percentile,7684.54
+2009,Cataluña,female,10th_percentile,7817.9
+2008,Cataluña,female,10th_percentile,7661.82
+2017,Cataluña,female,lower_quartile,12586.62
+2016,Cataluña,female,lower_quartile,11795.02
+2015,Cataluña,female,lower_quartile,11824.84
+2014,Cataluña,female,lower_quartile,11593.37
+2013,Cataluña,female,lower_quartile,11897.88
+2012,Cataluña,female,lower_quartile,12321.69
+2011,Cataluña,female,lower_quartile,12307.46
+2010,Cataluña,female,lower_quartile,12314.57
+2009,Cataluña,female,lower_quartile,12155.03
+2008,Cataluña,female,lower_quartile,11900.52
+2017,Cataluña,female,median,18865.83
+2016,Cataluña,female,median,18372.96
+2015,Cataluña,female,median,18088.32
+2014,Cataluña,female,median,17964.44
+2013,Cataluña,female,median,17962.12
+2012,Cataluña,female,median,18049.47
+2011,Cataluña,female,median,18209.1
+2010,Cataluña,female,median,18016.02
+2009,Cataluña,female,median,17630.34
+2008,Cataluña,female,median,16949.36
+2017,Cataluña,female,upper_quartile,27662.18
+2016,Cataluña,female,upper_quartile,27070.15
+2015,Cataluña,female,upper_quartile,26996.55
+2014,Cataluña,female,upper_quartile,25959.58
+2013,Cataluña,female,upper_quartile,26311.19
+2012,Cataluña,female,upper_quartile,26388.98
+2011,Cataluña,female,upper_quartile,26333.29
+2010,Cataluña,female,upper_quartile,26680.29
+2009,Cataluña,female,upper_quartile,25885.35
+2008,Cataluña,female,upper_quartile,24755.68
+2017,Cataluña,female,90th_percentile,38780.08
+2016,Cataluña,female,90th_percentile,37765.35
+2015,Cataluña,female,90th_percentile,37670.88
+2014,Cataluña,female,90th_percentile,36695.83
+2013,Cataluña,female,90th_percentile,37098.02
+2012,Cataluña,female,90th_percentile,36955.81
+2011,Cataluña,female,90th_percentile,36132.88
+2010,Cataluña,female,90th_percentile,37712.35
+2009,Cataluña,female,90th_percentile,36491.66
+2008,Cataluña,female,90th_percentile,35008.98
+2017,Cataluña,male,mean,28323.31
+2016,Cataluña,male,mean,27572.76
+2015,Cataluña,male,mean,27514.06
+2014,Cataluña,male,mean,27447.71
+2013,Cataluña,male,mean,27684.3
+2012,Cataluña,male,mean,27836.4
+2011,Cataluña,male,mean,28025.61
+2010,Cataluña,male,mean,27601.02
+2009,Cataluña,male,mean,26901.3
+2008,Cataluña,male,mean,26353.89
+2017,Cataluña,male,10th_percentile,11820.25
+2016,Cataluña,male,10th_percentile,10938.93
+2015,Cataluña,male,10th_percentile,11525.97
+2014,Cataluña,male,10th_percentile,10939.62
+2013,Cataluña,male,10th_percentile,10020.04
+2012,Cataluña,male,10th_percentile,10646.13
+2011,Cataluña,male,10th_percentile,11300.62
+2010,Cataluña,male,10th_percentile,11457.82
+2009,Cataluña,male,10th_percentile,12265.32
+2008,Cataluña,male,10th_percentile,12000.0
+2017,Cataluña,male,lower_quartile,17760.96
+2016,Cataluña,male,lower_quartile,17240.34
+2015,Cataluña,male,lower_quartile,17334.06
+2014,Cataluña,male,lower_quartile,16984.0
+2013,Cataluña,male,lower_quartile,16696.72
+2012,Cataluña,male,lower_quartile,17100.34
+2011,Cataluña,male,lower_quartile,17521.2
+2010,Cataluña,male,lower_quartile,17254.96
+2009,Cataluña,male,lower_quartile,16978.71
+2008,Cataluña,male,lower_quartile,16421.65
+2017,Cataluña,male,median,24473.89
+2016,Cataluña,male,median,24050.27
+2015,Cataluña,male,median,23738.27
+2014,Cataluña,male,median,23715.3
+2013,Cataluña,male,median,23922.5
+2012,Cataluña,male,median,24001.24
+2011,Cataluña,male,median,24093.65
+2010,Cataluña,male,median,23488.62
+2009,Cataluña,male,median,23196.66
+2008,Cataluña,male,median,22477.59
+2017,Cataluña,male,upper_quartile,35500.0
+2016,Cataluña,male,upper_quartile,34772.08
+2015,Cataluña,male,upper_quartile,34866.72
+2014,Cataluña,male,upper_quartile,33817.99
+2013,Cataluña,male,upper_quartile,34989.82
+2012,Cataluña,male,upper_quartile,34612.4
+2011,Cataluña,male,upper_quartile,34839.68
+2010,Cataluña,male,upper_quartile,34215.18
+2009,Cataluña,male,upper_quartile,32997.5
+2008,Cataluña,male,upper_quartile,32385.25
+2017,Cataluña,male,90th_percentile,48108.8
+2016,Cataluña,male,90th_percentile,47017.34
+2015,Cataluña,male,90th_percentile,46653.12
+2014,Cataluña,male,90th_percentile,47782.56
+2013,Cataluña,male,90th_percentile,49384.57
+2012,Cataluña,male,90th_percentile,48599.16
+2011,Cataluña,male,90th_percentile,47976.96
+2010,Cataluña,male,90th_percentile,47838.28
+2009,Cataluña,male,90th_percentile,45902.67
+2008,Cataluña,male,90th_percentile,45276.71
+2017,Comunitat Valenciana,both,mean,21362.39
+2016,Comunitat Valenciana,both,mean,21168.81
+2015,Comunitat Valenciana,both,mean,20935.41
+2014,Comunitat Valenciana,both,mean,20639.58
+2013,Comunitat Valenciana,both,mean,20878.02
+2012,Comunitat Valenciana,both,mean,21223.72
+2011,Comunitat Valenciana,both,mean,21316.34
+2010,Comunitat Valenciana,both,mean,20707.24
+2009,Comunitat Valenciana,both,mean,20489.79
+2008,Comunitat Valenciana,both,mean,19793.62
+2017,Comunitat Valenciana,both,10th_percentile,7265.78
+2016,Comunitat Valenciana,both,10th_percentile,7043.28
+2015,Comunitat Valenciana,both,10th_percentile,6897.32
+2014,Comunitat Valenciana,both,10th_percentile,6636.24
+2013,Comunitat Valenciana,both,10th_percentile,7283.51
+2012,Comunitat Valenciana,both,10th_percentile,7487.14
+2011,Comunitat Valenciana,both,10th_percentile,7747.32
+2010,Comunitat Valenciana,both,10th_percentile,7718.91
+2009,Comunitat Valenciana,both,10th_percentile,7612.14
+2008,Comunitat Valenciana,both,10th_percentile,8317.02
+2017,Comunitat Valenciana,both,lower_quartile,12865.12
+2016,Comunitat Valenciana,both,lower_quartile,12808.8
+2015,Comunitat Valenciana,both,lower_quartile,12428.28
+2014,Comunitat Valenciana,both,lower_quartile,12244.8
+2013,Comunitat Valenciana,both,lower_quartile,12362.83
+2012,Comunitat Valenciana,both,lower_quartile,12887.28
+2011,Comunitat Valenciana,both,lower_quartile,12977.23
+2010,Comunitat Valenciana,both,lower_quartile,12962.67
+2009,Comunitat Valenciana,both,lower_quartile,12850.38
+2008,Comunitat Valenciana,both,lower_quartile,12797.3
+2017,Comunitat Valenciana,both,median,18310.86
+2016,Comunitat Valenciana,both,median,18008.49
+2015,Comunitat Valenciana,both,median,18000.0
+2014,Comunitat Valenciana,both,median,17856.7
+2013,Comunitat Valenciana,both,median,17865.28
+2012,Comunitat Valenciana,both,median,18074.33
+2011,Comunitat Valenciana,both,median,18137.57
+2010,Comunitat Valenciana,both,median,17483.64
+2009,Comunitat Valenciana,both,median,17429.24
+2008,Comunitat Valenciana,both,median,16863.72
+2017,Comunitat Valenciana,both,upper_quartile,26410.0
+2016,Comunitat Valenciana,both,upper_quartile,26271.94
+2015,Comunitat Valenciana,both,upper_quartile,25743.45
+2014,Comunitat Valenciana,both,upper_quartile,25339.66
+2013,Comunitat Valenciana,both,upper_quartile,25586.28
+2012,Comunitat Valenciana,both,upper_quartile,25978.62
+2011,Comunitat Valenciana,both,upper_quartile,26090.15
+2010,Comunitat Valenciana,both,upper_quartile,25120.03
+2009,Comunitat Valenciana,both,upper_quartile,24961.52
+2008,Comunitat Valenciana,both,upper_quartile,23849.8
+2017,Comunitat Valenciana,both,90th_percentile,38196.06
+2016,Comunitat Valenciana,both,90th_percentile,38160.89
+2015,Comunitat Valenciana,both,90th_percentile,37632.8
+2014,Comunitat Valenciana,both,90th_percentile,36847.56
+2013,Comunitat Valenciana,both,90th_percentile,37246.07
+2012,Comunitat Valenciana,both,90th_percentile,37676.0
+2011,Comunitat Valenciana,both,90th_percentile,37964.03
+2010,Comunitat Valenciana,both,90th_percentile,36714.5
+2009,Comunitat Valenciana,both,90th_percentile,36322.24
+2008,Comunitat Valenciana,both,90th_percentile,34299.06
+2017,Comunitat Valenciana,female,mean,18523.81
+2016,Comunitat Valenciana,female,mean,18349.52
+2015,Comunitat Valenciana,female,mean,17811.38
+2014,Comunitat Valenciana,female,mean,17511.66
+2013,Comunitat Valenciana,female,mean,17918.36
+2012,Comunitat Valenciana,female,mean,17870.88
+2011,Comunitat Valenciana,female,mean,18052.49
+2010,Comunitat Valenciana,female,mean,17776.59
+2009,Comunitat Valenciana,female,mean,17426.72
+2008,Comunitat Valenciana,female,mean,16929.69
+2017,Comunitat Valenciana,female,10th_percentile,5705.92
+2016,Comunitat Valenciana,female,10th_percentile,5923.25
+2015,Comunitat Valenciana,female,10th_percentile,5292.66
+2014,Comunitat Valenciana,female,10th_percentile,5563.1
+2013,Comunitat Valenciana,female,10th_percentile,6006.52
+2012,Comunitat Valenciana,female,10th_percentile,6297.4
+2011,Comunitat Valenciana,female,10th_percentile,6563.93
+2010,Comunitat Valenciana,female,10th_percentile,6276.39
+2009,Comunitat Valenciana,female,10th_percentile,6373.36
+2008,Comunitat Valenciana,female,10th_percentile,6502.44
+2017,Comunitat Valenciana,female,lower_quartile,10345.03
+2016,Comunitat Valenciana,female,lower_quartile,10111.64
+2015,Comunitat Valenciana,female,lower_quartile,9547.21
+2014,Comunitat Valenciana,female,lower_quartile,9658.32
+2013,Comunitat Valenciana,female,lower_quartile,9823.37
+2012,Comunitat Valenciana,female,lower_quartile,10249.98
+2011,Comunitat Valenciana,female,lower_quartile,10367.36
+2010,Comunitat Valenciana,female,lower_quartile,10660.83
+2009,Comunitat Valenciana,female,lower_quartile,10229.54
+2008,Comunitat Valenciana,female,lower_quartile,10458.44
+2017,Comunitat Valenciana,female,median,15653.28
+2016,Comunitat Valenciana,female,median,15418.32
+2015,Comunitat Valenciana,female,median,15283.9
+2014,Comunitat Valenciana,female,median,15322.63
+2013,Comunitat Valenciana,female,median,15340.3
+2012,Comunitat Valenciana,female,median,15602.67
+2011,Comunitat Valenciana,female,median,15853.69
+2010,Comunitat Valenciana,female,median,15293.73
+2009,Comunitat Valenciana,female,median,15001.98
+2008,Comunitat Valenciana,female,median,14699.57
+2017,Comunitat Valenciana,female,upper_quartile,23512.5
+2016,Comunitat Valenciana,female,upper_quartile,23126.03
+2015,Comunitat Valenciana,female,upper_quartile,22570.16
+2014,Comunitat Valenciana,female,upper_quartile,22116.24
+2013,Comunitat Valenciana,female,upper_quartile,22892.3
+2012,Comunitat Valenciana,female,upper_quartile,22471.48
+2011,Comunitat Valenciana,female,upper_quartile,22872.88
+2010,Comunitat Valenciana,female,upper_quartile,22202.72
+2009,Comunitat Valenciana,female,upper_quartile,21691.3
+2008,Comunitat Valenciana,female,upper_quartile,20693.12
+2017,Comunitat Valenciana,female,90th_percentile,34497.55
+2016,Comunitat Valenciana,female,90th_percentile,34515.81
+2015,Comunitat Valenciana,female,90th_percentile,33509.39
+2014,Comunitat Valenciana,female,90th_percentile,31932.96
+2013,Comunitat Valenciana,female,90th_percentile,32835.06
+2012,Comunitat Valenciana,female,90th_percentile,32198.64
+2011,Comunitat Valenciana,female,90th_percentile,31533.02
+2010,Comunitat Valenciana,female,90th_percentile,31602.42
+2009,Comunitat Valenciana,female,90th_percentile,31982.96
+2008,Comunitat Valenciana,female,90th_percentile,29038.13
+2017,Comunitat Valenciana,male,mean,23867.74
+2016,Comunitat Valenciana,male,mean,23672.18
+2015,Comunitat Valenciana,male,mean,23919.14
+2014,Comunitat Valenciana,male,mean,23479.71
+2013,Comunitat Valenciana,male,mean,23651.4
+2012,Comunitat Valenciana,male,mean,24289.23
+2011,Comunitat Valenciana,male,mean,24171.87
+2010,Comunitat Valenciana,male,mean,23331.71
+2009,Comunitat Valenciana,male,mean,22951.64
+2008,Comunitat Valenciana,male,mean,22039.14
+2017,Comunitat Valenciana,male,10th_percentile,9413.59
+2016,Comunitat Valenciana,male,10th_percentile,9963.67
+2015,Comunitat Valenciana,male,10th_percentile,10858.06
+2014,Comunitat Valenciana,male,10th_percentile,8836.23
+2013,Comunitat Valenciana,male,10th_percentile,9991.38
+2012,Comunitat Valenciana,male,10th_percentile,10786.02
+2011,Comunitat Valenciana,male,10th_percentile,10748.56
+2010,Comunitat Valenciana,male,10th_percentile,10926.03
+2009,Comunitat Valenciana,male,10th_percentile,11080.21
+2008,Comunitat Valenciana,male,10th_percentile,11708.08
+2017,Comunitat Valenciana,male,lower_quartile,15478.53
+2016,Comunitat Valenciana,male,lower_quartile,15376.32
+2015,Comunitat Valenciana,male,lower_quartile,15648.39
+2014,Comunitat Valenciana,male,lower_quartile,15090.93
+2013,Comunitat Valenciana,male,lower_quartile,15280.2
+2012,Comunitat Valenciana,male,lower_quartile,15429.09
+2011,Comunitat Valenciana,male,lower_quartile,15532.59
+2010,Comunitat Valenciana,male,lower_quartile,14890.79
+2009,Comunitat Valenciana,male,lower_quartile,15146.7
+2008,Comunitat Valenciana,male,lower_quartile,14621.75
+2017,Comunitat Valenciana,male,median,20063.8
+2016,Comunitat Valenciana,male,median,19626.45
+2015,Comunitat Valenciana,male,median,19980.62
+2014,Comunitat Valenciana,male,median,20074.56
+2013,Comunitat Valenciana,male,median,19661.29
+2012,Comunitat Valenciana,male,median,20211.14
+2011,Comunitat Valenciana,male,median,20044.29
+2010,Comunitat Valenciana,male,median,19562.83
+2009,Comunitat Valenciana,male,median,19025.75
+2008,Comunitat Valenciana,male,median,18500.25
+2017,Comunitat Valenciana,male,upper_quartile,28721.68
+2016,Comunitat Valenciana,male,upper_quartile,28509.58
+2015,Comunitat Valenciana,male,upper_quartile,28738.91
+2014,Comunitat Valenciana,male,upper_quartile,28206.74
+2013,Comunitat Valenciana,male,upper_quartile,28551.03
+2012,Comunitat Valenciana,male,upper_quartile,29325.02
+2011,Comunitat Valenciana,male,upper_quartile,29000.58
+2010,Comunitat Valenciana,male,upper_quartile,27990.08
+2009,Comunitat Valenciana,male,upper_quartile,27810.02
+2008,Comunitat Valenciana,male,upper_quartile,26073.14
+2017,Comunitat Valenciana,male,90th_percentile,42149.2
+2016,Comunitat Valenciana,male,90th_percentile,41620.24
+2015,Comunitat Valenciana,male,90th_percentile,41760.48
+2014,Comunitat Valenciana,male,90th_percentile,40270.53
+2013,Comunitat Valenciana,male,90th_percentile,40680.38
+2012,Comunitat Valenciana,male,90th_percentile,42012.27
+2011,Comunitat Valenciana,male,90th_percentile,42215.4
+2010,Comunitat Valenciana,male,90th_percentile,40177.59
+2009,Comunitat Valenciana,male,90th_percentile,39853.44
+2008,Comunitat Valenciana,male,90th_percentile,37516.33
+2017,Extremadura,both,mean,19672.4
+2016,Extremadura,both,mean,19475.2
+2015,Extremadura,both,mean,19564.49
+2014,Extremadura,both,mean,19180.57
+2013,Extremadura,both,mean,19129.72
+2012,Extremadura,both,mean,19721.35
+2011,Extremadura,both,mean,19879.46
+2010,Extremadura,both,mean,19480.55
+2009,Extremadura,both,mean,19099.56
+2008,Extremadura,both,mean,18264.9
+2017,Extremadura,both,10th_percentile,6224.16
+2016,Extremadura,both,10th_percentile,6024.68
+2015,Extremadura,both,10th_percentile,6069.2
+2014,Extremadura,both,10th_percentile,6358.7
+2013,Extremadura,both,10th_percentile,5700.69
+2012,Extremadura,both,10th_percentile,7313.14
+2011,Extremadura,both,10th_percentile,7654.8
+2010,Extremadura,both,10th_percentile,7611.02
+2009,Extremadura,both,10th_percentile,7871.95
+2008,Extremadura,both,10th_percentile,8596.36
+2017,Extremadura,both,lower_quartile,12219.53
+2016,Extremadura,both,lower_quartile,11299.56
+2015,Extremadura,both,lower_quartile,11730.48
+2014,Extremadura,both,lower_quartile,11354.96
+2013,Extremadura,both,lower_quartile,11637.2
+2012,Extremadura,both,lower_quartile,12558.69
+2011,Extremadura,both,lower_quartile,13060.18
+2010,Extremadura,both,lower_quartile,12770.8
+2009,Extremadura,both,lower_quartile,12624.0
+2008,Extremadura,both,lower_quartile,12322.15
+2017,Extremadura,both,median,17166.32
+2016,Extremadura,both,median,16700.25
+2015,Extremadura,both,median,16836.63
+2014,Extremadura,both,median,16345.61
+2013,Extremadura,both,median,16635.96
+2012,Extremadura,both,median,16644.58
+2011,Extremadura,both,median,16805.45
+2010,Extremadura,both,median,16122.46
+2009,Extremadura,both,median,16300.34
+2008,Extremadura,both,median,15528.87
+2017,Extremadura,both,upper_quartile,24826.55
+2016,Extremadura,both,upper_quartile,24579.35
+2015,Extremadura,both,upper_quartile,24301.93
+2014,Extremadura,both,upper_quartile,23701.24
+2013,Extremadura,both,upper_quartile,23534.8
+2012,Extremadura,both,upper_quartile,23098.99
+2011,Extremadura,both,upper_quartile,24173.11
+2010,Extremadura,both,upper_quartile,23058.78
+2009,Extremadura,both,upper_quartile,22847.07
+2008,Extremadura,both,upper_quartile,21378.24
+2017,Extremadura,both,90th_percentile,34196.27
+2016,Extremadura,both,90th_percentile,34316.43
+2015,Extremadura,both,90th_percentile,33754.33
+2014,Extremadura,both,90th_percentile,34323.77
+2013,Extremadura,both,90th_percentile,33290.98
+2012,Extremadura,both,90th_percentile,34249.07
+2011,Extremadura,both,90th_percentile,34792.25
+2010,Extremadura,both,90th_percentile,34433.4
+2009,Extremadura,both,90th_percentile,33263.07
+2008,Extremadura,both,90th_percentile,31302.08
+2017,Extremadura,female,mean,17722.29
+2016,Extremadura,female,mean,17360.28
+2015,Extremadura,female,mean,17304.65
+2014,Extremadura,female,mean,17413.85
+2013,Extremadura,female,mean,16304.55
+2012,Extremadura,female,mean,17401.9
+2011,Extremadura,female,mean,18060.8
+2010,Extremadura,female,mean,17876.85
+2009,Extremadura,female,mean,17549.86
+2008,Extremadura,female,mean,16623.4
+2017,Extremadura,female,10th_percentile,4723.67
+2016,Extremadura,female,10th_percentile,4900.81
+2015,Extremadura,female,10th_percentile,4882.11
+2014,Extremadura,female,10th_percentile,5041.32
+2013,Extremadura,female,10th_percentile,4217.83
+2012,Extremadura,female,10th_percentile,6224.51
+2011,Extremadura,female,10th_percentile,5494.52
+2010,Extremadura,female,10th_percentile,5396.52
+2009,Extremadura,female,10th_percentile,6158.11
+2008,Extremadura,female,10th_percentile,6480.19
+2017,Extremadura,female,lower_quartile,9009.7
+2016,Extremadura,female,lower_quartile,8466.45
+2015,Extremadura,female,lower_quartile,8837.33
+2014,Extremadura,female,lower_quartile,8972.46
+2013,Extremadura,female,lower_quartile,7854.55
+2012,Extremadura,female,lower_quartile,9744.46
+2011,Extremadura,female,lower_quartile,10267.74
+2010,Extremadura,female,lower_quartile,9962.15
+2009,Extremadura,female,lower_quartile,10057.2
+2008,Extremadura,female,lower_quartile,10184.48
+2017,Extremadura,female,median,14998.8
+2016,Extremadura,female,median,14711.69
+2015,Extremadura,female,median,14602.48
+2014,Extremadura,female,median,14727.85
+2013,Extremadura,female,median,14377.08
+2012,Extremadura,female,median,14758.54
+2011,Extremadura,female,median,15212.82
+2010,Extremadura,female,median,14334.72
+2009,Extremadura,female,median,15103.1
+2008,Extremadura,female,median,14217.78
+2017,Extremadura,female,upper_quartile,24098.53
+2016,Extremadura,female,upper_quartile,23624.78
+2015,Extremadura,female,upper_quartile,22608.27
+2014,Extremadura,female,upper_quartile,22755.85
+2013,Extremadura,female,upper_quartile,21284.56
+2012,Extremadura,female,upper_quartile,21082.02
+2011,Extremadura,female,upper_quartile,22921.81
+2010,Extremadura,female,upper_quartile,23111.87
+2009,Extremadura,female,upper_quartile,22824.18
+2008,Extremadura,female,upper_quartile,20850.98
+2017,Extremadura,female,90th_percentile,33742.56
+2016,Extremadura,female,90th_percentile,33083.93
+2015,Extremadura,female,90th_percentile,32064.12
+2014,Extremadura,female,90th_percentile,32704.93
+2013,Extremadura,female,90th_percentile,28838.84
+2012,Extremadura,female,90th_percentile,31600.66
+2011,Extremadura,female,90th_percentile,32614.22
+2010,Extremadura,female,90th_percentile,33626.99
+2009,Extremadura,female,90th_percentile,31293.27
+2008,Extremadura,female,90th_percentile,29234.87
+2017,Extremadura,male,mean,21585.18
+2016,Extremadura,male,mean,21554.75
+2015,Extremadura,male,mean,21813.81
+2014,Extremadura,male,mean,20829.72
+2013,Extremadura,male,mean,21780.9
+2012,Extremadura,male,mean,21585.3
+2011,Extremadura,male,mean,21318.32
+2010,Extremadura,male,mean,20787.03
+2009,Extremadura,male,mean,20207.93
+2008,Extremadura,male,mean,19390.41
+2017,Extremadura,male,10th_percentile,10710.26
+2016,Extremadura,male,10th_percentile,9154.36
+2015,Extremadura,male,10th_percentile,9350.51
+2014,Extremadura,male,10th_percentile,8516.52
+2013,Extremadura,male,10th_percentile,9723.06
+2012,Extremadura,male,10th_percentile,10651.68
+2011,Extremadura,male,10th_percentile,11377.14
+2010,Extremadura,male,10th_percentile,11257.85
+2009,Extremadura,male,10th_percentile,10875.86
+2008,Extremadura,male,10th_percentile,10863.1
+2017,Extremadura,male,lower_quartile,14642.76
+2016,Extremadura,male,lower_quartile,14238.14
+2015,Extremadura,male,lower_quartile,14142.1
+2014,Extremadura,male,lower_quartile,13476.09
+2013,Extremadura,male,lower_quartile,14036.41
+2012,Extremadura,male,lower_quartile,14352.12
+2011,Extremadura,male,lower_quartile,14052.18
+2010,Extremadura,male,lower_quartile,13922.04
+2009,Extremadura,male,lower_quartile,13741.96
+2008,Extremadura,male,lower_quartile,13506.72
+2017,Extremadura,male,median,18366.85
+2016,Extremadura,male,median,17972.0
+2015,Extremadura,male,median,18150.31
+2014,Extremadura,male,median,17337.46
+2013,Extremadura,male,median,17656.86
+2012,Extremadura,male,median,17477.31
+2011,Extremadura,male,median,17606.86
+2010,Extremadura,male,median,16856.46
+2009,Extremadura,male,median,16710.36
+2008,Extremadura,male,median,16043.7
+2017,Extremadura,male,upper_quartile,25750.6
+2016,Extremadura,male,upper_quartile,25697.56
+2015,Extremadura,male,upper_quartile,25795.44
+2014,Extremadura,male,upper_quartile,24431.35
+2013,Extremadura,male,upper_quartile,26133.32
+2012,Extremadura,male,upper_quartile,24790.12
+2011,Extremadura,male,upper_quartile,25162.3
+2010,Extremadura,male,upper_quartile,22923.6
+2009,Extremadura,male,upper_quartile,22967.51
+2008,Extremadura,male,upper_quartile,21664.25
+2017,Extremadura,male,90th_percentile,34694.64
+2016,Extremadura,male,90th_percentile,35470.32
+2015,Extremadura,male,90th_percentile,36131.57
+2014,Extremadura,male,90th_percentile,35999.82
+2013,Extremadura,male,90th_percentile,37415.0
+2012,Extremadura,male,90th_percentile,37974.39
+2011,Extremadura,male,90th_percentile,35531.1
+2010,Extremadura,male,90th_percentile,35497.76
+2009,Extremadura,male,90th_percentile,34406.04
+2008,Extremadura,male,90th_percentile,32517.56
+2017,Galicia,both,mean,21605.88
+2016,Galicia,both,mean,21082.12
+2015,Galicia,both,mean,20624.55
+2014,Galicia,both,mean,20195.89
+2013,Galicia,both,mean,19824.66
+2012,Galicia,both,mean,19389.2
+2011,Galicia,both,mean,19970.29
+2010,Galicia,both,mean,20241.99
+2009,Galicia,both,mean,19806.66
+2008,Galicia,both,mean,19156.41
+2017,Galicia,both,10th_percentile,8588.31
+2016,Galicia,both,10th_percentile,8161.71
+2015,Galicia,both,10th_percentile,8028.43
+2014,Galicia,both,10th_percentile,7736.9
+2013,Galicia,both,10th_percentile,7763.16
+2012,Galicia,both,10th_percentile,7815.32
+2011,Galicia,both,10th_percentile,8287.56
+2010,Galicia,both,10th_percentile,8828.16
+2009,Galicia,both,10th_percentile,8742.56
+2008,Galicia,both,10th_percentile,8400.0
+2017,Galicia,both,lower_quartile,13571.11
+2016,Galicia,both,lower_quartile,13136.33
+2015,Galicia,both,lower_quartile,13199.46
+2014,Galicia,both,lower_quartile,12629.69
+2013,Galicia,both,lower_quartile,12815.14
+2012,Galicia,both,lower_quartile,12718.73
+2011,Galicia,both,lower_quartile,12962.34
+2010,Galicia,both,lower_quartile,13025.44
+2009,Galicia,both,lower_quartile,12730.61
+2008,Galicia,both,lower_quartile,12293.82
+2017,Galicia,both,median,18529.26
+2016,Galicia,both,median,18146.24
+2015,Galicia,both,median,17599.99
+2014,Galicia,both,median,17379.48
+2013,Galicia,both,median,17187.12
+2012,Galicia,both,median,16632.45
+2011,Galicia,both,median,16873.88
+2010,Galicia,both,median,17216.32
+2009,Galicia,both,median,16569.15
+2008,Galicia,both,median,16150.71
+2017,Galicia,both,upper_quartile,26408.89
+2016,Galicia,both,upper_quartile,25610.76
+2015,Galicia,both,upper_quartile,25004.71
+2014,Galicia,both,upper_quartile,24364.24
+2013,Galicia,both,upper_quartile,23692.12
+2012,Galicia,both,upper_quartile,22687.5
+2011,Galicia,both,upper_quartile,23677.36
+2010,Galicia,both,upper_quartile,24002.79
+2009,Galicia,both,upper_quartile,23633.22
+2008,Galicia,both,upper_quartile,23001.97
+2017,Galicia,both,90th_percentile,37886.92
+2016,Galicia,both,90th_percentile,36900.42
+2015,Galicia,both,90th_percentile,36302.05
+2014,Galicia,both,90th_percentile,35829.68
+2013,Galicia,both,90th_percentile,34654.73
+2012,Galicia,both,90th_percentile,33584.64
+2011,Galicia,both,90th_percentile,35362.51
+2010,Galicia,both,90th_percentile,34931.71
+2009,Galicia,both,90th_percentile,35429.35
+2008,Galicia,both,90th_percentile,33906.64
+2017,Galicia,female,mean,18833.53
+2016,Galicia,female,mean,18294.47
+2015,Galicia,female,mean,18093.26
+2014,Galicia,female,mean,17797.03
+2013,Galicia,female,mean,17258.21
+2012,Galicia,female,mean,16727.15
+2011,Galicia,female,mean,17291.96
+2010,Galicia,female,mean,17691.11
+2009,Galicia,female,mean,17342.32
+2008,Galicia,female,mean,16646.42
+2017,Galicia,female,10th_percentile,6405.42
+2016,Galicia,female,10th_percentile,6436.32
+2015,Galicia,female,10th_percentile,6243.19
+2014,Galicia,female,10th_percentile,6312.85
+2013,Galicia,female,10th_percentile,6146.13
+2012,Galicia,female,10th_percentile,6383.01
+2011,Galicia,female,10th_percentile,6598.23
+2010,Galicia,female,10th_percentile,6990.04
+2009,Galicia,female,10th_percentile,6724.95
+2008,Galicia,female,10th_percentile,6476.36
+2017,Galicia,female,lower_quartile,11191.79
+2016,Galicia,female,lower_quartile,10970.63
+2015,Galicia,female,lower_quartile,10985.34
+2014,Galicia,female,lower_quartile,10547.4
+2013,Galicia,female,lower_quartile,10712.48
+2012,Galicia,female,lower_quartile,10731.64
+2011,Galicia,female,lower_quartile,10372.49
+2010,Galicia,female,lower_quartile,10755.09
+2009,Galicia,female,lower_quartile,10593.37
+2008,Galicia,female,lower_quartile,10201.5
+2017,Galicia,female,median,15970.06
+2016,Galicia,female,median,15542.62
+2015,Galicia,female,median,15430.38
+2014,Galicia,female,median,15130.99
+2013,Galicia,female,median,15005.56
+2012,Galicia,female,median,14629.68
+2011,Galicia,female,median,14826.52
+2010,Galicia,female,median,14992.42
+2009,Galicia,female,median,14605.25
+2008,Galicia,female,median,13859.44
+2017,Galicia,female,upper_quartile,23173.85
+2016,Galicia,female,upper_quartile,22561.92
+2015,Galicia,female,upper_quartile,22072.65
+2014,Galicia,female,upper_quartile,22151.79
+2013,Galicia,female,upper_quartile,21077.55
+2012,Galicia,female,upper_quartile,20103.78
+2011,Galicia,female,upper_quartile,21313.71
+2010,Galicia,female,upper_quartile,21709.52
+2009,Galicia,female,upper_quartile,21676.96
+2008,Galicia,female,upper_quartile,20256.48
+2017,Galicia,female,90th_percentile,33958.8
+2016,Galicia,female,90th_percentile,32918.8
+2015,Galicia,female,90th_percentile,32281.98
+2014,Galicia,female,90th_percentile,32264.92
+2013,Galicia,female,90th_percentile,30224.91
+2012,Galicia,female,90th_percentile,28952.09
+2011,Galicia,female,90th_percentile,30532.17
+2010,Galicia,female,90th_percentile,31698.56
+2009,Galicia,female,90th_percentile,32739.77
+2008,Galicia,female,90th_percentile,30915.5
+2017,Galicia,male,mean,24321.64
+2016,Galicia,male,mean,23774.21
+2015,Galicia,male,mean,23189.76
+2014,Galicia,male,mean,22505.05
+2013,Galicia,male,mean,22522.55
+2012,Galicia,male,mean,22059.69
+2011,Galicia,male,mean,22381.85
+2010,Galicia,male,mean,22626.21
+2009,Galicia,male,mean,21829.8
+2008,Galicia,male,mean,21105.6
+2017,Galicia,male,10th_percentile,12287.88
+2016,Galicia,male,10th_percentile,11817.54
+2015,Galicia,male,10th_percentile,12014.48
+2014,Galicia,male,10th_percentile,10505.75
+2013,Galicia,male,10th_percentile,11581.7
+2012,Galicia,male,10th_percentile,11128.53
+2011,Galicia,male,10th_percentile,11897.35
+2010,Galicia,male,10th_percentile,12100.63
+2009,Galicia,male,10th_percentile,11778.96
+2008,Galicia,male,10th_percentile,11384.98
+2017,Galicia,male,lower_quartile,16269.0
+2016,Galicia,male,lower_quartile,15918.42
+2015,Galicia,male,lower_quartile,15812.2
+2014,Galicia,male,lower_quartile,15213.71
+2013,Galicia,male,lower_quartile,15370.94
+2012,Galicia,male,lower_quartile,14907.87
+2011,Galicia,male,lower_quartile,14979.71
+2010,Galicia,male,lower_quartile,15403.59
+2009,Galicia,male,lower_quartile,14575.86
+2008,Galicia,male,lower_quartile,14386.25
+2017,Galicia,male,median,20715.71
+2016,Galicia,male,median,20204.71
+2015,Galicia,male,median,19646.2
+2014,Galicia,male,median,19060.07
+2013,Galicia,male,median,19081.44
+2012,Galicia,male,median,18257.96
+2011,Galicia,male,median,18251.71
+2010,Galicia,male,median,18574.49
+2009,Galicia,male,median,17724.17
+2008,Galicia,male,median,17253.93
+2017,Galicia,male,upper_quartile,29016.67
+2016,Galicia,male,upper_quartile,27904.96
+2015,Galicia,male,upper_quartile,27688.75
+2014,Galicia,male,upper_quartile,26779.27
+2013,Galicia,male,upper_quartile,26332.74
+2012,Galicia,male,upper_quartile,25573.85
+2011,Galicia,male,upper_quartile,25901.53
+2010,Galicia,male,upper_quartile,25925.22
+2009,Galicia,male,upper_quartile,25696.95
+2008,Galicia,male,upper_quartile,24501.56
+2017,Galicia,male,90th_percentile,41285.28
+2016,Galicia,male,90th_percentile,40214.8
+2015,Galicia,male,90th_percentile,39581.63
+2014,Galicia,male,90th_percentile,38893.89
+2013,Galicia,male,90th_percentile,37852.8
+2012,Galicia,male,90th_percentile,37990.38
+2011,Galicia,male,90th_percentile,38583.63
+2010,Galicia,male,90th_percentile,38530.71
+2009,Galicia,male,90th_percentile,38045.54
+2008,Galicia,male,90th_percentile,36293.34
+2017,"Madrid, Comunidad de",both,mean,27089.12
+2016,"Madrid, Comunidad de",both,mean,26330.14
+2015,"Madrid, Comunidad de",both,mean,26448.04
+2014,"Madrid, Comunidad de",both,mean,26570.35
+2013,"Madrid, Comunidad de",both,mean,26215.36
+2012,"Madrid, Comunidad de",both,mean,26044.39
+2011,"Madrid, Comunidad de",both,mean,25845.2
+2010,"Madrid, Comunidad de",both,mean,25988.95
+2009,"Madrid, Comunidad de",both,mean,25860.65
+2008,"Madrid, Comunidad de",both,mean,25269.61
+2017,"Madrid, Comunidad de",both,10th_percentile,9920.36
+2016,"Madrid, Comunidad de",both,10th_percentile,9619.78
+2015,"Madrid, Comunidad de",both,10th_percentile,9165.01
+2014,"Madrid, Comunidad de",both,10th_percentile,8862.52
+2013,"Madrid, Comunidad de",both,10th_percentile,8884.58
+2012,"Madrid, Comunidad de",both,10th_percentile,9154.8
+2011,"Madrid, Comunidad de",both,10th_percentile,9307.05
+2010,"Madrid, Comunidad de",both,10th_percentile,10101.07
+2009,"Madrid, Comunidad de",both,10th_percentile,9773.58
+2008,"Madrid, Comunidad de",both,10th_percentile,9715.01
+2017,"Madrid, Comunidad de",both,lower_quartile,14697.3
+2016,"Madrid, Comunidad de",both,lower_quartile,14263.26
+2015,"Madrid, Comunidad de",both,lower_quartile,14359.3
+2014,"Madrid, Comunidad de",both,lower_quartile,14275.72
+2013,"Madrid, Comunidad de",both,lower_quartile,14117.55
+2012,"Madrid, Comunidad de",both,lower_quartile,14323.48
+2011,"Madrid, Comunidad de",both,lower_quartile,14192.74
+2010,"Madrid, Comunidad de",both,lower_quartile,14604.68
+2009,"Madrid, Comunidad de",both,lower_quartile,14205.96
+2008,"Madrid, Comunidad de",both,lower_quartile,13915.75
+2017,"Madrid, Comunidad de",both,median,21608.08
+2016,"Madrid, Comunidad de",both,median,21165.0
+2015,"Madrid, Comunidad de",both,median,21307.78
+2014,"Madrid, Comunidad de",both,median,21579.38
+2013,"Madrid, Comunidad de",both,median,21273.89
+2012,"Madrid, Comunidad de",both,median,21418.48
+2011,"Madrid, Comunidad de",both,median,21045.69
+2010,"Madrid, Comunidad de",both,median,21319.25
+2009,"Madrid, Comunidad de",both,median,20712.42
+2008,"Madrid, Comunidad de",both,median,20269.59
+2017,"Madrid, Comunidad de",both,upper_quartile,34094.32
+2016,"Madrid, Comunidad de",both,upper_quartile,33321.02
+2015,"Madrid, Comunidad de",both,upper_quartile,33382.74
+2014,"Madrid, Comunidad de",both,upper_quartile,33791.93
+2013,"Madrid, Comunidad de",both,upper_quartile,33557.52
+2012,"Madrid, Comunidad de",both,upper_quartile,33429.03
+2011,"Madrid, Comunidad de",both,upper_quartile,33026.05
+2010,"Madrid, Comunidad de",both,upper_quartile,32678.77
+2009,"Madrid, Comunidad de",both,upper_quartile,33000.0
+2008,"Madrid, Comunidad de",both,upper_quartile,32008.66
+2017,"Madrid, Comunidad de",both,90th_percentile,50280.72
+2016,"Madrid, Comunidad de",both,90th_percentile,49427.2
+2015,"Madrid, Comunidad de",both,90th_percentile,49079.02
+2014,"Madrid, Comunidad de",both,90th_percentile,49985.99
+2013,"Madrid, Comunidad de",both,90th_percentile,49370.05
+2012,"Madrid, Comunidad de",both,90th_percentile,48734.74
+2011,"Madrid, Comunidad de",both,90th_percentile,48212.49
+2010,"Madrid, Comunidad de",both,90th_percentile,47391.3
+2009,"Madrid, Comunidad de",both,90th_percentile,48338.55
+2008,"Madrid, Comunidad de",both,90th_percentile,46748.62
+2017,"Madrid, Comunidad de",female,mean,24029.31
+2016,"Madrid, Comunidad de",female,mean,23371.33
+2015,"Madrid, Comunidad de",female,mean,23470.06
+2014,"Madrid, Comunidad de",female,mean,23326.94
+2013,"Madrid, Comunidad de",female,mean,22959.28
+2012,"Madrid, Comunidad de",female,mean,22841.15
+2011,"Madrid, Comunidad de",female,mean,22585.38
+2010,"Madrid, Comunidad de",female,mean,22721.17
+2009,"Madrid, Comunidad de",female,mean,22048.25
+2008,"Madrid, Comunidad de",female,mean,21787.75
+2017,"Madrid, Comunidad de",female,10th_percentile,8311.22
+2016,"Madrid, Comunidad de",female,10th_percentile,8236.82
+2015,"Madrid, Comunidad de",female,10th_percentile,7992.33
+2014,"Madrid, Comunidad de",female,10th_percentile,7413.0
+2013,"Madrid, Comunidad de",female,10th_percentile,7665.0
+2012,"Madrid, Comunidad de",female,10th_percentile,7799.28
+2011,"Madrid, Comunidad de",female,10th_percentile,8100.7
+2010,"Madrid, Comunidad de",female,10th_percentile,8570.31
+2009,"Madrid, Comunidad de",female,10th_percentile,7899.97
+2008,"Madrid, Comunidad de",female,10th_percentile,8478.81
+2017,"Madrid, Comunidad de",female,lower_quartile,13048.7
+2016,"Madrid, Comunidad de",female,lower_quartile,12641.22
+2015,"Madrid, Comunidad de",female,lower_quartile,12694.31
+2014,"Madrid, Comunidad de",female,lower_quartile,12661.16
+2013,"Madrid, Comunidad de",female,lower_quartile,12380.43
+2012,"Madrid, Comunidad de",female,lower_quartile,12569.16
+2011,"Madrid, Comunidad de",female,lower_quartile,12542.34
+2010,"Madrid, Comunidad de",female,lower_quartile,13081.11
+2009,"Madrid, Comunidad de",female,lower_quartile,12448.45
+2008,"Madrid, Comunidad de",female,lower_quartile,12039.09
+2017,"Madrid, Comunidad de",female,median,19368.41
+2016,"Madrid, Comunidad de",female,median,18823.19
+2015,"Madrid, Comunidad de",female,median,19145.0
+2014,"Madrid, Comunidad de",female,median,19133.47
+2013,"Madrid, Comunidad de",female,median,18587.64
+2012,"Madrid, Comunidad de",female,median,18595.78
+2011,"Madrid, Comunidad de",female,median,18448.38
+2010,"Madrid, Comunidad de",female,median,18788.2
+2009,"Madrid, Comunidad de",female,median,17845.57
+2008,"Madrid, Comunidad de",female,median,17532.26
+2017,"Madrid, Comunidad de",female,upper_quartile,30691.77
+2016,"Madrid, Comunidad de",female,upper_quartile,30000.0
+2015,"Madrid, Comunidad de",female,upper_quartile,29977.47
+2014,"Madrid, Comunidad de",female,upper_quartile,30072.78
+2013,"Madrid, Comunidad de",female,upper_quartile,29358.58
+2012,"Madrid, Comunidad de",female,upper_quartile,29026.47
+2011,"Madrid, Comunidad de",female,upper_quartile,28736.66
+2010,"Madrid, Comunidad de",female,upper_quartile,28789.2
+2009,"Madrid, Comunidad de",female,upper_quartile,27994.3
+2008,"Madrid, Comunidad de",female,upper_quartile,27719.89
+2017,"Madrid, Comunidad de",female,90th_percentile,45093.89
+2016,"Madrid, Comunidad de",female,90th_percentile,44087.69
+2015,"Madrid, Comunidad de",female,90th_percentile,44333.1
+2014,"Madrid, Comunidad de",female,90th_percentile,44066.81
+2013,"Madrid, Comunidad de",female,90th_percentile,43720.54
+2012,"Madrid, Comunidad de",female,90th_percentile,43196.05
+2011,"Madrid, Comunidad de",female,90th_percentile,41987.23
+2010,"Madrid, Comunidad de",female,90th_percentile,41447.27
+2009,"Madrid, Comunidad de",female,90th_percentile,41205.74
+2008,"Madrid, Comunidad de",female,90th_percentile,40719.2
+2017,"Madrid, Comunidad de",male,mean,29910.43
+2016,"Madrid, Comunidad de",male,mean,29111.2
+2015,"Madrid, Comunidad de",male,mean,29314.09
+2014,"Madrid, Comunidad de",male,mean,29734.23
+2013,"Madrid, Comunidad de",male,mean,29224.3
+2012,"Madrid, Comunidad de",male,mean,29116.2
+2011,"Madrid, Comunidad de",male,mean,28896.67
+2010,"Madrid, Comunidad de",male,mean,29016.28
+2009,"Madrid, Comunidad de",male,mean,29333.06
+2008,"Madrid, Comunidad de",male,mean,28228.42
+2017,"Madrid, Comunidad de",male,10th_percentile,12026.24
+2016,"Madrid, Comunidad de",male,10th_percentile,11168.75
+2015,"Madrid, Comunidad de",male,10th_percentile,11122.08
+2014,"Madrid, Comunidad de",male,10th_percentile,10345.91
+2013,"Madrid, Comunidad de",male,10th_percentile,10415.22
+2012,"Madrid, Comunidad de",male,10th_percentile,10974.0
+2011,"Madrid, Comunidad de",male,10th_percentile,11037.96
+2010,"Madrid, Comunidad de",male,10th_percentile,12030.09
+2009,"Madrid, Comunidad de",male,10th_percentile,11839.56
+2008,"Madrid, Comunidad de",male,10th_percentile,11453.0
+2017,"Madrid, Comunidad de",male,lower_quartile,16477.3
+2016,"Madrid, Comunidad de",male,lower_quartile,15889.39
+2015,"Madrid, Comunidad de",male,lower_quartile,15999.84
+2014,"Madrid, Comunidad de",male,lower_quartile,16169.88
+2013,"Madrid, Comunidad de",male,lower_quartile,16003.54
+2012,"Madrid, Comunidad de",male,lower_quartile,16338.12
+2011,"Madrid, Comunidad de",male,lower_quartile,16284.24
+2010,"Madrid, Comunidad de",male,lower_quartile,16650.2
+2009,"Madrid, Comunidad de",male,lower_quartile,16422.0
+2008,"Madrid, Comunidad de",male,lower_quartile,15897.87
+2017,"Madrid, Comunidad de",male,median,23704.0
+2016,"Madrid, Comunidad de",male,median,23368.24
+2015,"Madrid, Comunidad de",male,median,23478.83
+2014,"Madrid, Comunidad de",male,median,24238.32
+2013,"Madrid, Comunidad de",male,median,24000.06
+2012,"Madrid, Comunidad de",male,median,24178.37
+2011,"Madrid, Comunidad de",male,median,23755.2
+2010,"Madrid, Comunidad de",male,median,23662.92
+2009,"Madrid, Comunidad de",male,median,23526.93
+2008,"Madrid, Comunidad de",male,median,22633.84
+2017,"Madrid, Comunidad de",male,upper_quartile,37524.86
+2016,"Madrid, Comunidad de",male,upper_quartile,37121.73
+2015,"Madrid, Comunidad de",male,upper_quartile,37020.02
+2014,"Madrid, Comunidad de",male,upper_quartile,37789.86
+2013,"Madrid, Comunidad de",male,upper_quartile,37329.51
+2012,"Madrid, Comunidad de",male,upper_quartile,37234.04
+2011,"Madrid, Comunidad de",male,upper_quartile,37146.25
+2010,"Madrid, Comunidad de",male,upper_quartile,36000.02
+2009,"Madrid, Comunidad de",male,upper_quartile,37212.94
+2008,"Madrid, Comunidad de",male,upper_quartile,35649.96
+2017,"Madrid, Comunidad de",male,90th_percentile,54674.86
+2016,"Madrid, Comunidad de",male,90th_percentile,54266.69
+2015,"Madrid, Comunidad de",male,90th_percentile,53873.09
+2014,"Madrid, Comunidad de",male,90th_percentile,54979.32
+2013,"Madrid, Comunidad de",male,90th_percentile,54635.59
+2012,"Madrid, Comunidad de",male,90th_percentile,53378.31
+2011,"Madrid, Comunidad de",male,90th_percentile,53382.21
+2010,"Madrid, Comunidad de",male,90th_percentile,52372.28
+2009,"Madrid, Comunidad de",male,90th_percentile,54461.91
+2008,"Madrid, Comunidad de",male,90th_percentile,52686.37
+2017,"Murcia, Región de",both,mean,21309.22
+2016,"Murcia, Región de",both,mean,21242.5
+2015,"Murcia, Región de",both,mean,20928.98
+2014,"Murcia, Región de",both,mean,20717.07
+2013,"Murcia, Región de",both,mean,20449.83
+2012,"Murcia, Región de",both,mean,20682.01
+2011,"Murcia, Región de",both,mean,21077.49
+2010,"Murcia, Región de",both,mean,20863.37
+2009,"Murcia, Región de",both,mean,20430.4
+2008,"Murcia, Región de",both,mean,18911.75
+2017,"Murcia, Región de",both,10th_percentile,7736.02
+2016,"Murcia, Región de",both,10th_percentile,7567.09
+2015,"Murcia, Región de",both,10th_percentile,7000.71
+2014,"Murcia, Región de",both,10th_percentile,6893.23
+2013,"Murcia, Región de",both,10th_percentile,6788.11
+2012,"Murcia, Región de",both,10th_percentile,6926.64
+2011,"Murcia, Región de",both,10th_percentile,7689.32
+2010,"Murcia, Región de",both,10th_percentile,7481.65
+2009,"Murcia, Región de",both,10th_percentile,7907.43
+2008,"Murcia, Región de",both,10th_percentile,7895.09
+2017,"Murcia, Región de",both,lower_quartile,12970.82
+2016,"Murcia, Región de",both,lower_quartile,12265.37
+2015,"Murcia, Región de",both,lower_quartile,12402.24
+2014,"Murcia, Región de",both,lower_quartile,12437.58
+2013,"Murcia, Región de",both,lower_quartile,11717.17
+2012,"Murcia, Región de",both,lower_quartile,12444.96
+2011,"Murcia, Región de",both,lower_quartile,12531.12
+2010,"Murcia, Región de",both,lower_quartile,12589.39
+2009,"Murcia, Región de",both,lower_quartile,12492.0
+2008,"Murcia, Región de",both,lower_quartile,12270.02
+2017,"Murcia, Región de",both,median,18004.27
+2016,"Murcia, Región de",both,median,17551.8
+2015,"Murcia, Región de",both,median,17669.43
+2014,"Murcia, Región de",both,median,17459.44
+2013,"Murcia, Región de",both,median,17401.72
+2012,"Murcia, Región de",both,median,17650.5
+2011,"Murcia, Región de",both,median,17783.88
+2010,"Murcia, Región de",both,median,17436.29
+2009,"Murcia, Región de",both,median,17243.78
+2008,"Murcia, Región de",both,median,16321.96
+2017,"Murcia, Región de",both,upper_quartile,25903.69
+2016,"Murcia, Región de",both,upper_quartile,25965.86
+2015,"Murcia, Región de",both,upper_quartile,25534.01
+2014,"Murcia, Región de",both,upper_quartile,26037.36
+2013,"Murcia, Región de",both,upper_quartile,24994.32
+2012,"Murcia, Región de",both,upper_quartile,25376.92
+2011,"Murcia, Región de",both,upper_quartile,25639.05
+2010,"Murcia, Región de",both,upper_quartile,24931.06
+2009,"Murcia, Región de",both,upper_quartile,25574.89
+2008,"Murcia, Región de",both,upper_quartile,22772.06
+2017,"Murcia, Región de",both,90th_percentile,37636.3
+2016,"Murcia, Región de",both,90th_percentile,38678.57
+2015,"Murcia, Región de",both,90th_percentile,37760.04
+2014,"Murcia, Región de",both,90th_percentile,37981.42
+2013,"Murcia, Región de",both,90th_percentile,37364.14
+2012,"Murcia, Región de",both,90th_percentile,37008.77
+2011,"Murcia, Región de",both,90th_percentile,37830.95
+2010,"Murcia, Región de",both,90th_percentile,37678.29
+2009,"Murcia, Región de",both,90th_percentile,37198.28
+2008,"Murcia, Región de",both,90th_percentile,32830.11
+2017,"Murcia, Región de",female,mean,18048.37
+2016,"Murcia, Región de",female,mean,18033.05
+2015,"Murcia, Región de",female,mean,17540.27
+2014,"Murcia, Región de",female,mean,17500.99
+2013,"Murcia, Región de",female,mean,16957.29
+2012,"Murcia, Región de",female,mean,17457.52
+2011,"Murcia, Región de",female,mean,18053.61
+2010,"Murcia, Región de",female,mean,17838.28
+2009,"Murcia, Región de",female,mean,17384.95
+2008,"Murcia, Región de",female,mean,16020.2
+2017,"Murcia, Región de",female,10th_percentile,6199.53
+2016,"Murcia, Región de",female,10th_percentile,5901.48
+2015,"Murcia, Región de",female,10th_percentile,5382.84
+2014,"Murcia, Región de",female,10th_percentile,5776.65
+2013,"Murcia, Región de",female,10th_percentile,5368.82
+2012,"Murcia, Región de",female,10th_percentile,5704.52
+2011,"Murcia, Región de",female,10th_percentile,5990.53
+2010,"Murcia, Región de",female,10th_percentile,5976.39
+2009,"Murcia, Región de",female,10th_percentile,6513.9
+2008,"Murcia, Región de",female,10th_percentile,6147.52
+2017,"Murcia, Región de",female,lower_quartile,10263.83
+2016,"Murcia, Región de",female,lower_quartile,9621.41
+2015,"Murcia, Región de",female,lower_quartile,9325.93
+2014,"Murcia, Región de",female,lower_quartile,9643.97
+2013,"Murcia, Región de",female,lower_quartile,9034.0
+2012,"Murcia, Región de",female,lower_quartile,9589.28
+2011,"Murcia, Región de",female,lower_quartile,10189.79
+2010,"Murcia, Región de",female,lower_quartile,10212.36
+2009,"Murcia, Región de",female,lower_quartile,9567.77
+2008,"Murcia, Región de",female,lower_quartile,9322.44
+2017,"Murcia, Región de",female,median,14803.44
+2016,"Murcia, Región de",female,median,14437.37
+2015,"Murcia, Región de",female,median,14294.84
+2014,"Murcia, Región de",female,median,14269.14
+2013,"Murcia, Región de",female,median,14055.89
+2012,"Murcia, Región de",female,median,14781.92
+2011,"Murcia, Región de",female,median,15296.02
+2010,"Murcia, Región de",female,median,14562.5
+2009,"Murcia, Región de",female,median,14140.0
+2008,"Murcia, Región de",female,median,13626.31
+2017,"Murcia, Región de",female,upper_quartile,22802.34
+2016,"Murcia, Región de",female,upper_quartile,23562.6
+2015,"Murcia, Región de",female,upper_quartile,22602.96
+2014,"Murcia, Región de",female,upper_quartile,22649.38
+2013,"Murcia, Región de",female,upper_quartile,21962.41
+2012,"Murcia, Región de",female,upper_quartile,22360.07
+2011,"Murcia, Región de",female,upper_quartile,22910.49
+2010,"Murcia, Región de",female,upper_quartile,21813.52
+2009,"Murcia, Región de",female,upper_quartile,22295.6
+2008,"Murcia, Región de",female,upper_quartile,20421.27
+2017,"Murcia, Región de",female,90th_percentile,33513.37
+2016,"Murcia, Región de",female,90th_percentile,34632.29
+2015,"Murcia, Región de",female,90th_percentile,34236.47
+2014,"Murcia, Región de",female,90th_percentile,33381.38
+2013,"Murcia, Región de",female,90th_percentile,31746.83
+2012,"Murcia, Región de",female,90th_percentile,31905.82
+2011,"Murcia, Región de",female,90th_percentile,32153.26
+2010,"Murcia, Región de",female,90th_percentile,32576.81
+2009,"Murcia, Región de",female,90th_percentile,33445.38
+2008,"Murcia, Región de",female,90th_percentile,29881.2
+2017,"Murcia, Región de",male,mean,24009.22
+2016,"Murcia, Región de",male,mean,23947.99
+2015,"Murcia, Región de",male,mean,23773.09
+2014,"Murcia, Región de",male,mean,23419.03
+2013,"Murcia, Región de",male,mean,23428.23
+2012,"Murcia, Región de",male,mean,23487.03
+2011,"Murcia, Región de",male,mean,23460.47
+2010,"Murcia, Región de",male,mean,23482.48
+2009,"Murcia, Región de",male,mean,22628.62
+2008,"Murcia, Región de",male,mean,21174.93
+2017,"Murcia, Región de",male,10th_percentile,11416.97
+2016,"Murcia, Región de",male,10th_percentile,10692.82
+2015,"Murcia, Región de",male,10th_percentile,11655.43
+2014,"Murcia, Región de",male,10th_percentile,10140.18
+2013,"Murcia, Región de",male,10th_percentile,10262.52
+2012,"Murcia, Región de",male,10th_percentile,10310.04
+2011,"Murcia, Región de",male,10th_percentile,10436.28
+2010,"Murcia, Región de",male,10th_percentile,11644.6
+2009,"Murcia, Región de",male,10th_percentile,10827.66
+2008,"Murcia, Región de",male,10th_percentile,11766.93
+2017,"Murcia, Región de",male,lower_quartile,15893.25
+2016,"Murcia, Región de",male,lower_quartile,14717.85
+2015,"Murcia, Región de",male,lower_quartile,15338.5
+2014,"Murcia, Región de",male,lower_quartile,14757.0
+2013,"Murcia, Región de",male,lower_quartile,14757.89
+2012,"Murcia, Región de",male,lower_quartile,14909.5
+2011,"Murcia, Región de",male,lower_quartile,14720.77
+2010,"Murcia, Región de",male,lower_quartile,14977.48
+2009,"Murcia, Región de",male,lower_quartile,14926.58
+2008,"Murcia, Región de",male,lower_quartile,14704.93
+2017,"Murcia, Región de",male,median,20015.75
+2016,"Murcia, Región de",male,median,19568.38
+2015,"Murcia, Región de",male,median,19485.36
+2014,"Murcia, Región de",male,median,19407.09
+2013,"Murcia, Región de",male,median,19430.9
+2012,"Murcia, Región de",male,median,19258.53
+2011,"Murcia, Región de",male,median,19155.1
+2010,"Murcia, Región de",male,median,19343.5
+2009,"Murcia, Región de",male,median,18578.36
+2008,"Murcia, Región de",male,median,17602.94
+2017,"Murcia, Región de",male,upper_quartile,28325.94
+2016,"Murcia, Región de",male,upper_quartile,28740.68
+2015,"Murcia, Región de",male,upper_quartile,28303.12
+2014,"Murcia, Región de",male,upper_quartile,29252.76
+2013,"Murcia, Región de",male,upper_quartile,27694.77
+2012,"Murcia, Región de",male,upper_quartile,27938.72
+2011,"Murcia, Región de",male,upper_quartile,28056.39
+2010,"Murcia, Región de",male,upper_quartile,27926.66
+2009,"Murcia, Región de",male,upper_quartile,27868.92
+2008,"Murcia, Región de",male,upper_quartile,24952.73
+2017,"Murcia, Región de",male,90th_percentile,40646.79
+2016,"Murcia, Región de",male,90th_percentile,42178.15
+2015,"Murcia, Región de",male,90th_percentile,40723.23
+2014,"Murcia, Región de",male,90th_percentile,40977.94
+2013,"Murcia, Región de",male,90th_percentile,40841.35
+2012,"Murcia, Región de",male,90th_percentile,41725.21
+2011,"Murcia, Región de",male,90th_percentile,41880.92
+2010,"Murcia, Región de",male,90th_percentile,40975.94
+2009,"Murcia, Región de",male,90th_percentile,39885.77
+2008,"Murcia, Región de",male,90th_percentile,35942.78
+2017,"Navarra, Comunidad Foral de",both,mean,26329.79
+2016,"Navarra, Comunidad Foral de",both,mean,25468.38
+2015,"Navarra, Comunidad Foral de",both,mean,24863.98
+2014,"Navarra, Comunidad Foral de",both,mean,24700.78
+2013,"Navarra, Comunidad Foral de",both,mean,23836.93
+2012,"Navarra, Comunidad Foral de",both,mean,23784.38
+2011,"Navarra, Comunidad Foral de",both,mean,24384.92
+2010,"Navarra, Comunidad Foral de",both,mean,23824.88
+2009,"Navarra, Comunidad Foral de",both,mean,23657.71
+2008,"Navarra, Comunidad Foral de",both,mean,23342.74
+2017,"Navarra, Comunidad Foral de",both,10th_percentile,10059.23
+2016,"Navarra, Comunidad Foral de",both,10th_percentile,9390.12
+2015,"Navarra, Comunidad Foral de",both,10th_percentile,8720.64
+2014,"Navarra, Comunidad Foral de",both,10th_percentile,9363.55
+2013,"Navarra, Comunidad Foral de",both,10th_percentile,8114.18
+2012,"Navarra, Comunidad Foral de",both,10th_percentile,8228.46
+2011,"Navarra, Comunidad Foral de",both,10th_percentile,8950.65
+2010,"Navarra, Comunidad Foral de",both,10th_percentile,9104.65
+2009,"Navarra, Comunidad Foral de",both,10th_percentile,8553.84
+2008,"Navarra, Comunidad Foral de",both,10th_percentile,9036.69
+2017,"Navarra, Comunidad Foral de",both,lower_quartile,16530.41
+2016,"Navarra, Comunidad Foral de",both,lower_quartile,15700.74
+2015,"Navarra, Comunidad Foral de",both,lower_quartile,15145.36
+2014,"Navarra, Comunidad Foral de",both,lower_quartile,15725.64
+2013,"Navarra, Comunidad Foral de",both,lower_quartile,14543.12
+2012,"Navarra, Comunidad Foral de",both,lower_quartile,15083.7
+2011,"Navarra, Comunidad Foral de",both,lower_quartile,15921.13
+2010,"Navarra, Comunidad Foral de",both,lower_quartile,15233.56
+2009,"Navarra, Comunidad Foral de",both,lower_quartile,16032.66
+2008,"Navarra, Comunidad Foral de",both,lower_quartile,15445.79
+2017,"Navarra, Comunidad Foral de",both,median,23450.74
+2016,"Navarra, Comunidad Foral de",both,median,22578.2
+2015,"Navarra, Comunidad Foral de",both,median,22423.62
+2014,"Navarra, Comunidad Foral de",both,median,22258.27
+2013,"Navarra, Comunidad Foral de",both,median,21360.9
+2012,"Navarra, Comunidad Foral de",both,median,21476.76
+2011,"Navarra, Comunidad Foral de",both,median,22511.4
+2010,"Navarra, Comunidad Foral de",both,median,21633.28
+2009,"Navarra, Comunidad Foral de",both,median,21482.41
+2008,"Navarra, Comunidad Foral de",both,median,21369.54
+2017,"Navarra, Comunidad Foral de",both,upper_quartile,33107.34
+2016,"Navarra, Comunidad Foral de",both,upper_quartile,32568.29
+2015,"Navarra, Comunidad Foral de",both,upper_quartile,31787.37
+2014,"Navarra, Comunidad Foral de",both,upper_quartile,31237.01
+2013,"Navarra, Comunidad Foral de",both,upper_quartile,30567.15
+2012,"Navarra, Comunidad Foral de",both,upper_quartile,30476.01
+2011,"Navarra, Comunidad Foral de",both,upper_quartile,31098.96
+2010,"Navarra, Comunidad Foral de",both,upper_quartile,29813.77
+2009,"Navarra, Comunidad Foral de",both,upper_quartile,30200.5
+2008,"Navarra, Comunidad Foral de",both,upper_quartile,29766.66
+2017,"Navarra, Comunidad Foral de",both,90th_percentile,43798.52
+2016,"Navarra, Comunidad Foral de",both,90th_percentile,43388.32
+2015,"Navarra, Comunidad Foral de",both,90th_percentile,42123.2
+2014,"Navarra, Comunidad Foral de",both,90th_percentile,40996.45
+2013,"Navarra, Comunidad Foral de",both,90th_percentile,40487.47
+2012,"Navarra, Comunidad Foral de",both,90th_percentile,39747.7
+2011,"Navarra, Comunidad Foral de",both,90th_percentile,40218.52
+2010,"Navarra, Comunidad Foral de",both,90th_percentile,38956.76
+2009,"Navarra, Comunidad Foral de",both,90th_percentile,38798.64
+2008,"Navarra, Comunidad Foral de",both,90th_percentile,37822.7
+2017,"Navarra, Comunidad Foral de",female,mean,21898.57
+2016,"Navarra, Comunidad Foral de",female,mean,20946.0
+2015,"Navarra, Comunidad Foral de",female,mean,20563.08
+2014,"Navarra, Comunidad Foral de",female,mean,20163.1
+2013,"Navarra, Comunidad Foral de",female,mean,19364.43
+2012,"Navarra, Comunidad Foral de",female,mean,19462.13
+2011,"Navarra, Comunidad Foral de",female,mean,19977.24
+2010,"Navarra, Comunidad Foral de",female,mean,19927.15
+2009,"Navarra, Comunidad Foral de",female,mean,19487.55
+2008,"Navarra, Comunidad Foral de",female,mean,19212.76
+2017,"Navarra, Comunidad Foral de",female,10th_percentile,8542.04
+2016,"Navarra, Comunidad Foral de",female,10th_percentile,7526.25
+2015,"Navarra, Comunidad Foral de",female,10th_percentile,6686.39
+2014,"Navarra, Comunidad Foral de",female,10th_percentile,7290.8
+2013,"Navarra, Comunidad Foral de",female,10th_percentile,6049.11
+2012,"Navarra, Comunidad Foral de",female,10th_percentile,6849.33
+2011,"Navarra, Comunidad Foral de",female,10th_percentile,7391.01
+2010,"Navarra, Comunidad Foral de",female,10th_percentile,7304.54
+2009,"Navarra, Comunidad Foral de",female,10th_percentile,6485.99
+2008,"Navarra, Comunidad Foral de",female,10th_percentile,7450.08
+2017,"Navarra, Comunidad Foral de",female,lower_quartile,13073.35
+2016,"Navarra, Comunidad Foral de",female,lower_quartile,12484.41
+2015,"Navarra, Comunidad Foral de",female,lower_quartile,11726.41
+2014,"Navarra, Comunidad Foral de",female,lower_quartile,11954.11
+2013,"Navarra, Comunidad Foral de",female,lower_quartile,11164.12
+2012,"Navarra, Comunidad Foral de",female,lower_quartile,11623.38
+2011,"Navarra, Comunidad Foral de",female,lower_quartile,12125.75
+2010,"Navarra, Comunidad Foral de",female,lower_quartile,12350.65
+2009,"Navarra, Comunidad Foral de",female,lower_quartile,11986.88
+2008,"Navarra, Comunidad Foral de",female,lower_quartile,12036.96
+2017,"Navarra, Comunidad Foral de",female,median,19740.36
+2016,"Navarra, Comunidad Foral de",female,median,19009.17
+2015,"Navarra, Comunidad Foral de",female,median,18597.38
+2014,"Navarra, Comunidad Foral de",female,median,18047.26
+2013,"Navarra, Comunidad Foral de",female,median,17667.6
+2012,"Navarra, Comunidad Foral de",female,median,17807.06
+2011,"Navarra, Comunidad Foral de",female,median,18480.46
+2010,"Navarra, Comunidad Foral de",female,median,18188.13
+2009,"Navarra, Comunidad Foral de",female,median,17933.01
+2008,"Navarra, Comunidad Foral de",female,median,17073.42
+2017,"Navarra, Comunidad Foral de",female,upper_quartile,27624.2
+2016,"Navarra, Comunidad Foral de",female,upper_quartile,26875.45
+2015,"Navarra, Comunidad Foral de",female,upper_quartile,26406.06
+2014,"Navarra, Comunidad Foral de",female,upper_quartile,26052.18
+2013,"Navarra, Comunidad Foral de",female,upper_quartile,24648.25
+2012,"Navarra, Comunidad Foral de",female,upper_quartile,24548.3
+2011,"Navarra, Comunidad Foral de",female,upper_quartile,25110.96
+2010,"Navarra, Comunidad Foral de",female,upper_quartile,25260.11
+2009,"Navarra, Comunidad Foral de",female,upper_quartile,24633.33
+2008,"Navarra, Comunidad Foral de",female,upper_quartile,23829.72
+2017,"Navarra, Comunidad Foral de",female,90th_percentile,37860.34
+2016,"Navarra, Comunidad Foral de",female,90th_percentile,37321.89
+2015,"Navarra, Comunidad Foral de",female,90th_percentile,37045.66
+2014,"Navarra, Comunidad Foral de",female,90th_percentile,34914.94
+2013,"Navarra, Comunidad Foral de",female,90th_percentile,34231.07
+2012,"Navarra, Comunidad Foral de",female,90th_percentile,33819.46
+2011,"Navarra, Comunidad Foral de",female,90th_percentile,34593.47
+2010,"Navarra, Comunidad Foral de",female,90th_percentile,33636.19
+2009,"Navarra, Comunidad Foral de",female,90th_percentile,33599.46
+2008,"Navarra, Comunidad Foral de",female,90th_percentile,32223.95
+2017,"Navarra, Comunidad Foral de",male,mean,29699.1
+2016,"Navarra, Comunidad Foral de",male,mean,29098.99
+2015,"Navarra, Comunidad Foral de",male,mean,28727.37
+2014,"Navarra, Comunidad Foral de",male,mean,28659.74
+2013,"Navarra, Comunidad Foral de",male,mean,27848.15
+2012,"Navarra, Comunidad Foral de",male,mean,27632.8
+2011,"Navarra, Comunidad Foral de",male,mean,27834.48
+2010,"Navarra, Comunidad Foral de",male,mean,26982.49
+2009,"Navarra, Comunidad Foral de",male,mean,26755.77
+2008,"Navarra, Comunidad Foral de",male,mean,26635.75
+2017,"Navarra, Comunidad Foral de",male,10th_percentile,13480.12
+2016,"Navarra, Comunidad Foral de",male,10th_percentile,12714.2
+2015,"Navarra, Comunidad Foral de",male,10th_percentile,12872.12
+2014,"Navarra, Comunidad Foral de",male,10th_percentile,13266.96
+2013,"Navarra, Comunidad Foral de",male,10th_percentile,11608.35
+2012,"Navarra, Comunidad Foral de",male,10th_percentile,12116.83
+2011,"Navarra, Comunidad Foral de",male,10th_percentile,13129.91
+2010,"Navarra, Comunidad Foral de",male,10th_percentile,11205.36
+2009,"Navarra, Comunidad Foral de",male,10th_percentile,13783.34
+2008,"Navarra, Comunidad Foral de",male,10th_percentile,13438.94
+2017,"Navarra, Comunidad Foral de",male,lower_quartile,20017.26
+2016,"Navarra, Comunidad Foral de",male,lower_quartile,19078.73
+2015,"Navarra, Comunidad Foral de",male,lower_quartile,19416.95
+2014,"Navarra, Comunidad Foral de",male,lower_quartile,19989.76
+2013,"Navarra, Comunidad Foral de",male,lower_quartile,18769.29
+2012,"Navarra, Comunidad Foral de",male,lower_quartile,19226.93
+2011,"Navarra, Comunidad Foral de",male,lower_quartile,19732.6
+2010,"Navarra, Comunidad Foral de",male,lower_quartile,18593.62
+2009,"Navarra, Comunidad Foral de",male,lower_quartile,18991.4
+2008,"Navarra, Comunidad Foral de",male,lower_quartile,19000.94
+2017,"Navarra, Comunidad Foral de",male,median,26794.06
+2016,"Navarra, Comunidad Foral de",male,median,26322.04
+2015,"Navarra, Comunidad Foral de",male,median,26137.94
+2014,"Navarra, Comunidad Foral de",male,median,25900.32
+2013,"Navarra, Comunidad Foral de",male,median,25734.01
+2012,"Navarra, Comunidad Foral de",male,median,25401.59
+2011,"Navarra, Comunidad Foral de",male,median,25869.34
+2010,"Navarra, Comunidad Foral de",male,median,24699.19
+2009,"Navarra, Comunidad Foral de",male,median,24499.72
+2008,"Navarra, Comunidad Foral de",male,median,24983.72
+2017,"Navarra, Comunidad Foral de",male,upper_quartile,36590.82
+2016,"Navarra, Comunidad Foral de",male,upper_quartile,36113.63
+2015,"Navarra, Comunidad Foral de",male,upper_quartile,35331.91
+2014,"Navarra, Comunidad Foral de",male,upper_quartile,34919.77
+2013,"Navarra, Comunidad Foral de",male,upper_quartile,34505.92
+2012,"Navarra, Comunidad Foral de",male,upper_quartile,34224.48
+2011,"Navarra, Comunidad Foral de",male,upper_quartile,34223.45
+2010,"Navarra, Comunidad Foral de",male,upper_quartile,32534.65
+2009,"Navarra, Comunidad Foral de",male,upper_quartile,32785.52
+2008,"Navarra, Comunidad Foral de",male,upper_quartile,32498.86
+2017,"Navarra, Comunidad Foral de",male,90th_percentile,46927.07
+2016,"Navarra, Comunidad Foral de",male,90th_percentile,46918.59
+2015,"Navarra, Comunidad Foral de",male,90th_percentile,45693.03
+2014,"Navarra, Comunidad Foral de",male,90th_percentile,45553.64
+2013,"Navarra, Comunidad Foral de",male,90th_percentile,44753.27
+2012,"Navarra, Comunidad Foral de",male,90th_percentile,43829.6
+2011,"Navarra, Comunidad Foral de",male,90th_percentile,43372.68
+2010,"Navarra, Comunidad Foral de",male,90th_percentile,42081.96
+2009,"Navarra, Comunidad Foral de",male,90th_percentile,41681.34
+2008,"Navarra, Comunidad Foral de",male,90th_percentile,40321.34
+2017,País Vasco,both,mean,28204.49
+2016,País Vasco,both,mean,27480.71
+2015,País Vasco,both,mean,27571.31
+2014,País Vasco,both,mean,27786.57
+2013,País Vasco,both,mean,26915.07
+2012,País Vasco,both,mean,26535.61
+2011,País Vasco,both,mean,26370.36
+2010,País Vasco,both,mean,26593.7
+2009,País Vasco,both,mean,26162.45
+2008,País Vasco,both,mean,25547.13
+2017,País Vasco,both,10th_percentile,10126.72
+2016,País Vasco,both,10th_percentile,9549.97
+2015,País Vasco,both,10th_percentile,9876.0
+2014,País Vasco,both,10th_percentile,9087.11
+2013,País Vasco,both,10th_percentile,9397.69
+2012,País Vasco,both,10th_percentile,9057.48
+2011,País Vasco,both,10th_percentile,9596.42
+2010,País Vasco,both,10th_percentile,9725.86
+2009,País Vasco,both,10th_percentile,10248.5
+2008,País Vasco,both,10th_percentile,9996.0
+2017,País Vasco,both,lower_quartile,16997.0
+2016,País Vasco,both,lower_quartile,16233.05
+2015,País Vasco,both,lower_quartile,16617.8
+2014,País Vasco,both,lower_quartile,16780.23
+2013,País Vasco,both,lower_quartile,15951.23
+2012,País Vasco,both,lower_quartile,16379.11
+2011,País Vasco,both,lower_quartile,16552.0
+2010,País Vasco,both,lower_quartile,16544.33
+2009,País Vasco,both,lower_quartile,16400.34
+2008,País Vasco,both,lower_quartile,15984.69
+2017,País Vasco,both,median,25584.0
+2016,País Vasco,both,median,24939.0
+2015,País Vasco,both,median,25171.7
+2014,País Vasco,both,median,25600.93
+2013,País Vasco,both,median,23728.74
+2012,País Vasco,both,median,23974.14
+2011,País Vasco,both,median,24197.46
+2010,País Vasco,both,median,23799.14
+2009,País Vasco,both,median,23855.99
+2008,País Vasco,both,median,23143.68
+2017,País Vasco,both,upper_quartile,36944.0
+2016,País Vasco,both,upper_quartile,36137.22
+2015,País Vasco,both,upper_quartile,35972.97
+2014,País Vasco,both,upper_quartile,36831.9
+2013,País Vasco,both,upper_quartile,35099.3
+2012,País Vasco,both,upper_quartile,34568.08
+2011,País Vasco,both,upper_quartile,34694.0
+2010,País Vasco,both,upper_quartile,34350.63
+2009,País Vasco,both,upper_quartile,34052.95
+2008,País Vasco,both,upper_quartile,32833.2
+2017,País Vasco,both,90th_percentile,46946.0
+2016,País Vasco,both,90th_percentile,46823.0
+2015,País Vasco,both,90th_percentile,45838.61
+2014,País Vasco,both,90th_percentile,47126.71
+2013,País Vasco,both,90th_percentile,45945.0
+2012,País Vasco,both,90th_percentile,44429.25
+2011,País Vasco,both,90th_percentile,42912.74
+2010,País Vasco,both,90th_percentile,45612.02
+2009,País Vasco,both,90th_percentile,43083.24
+2008,País Vasco,both,90th_percentile,42336.35
+2017,País Vasco,female,mean,24165.97
+2016,País Vasco,female,mean,23428.18
+2015,País Vasco,female,mean,23537.06
+2014,País Vasco,female,mean,23781.55
+2013,País Vasco,female,mean,22687.39
+2012,País Vasco,female,mean,22313.41
+2011,País Vasco,female,mean,22449.59
+2010,País Vasco,female,mean,22706.1
+2009,País Vasco,female,mean,22502.47
+2008,País Vasco,female,mean,21766.07
+2017,País Vasco,female,10th_percentile,7765.0
+2016,País Vasco,female,10th_percentile,7336.21
+2015,País Vasco,female,10th_percentile,7603.0
+2014,País Vasco,female,10th_percentile,7211.7
+2013,País Vasco,female,10th_percentile,7888.84
+2012,País Vasco,female,10th_percentile,7552.78
+2011,País Vasco,female,10th_percentile,7679.88
+2010,País Vasco,female,10th_percentile,8475.77
+2009,País Vasco,female,10th_percentile,8635.48
+2008,País Vasco,female,10th_percentile,8362.43
+2017,País Vasco,female,lower_quartile,13515.58
+2016,País Vasco,female,lower_quartile,12796.19
+2015,País Vasco,female,lower_quartile,12844.93
+2014,País Vasco,female,lower_quartile,12577.12
+2013,País Vasco,female,lower_quartile,12729.73
+2012,País Vasco,female,lower_quartile,12514.09
+2011,País Vasco,female,lower_quartile,13165.26
+2010,País Vasco,female,lower_quartile,13001.53
+2009,País Vasco,female,lower_quartile,12940.86
+2008,País Vasco,female,lower_quartile,12998.43
+2017,País Vasco,female,median,21242.12
+2016,País Vasco,female,median,20464.68
+2015,País Vasco,female,median,20504.0
+2014,País Vasco,female,median,21358.92
+2013,País Vasco,female,median,19576.9
+2012,País Vasco,female,median,19640.0
+2011,País Vasco,female,median,19707.94
+2010,País Vasco,female,median,19447.42
+2009,País Vasco,female,median,19422.02
+2008,País Vasco,female,median,18774.61
+2017,País Vasco,female,upper_quartile,32268.87
+2016,País Vasco,female,upper_quartile,31615.8
+2015,País Vasco,female,upper_quartile,31624.25
+2014,País Vasco,female,upper_quartile,32371.18
+2013,País Vasco,female,upper_quartile,29749.52
+2012,País Vasco,female,upper_quartile,29591.0
+2011,País Vasco,female,upper_quartile,30201.9
+2010,País Vasco,female,upper_quartile,30016.19
+2009,País Vasco,female,upper_quartile,30479.78
+2008,País Vasco,female,upper_quartile,28657.13
+2017,País Vasco,female,90th_percentile,43024.0
+2016,País Vasco,female,90th_percentile,42445.44
+2015,País Vasco,female,90th_percentile,42032.18
+2014,País Vasco,female,90th_percentile,42783.8
+2013,País Vasco,female,90th_percentile,41108.4
+2012,País Vasco,female,90th_percentile,39720.05
+2011,País Vasco,female,90th_percentile,38781.38
+2010,País Vasco,female,90th_percentile,41079.78
+2009,País Vasco,female,90th_percentile,39870.65
+2008,País Vasco,female,90th_percentile,37045.65
+2017,País Vasco,male,mean,31618.97
+2016,País Vasco,male,mean,31001.21
+2015,País Vasco,male,mean,31088.99
+2014,País Vasco,male,mean,31271.0
+2013,País Vasco,male,mean,30312.55
+2012,País Vasco,male,mean,30084.89
+2011,País Vasco,male,mean,29492.66
+2010,País Vasco,male,mean,29708.66
+2009,País Vasco,male,mean,28889.92
+2008,País Vasco,male,mean,28264.0
+2017,País Vasco,male,10th_percentile,14000.0
+2016,País Vasco,male,10th_percentile,12622.4
+2015,País Vasco,male,10th_percentile,14159.88
+2014,País Vasco,male,10th_percentile,12489.4
+2013,País Vasco,male,10th_percentile,11750.52
+2012,País Vasco,male,10th_percentile,12800.77
+2011,País Vasco,male,10th_percentile,13774.56
+2010,País Vasco,male,10th_percentile,13965.41
+2009,País Vasco,male,10th_percentile,14192.58
+2008,País Vasco,male,10th_percentile,13320.0
+2017,País Vasco,male,lower_quartile,20814.0
+2016,País Vasco,male,lower_quartile,19951.2
+2015,País Vasco,male,lower_quartile,20459.28
+2014,País Vasco,male,lower_quartile,20349.13
+2013,País Vasco,male,lower_quartile,19256.31
+2012,País Vasco,male,lower_quartile,19876.94
+2011,País Vasco,male,lower_quartile,19679.7
+2010,País Vasco,male,lower_quartile,19553.56
+2009,País Vasco,male,lower_quartile,19324.52
+2008,País Vasco,male,lower_quartile,19086.06
+2017,País Vasco,male,median,29027.07
+2016,País Vasco,male,median,28419.15
+2015,País Vasco,male,median,28529.0
+2014,País Vasco,male,median,28799.94
+2013,País Vasco,male,median,27412.35
+2012,País Vasco,male,median,27896.6
+2011,País Vasco,male,median,27488.7
+2010,País Vasco,male,median,27126.19
+2009,País Vasco,male,median,26269.99
+2008,País Vasco,male,median,25863.81
+2017,País Vasco,male,upper_quartile,40001.09
+2016,País Vasco,male,upper_quartile,39302.64
+2015,País Vasco,male,upper_quartile,39140.08
+2014,País Vasco,male,upper_quartile,39559.91
+2013,País Vasco,male,upper_quartile,38470.0
+2012,País Vasco,male,upper_quartile,37457.45
+2011,País Vasco,male,upper_quartile,37241.01
+2010,País Vasco,male,upper_quartile,36870.47
+2009,País Vasco,male,upper_quartile,36052.56
+2008,País Vasco,male,upper_quartile,35508.0
+2017,País Vasco,male,90th_percentile,50433.48
+2016,País Vasco,male,90th_percentile,50071.23
+2015,País Vasco,male,90th_percentile,49287.21
+2014,País Vasco,male,90th_percentile,51058.09
+2013,País Vasco,male,90th_percentile,50404.82
+2012,País Vasco,male,90th_percentile,48245.99
+2011,País Vasco,male,90th_percentile,46361.97
+2010,País Vasco,male,90th_percentile,48413.67
+2009,País Vasco,male,90th_percentile,45531.43
+2008,País Vasco,male,90th_percentile,45024.0
+2017,"Rioja, La",both,mean,22234.21
+2016,"Rioja, La",both,mean,21999.02
+2015,"Rioja, La",both,mean,21756.79
+2014,"Rioja, La",both,mean,21954.1
+2013,"Rioja, La",both,mean,20628.81
+2012,"Rioja, La",both,mean,20346.24
+2011,"Rioja, La",both,mean,20996.76
+2010,"Rioja, La",both,mean,21035.86
+2009,"Rioja, La",both,mean,21179.93
+2008,"Rioja, La",both,mean,20674.16
+2017,"Rioja, La",both,10th_percentile,8389.56
+2016,"Rioja, La",both,10th_percentile,8116.12
+2015,"Rioja, La",both,10th_percentile,7519.28
+2014,"Rioja, La",both,10th_percentile,7937.79
+2013,"Rioja, La",both,10th_percentile,7139.23
+2012,"Rioja, La",both,10th_percentile,7539.29
+2011,"Rioja, La",both,10th_percentile,8163.78
+2010,"Rioja, La",both,10th_percentile,8196.91
+2009,"Rioja, La",both,10th_percentile,8803.96
+2008,"Rioja, La",both,10th_percentile,8604.54
+2017,"Rioja, La",both,lower_quartile,13717.73
+2016,"Rioja, La",both,lower_quartile,13830.08
+2015,"Rioja, La",both,lower_quartile,13817.14
+2014,"Rioja, La",both,lower_quartile,14027.8
+2013,"Rioja, La",both,lower_quartile,12762.86
+2012,"Rioja, La",both,lower_quartile,12728.06
+2011,"Rioja, La",both,lower_quartile,13390.08
+2010,"Rioja, La",both,lower_quartile,13360.5
+2009,"Rioja, La",both,lower_quartile,14194.56
+2008,"Rioja, La",both,lower_quartile,13771.38
+2017,"Rioja, La",both,median,19539.48
+2016,"Rioja, La",both,median,19507.74
+2015,"Rioja, La",both,median,19136.19
+2014,"Rioja, La",both,median,19049.29
+2013,"Rioja, La",both,median,17764.74
+2012,"Rioja, La",both,median,17897.06
+2011,"Rioja, La",both,median,18615.48
+2010,"Rioja, La",both,median,18632.33
+2009,"Rioja, La",both,median,18562.9
+2008,"Rioja, La",both,median,17826.9
+2017,"Rioja, La",both,upper_quartile,27128.63
+2016,"Rioja, La",both,upper_quartile,26549.41
+2015,"Rioja, La",both,upper_quartile,26421.87
+2014,"Rioja, La",both,upper_quartile,27086.27
+2013,"Rioja, La",both,upper_quartile,24738.01
+2012,"Rioja, La",both,upper_quartile,24831.2
+2011,"Rioja, La",both,upper_quartile,25597.73
+2010,"Rioja, La",both,upper_quartile,25442.22
+2009,"Rioja, La",both,upper_quartile,25283.07
+2008,"Rioja, La",both,upper_quartile,24455.89
+2017,"Rioja, La",both,90th_percentile,38887.91
+2016,"Rioja, La",both,90th_percentile,38403.19
+2015,"Rioja, La",both,90th_percentile,37930.89
+2014,"Rioja, La",both,90th_percentile,38226.87
+2013,"Rioja, La",both,90th_percentile,35744.94
+2012,"Rioja, La",both,90th_percentile,35007.44
+2011,"Rioja, La",both,90th_percentile,35940.42
+2010,"Rioja, La",both,90th_percentile,36600.81
+2009,"Rioja, La",both,90th_percentile,36361.38
+2008,"Rioja, La",both,90th_percentile,35549.19
+2017,"Rioja, La",female,mean,19353.55
+2016,"Rioja, La",female,mean,19047.2
+2015,"Rioja, La",female,mean,18762.15
+2014,"Rioja, La",female,mean,18959.85
+2013,"Rioja, La",female,mean,17435.56
+2012,"Rioja, La",female,mean,17486.66
+2011,"Rioja, La",female,mean,18328.41
+2010,"Rioja, La",female,mean,18131.05
+2009,"Rioja, La",female,mean,18702.22
+2008,"Rioja, La",female,mean,18364.2
+2017,"Rioja, La",female,10th_percentile,6985.17
+2016,"Rioja, La",female,10th_percentile,6528.3
+2015,"Rioja, La",female,10th_percentile,6018.78
+2014,"Rioja, La",female,10th_percentile,6238.44
+2013,"Rioja, La",female,10th_percentile,6924.7
+2012,"Rioja, La",female,10th_percentile,6807.08
+2011,"Rioja, La",female,10th_percentile,6781.84
+2010,"Rioja, La",female,10th_percentile,6914.22
+2009,"Rioja, La",female,10th_percentile,6761.42
+2008,"Rioja, La",female,10th_percentile,6561.38
+2017,"Rioja, La",female,lower_quartile,11089.16
+2016,"Rioja, La",female,lower_quartile,11026.54
+2015,"Rioja, La",female,lower_quartile,10796.71
+2014,"Rioja, La",female,lower_quartile,11314.27
+2013,"Rioja, La",female,lower_quartile,10751.62
+2012,"Rioja, La",female,lower_quartile,10313.51
+2011,"Rioja, La",female,lower_quartile,10973.09
+2010,"Rioja, La",female,lower_quartile,10950.0
+2009,"Rioja, La",female,lower_quartile,11762.2
+2008,"Rioja, La",female,lower_quartile,10949.31
+2017,"Rioja, La",female,median,16395.19
+2016,"Rioja, La",female,median,16648.52
+2015,"Rioja, La",female,median,16342.7
+2014,"Rioja, La",female,median,16134.6
+2013,"Rioja, La",female,median,15319.33
+2012,"Rioja, La",female,median,15069.41
+2011,"Rioja, La",female,median,15288.72
+2010,"Rioja, La",female,median,15653.58
+2009,"Rioja, La",female,median,16011.14
+2008,"Rioja, La",female,median,15450.58
+2017,"Rioja, La",female,upper_quartile,24633.54
+2016,"Rioja, La",female,upper_quartile,23813.08
+2015,"Rioja, La",female,upper_quartile,23686.39
+2014,"Rioja, La",female,upper_quartile,24053.44
+2013,"Rioja, La",female,upper_quartile,21258.98
+2012,"Rioja, La",female,upper_quartile,22068.6
+2011,"Rioja, La",female,upper_quartile,23266.58
+2010,"Rioja, La",female,upper_quartile,22202.6
+2009,"Rioja, La",female,upper_quartile,22536.54
+2008,"Rioja, La",female,upper_quartile,21894.92
+2017,"Rioja, La",female,90th_percentile,35086.95
+2016,"Rioja, La",female,90th_percentile,34044.34
+2015,"Rioja, La",female,90th_percentile,34279.46
+2014,"Rioja, La",female,90th_percentile,34817.38
+2013,"Rioja, La",female,90th_percentile,30932.2
+2012,"Rioja, La",female,90th_percentile,29504.55
+2011,"Rioja, La",female,90th_percentile,33201.84
+2010,"Rioja, La",female,90th_percentile,33250.65
+2009,"Rioja, La",female,90th_percentile,33922.38
+2008,"Rioja, La",female,90th_percentile,33402.97
+2017,"Rioja, La",male,mean,24820.49
+2016,"Rioja, La",male,mean,24653.37
+2015,"Rioja, La",male,mean,24532.64
+2014,"Rioja, La",male,mean,24814.25
+2013,"Rioja, La",male,mean,23641.12
+2012,"Rioja, La",male,mean,23097.08
+2011,"Rioja, La",male,mean,23512.09
+2010,"Rioja, La",male,mean,23641.44
+2009,"Rioja, La",male,mean,23240.0
+2008,"Rioja, La",male,mean,22549.68
+2017,"Rioja, La",male,10th_percentile,12200.78
+2016,"Rioja, La",male,10th_percentile,11769.53
+2015,"Rioja, La",male,10th_percentile,12865.75
+2014,"Rioja, La",male,10th_percentile,12894.07
+2013,"Rioja, La",male,10th_percentile,9439.35
+2012,"Rioja, La",male,10th_percentile,9617.58
+2011,"Rioja, La",male,10th_percentile,11757.58
+2010,"Rioja, La",male,10th_percentile,11992.32
+2009,"Rioja, La",male,10th_percentile,12781.15
+2008,"Rioja, La",male,10th_percentile,12602.95
+2017,"Rioja, La",male,lower_quartile,16997.73
+2016,"Rioja, La",male,lower_quartile,16879.66
+2015,"Rioja, La",male,lower_quartile,16624.9
+2014,"Rioja, La",male,lower_quartile,16614.85
+2013,"Rioja, La",male,lower_quartile,15063.43
+2012,"Rioja, La",male,lower_quartile,15387.11
+2011,"Rioja, La",male,lower_quartile,16217.0
+2010,"Rioja, La",male,lower_quartile,16206.31
+2009,"Rioja, La",male,lower_quartile,16108.09
+2008,"Rioja, La",male,lower_quartile,15874.8
+2017,"Rioja, La",male,median,21534.49
+2016,"Rioja, La",male,median,21335.07
+2015,"Rioja, La",male,median,21344.0
+2014,"Rioja, La",male,median,21230.26
+2013,"Rioja, La",male,median,19887.99
+2012,"Rioja, La",male,median,20229.41
+2011,"Rioja, La",male,median,20595.07
+2010,"Rioja, La",male,median,20413.18
+2009,"Rioja, La",male,median,20019.66
+2008,"Rioja, La",male,median,19392.13
+2017,"Rioja, La",male,upper_quartile,28845.24
+2016,"Rioja, La",male,upper_quartile,29093.43
+2015,"Rioja, La",male,upper_quartile,29318.58
+2014,"Rioja, La",male,upper_quartile,30343.17
+2013,"Rioja, La",male,upper_quartile,27398.02
+2012,"Rioja, La",male,upper_quartile,27360.1
+2011,"Rioja, La",male,upper_quartile,27453.24
+2010,"Rioja, La",male,upper_quartile,27084.72
+2009,"Rioja, La",male,upper_quartile,26865.55
+2008,"Rioja, La",male,upper_quartile,25979.36
+2017,"Rioja, La",male,90th_percentile,41797.33
+2016,"Rioja, La",male,90th_percentile,41735.23
+2015,"Rioja, La",male,90th_percentile,40387.73
+2014,"Rioja, La",male,90th_percentile,41801.26
+2013,"Rioja, La",male,90th_percentile,39722.18
+2012,"Rioja, La",male,90th_percentile,39861.33
+2011,"Rioja, La",male,90th_percentile,38106.71
+2010,"Rioja, La",male,90th_percentile,39760.46
+2009,"Rioja, La",male,90th_percentile,37994.4
+2008,"Rioja, La",male,90th_percentile,37080.55
