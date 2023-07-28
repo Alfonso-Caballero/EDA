@@ -15,7 +15,7 @@ This repository includes the following:
 
 2. **Data Spain / France**: The datasets used in this analysis are available for download. They include information on company names, job positions, offered salaries, overall ratings, and sectors for both Spain and France, obtained by web-scraping "https://www.glassdoor.es/".
    
-3.  **Data Spain Salary Distribution**: The information of salary distribution in spain was downloaded from "https://www.kaggle.com/datasets/jtljtl/spain-salary-distribution".
+3.  **Data Spain Salary Distribution**: The information of salary distribution in Spain was downloaded from "https://www.kaggle.com/datasets/jtljtl/spain-salary-distribution".
 
 ## How to Use
 
