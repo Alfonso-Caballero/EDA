@@ -13,7 +13,9 @@ This repository includes the following:
 
 1. **Code**: The code files are available for your reference. You can explore the step-by-step analysis, data manipulation, and visualizations implemented during the EDA process.
 
-2. **Data Files**: The datasets used in this analysis are available for download. They include information on company names, job positions, offered salaries, overall ratings, and sectors for both Spain and France, obtained web-scraping "https://www.glassdoor.es/" and the information of salary distribution in spain was downloaded from Kaggle.
+2. **Data Spain / France**: The datasets used in this analysis are available for download. They include information on company names, job positions, offered salaries, overall ratings, and sectors for both Spain and France, obtained by web-scraping "https://www.glassdoor.es/".
+   
+3.  **Data Spain Salary Distribution**: The information of salary distribution in spain was downloaded from "https://www.kaggle.com/datasets/jtljtl/spain-salary-distribution".
 
 ## How to Use
 
