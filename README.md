@@ -25,12 +25,12 @@ Feel free to explore the code files and download the datasets to gain insights i
 
 If you spot any issues related to the code or have suggestions for improvements, you are welcome to contribute by opening an issue or submitting a pull request.
 
-By,
-
-**Alfonso Caballero**
-
 ## Acknowledgments
 
 We want to express our gratitude to the data sources for providing valuable datasets for this analysis.
 
 Thank you for visiting our repository and exploring the Comparative Analysis of Companies: Spain vs. France EDA project. We hope you find the code and datasets useful for your own exploratory data projects.
+
+By,
+
+**Alfonso Caballero**
