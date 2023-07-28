@@ -32,11 +32,11 @@ if __name__ == '__main__':
     df_f_clean = clean_data(df_f_unique)
     df_s_clean = clean_data(df_s_unique)
     df_s_clean = df_s_clean.loc[df_s_clean["Sector"] != "N/D"]
-    # df_s_clean.to_excel("final_datasets(xlsx)/clean_spain.xlsx")
-    # df_f_unique.to_excel("final_datasets(xlsx)/clean_france.xlsx")
+    # df_s_clean.to_excel("final_datasets(xlsx)/clean_spain_glassdoor.xlsx")
+    # df_f_unique.to_excel("final_datasets(xlsx)/clean_france_glassdoor.xlsx")
     df_merged = pd.merge(df_s_clean, df_f_clean, how="inner", on=["Empleo", "Empresa"], suffixes=("_España", "_Francia"))
     df_merged.drop(["index_Francia", "index_España", "Sector_Francia"], axis=1, inplace=True)
     df_merged.rename(columns={"Sector_España": "Sector"}, inplace=True)
     print(df_merged)
-    # df_merged.to_excel("final_datasets(xlsx)/clean_s_f.xlsx")
+    # df_merged.to_excel("final_datasets(xlsx)/clean_spain_france.xlsx")
 

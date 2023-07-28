@@ -6,5 +6,5 @@ df.gross_income_euros = df.gross_income_euros.apply(lambda x: str(int(x)))
 
 
 # df.to_csv("prefab-dataset/spain_salary_clean.csv")
-# df.to_excel("final_datasets(xlsx)/spain_salary_clean.xlsx")
+# df.to_excel("final_datasets(xlsx)/spain_salary_distribution_clean.xlsx")
 
